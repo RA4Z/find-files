@@ -1,0 +1,847 @@
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam:
+GR novo.pbix; 2021-06-18 15:50:09.124744
+GR novo_1.pbix; 2021-06-24 09:04:45.388314
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\00. Old:
+WEN_BH_AT.pbix; 2021-12-27 12:04:11.365910
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alisson\1.1. PCR WEN\PCR - Painel Power BI:
+GR - Mod. Vendas (Scatolin).pbix; 2023-01-24 12:56:16.189590
+Mod Produto WEN (Alisson).pbix; 2023-01-25 17:37:00.261539
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\WSB\Fluxo de máquinas de serivços:
+Serviços SBC Modificado.pbix; 2024-02-08 13:21:07.273495
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\WSB\GR Compras:
+GR Compras.pbix; 2024-02-08 15:42:30.886920
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Power BI:
+Estoque de projetos.pbix; 2023-06-27 09:04:41.658166
+Estoque programadores.pbix; 2023-06-30 09:51:29.124060
+Teste 1.pbix; 2023-03-28 12:31:15.897559
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques:
+Calculos_estoque_por_centro.pbix; 2022-02-09 09:45:36.539216
+maquina x estoque.pbix; 2022-02-10 16:15:30.915656
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 1201:
+Calculos_estoque_1201.pbix; 2022-02-09 10:17:58.888834
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 3200:
+Calculos_estoque_1201.pbix; 2022-02-10 09:43:29.039368
+Calculos_estoque_3200.pbix; 2022-02-10 09:49:15.489725
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 6200:
+Calculos_estoque_6200.pbix; 2022-02-22 15:04:39.366830
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Ordens apontadas no estoque:
+Quantidade de dias no estoque.pbix; 2022-02-23 14:44:47.011781
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Quantidade Programada 1201 3200 6200:
+Data de inicio programada.pbix; 2022-02-23 15:50:16.282874
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2023\Comissão de estoques\2023-07 - Aprovado em diretoria:
+Estoque semanal.pbix; 2023-05-02 16:26:01.182155
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cestari Dashboard:
+Indicador da Expedição.pbix; 2022-04-29 09:46:55.778676
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI:
+WEG1.pbix; 2023-03-27 17:27:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Bônus\1. Vendas x Meta:
+Curso Negócios - Vendas x Meta v2.pbix; 2023-03-27 17:25:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Bônus\Dashboard Inventário:
+DashboardControleInventário.pbix; 2023-03-27 17:26:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Bônus\Modelos:
+AdventureWorks_Finance.pbix; 2023-03-27 17:26:00
+Dashboard RH.pbix; 2023-03-27 17:26:00
+DashboardVendas2.pbix; 2023-03-27 17:26:00
+DashboardVendascommenu.pbix; 2023-03-27 17:26:00
+Human Resources Sample PBIX.pbix; 2023-03-27 17:26:00
+IT Spend Analysis Sample PBIX.pbix; 2023-03-27 17:26:00
+Layouts - 1280 x 720 - Sunset - Demo.pbix; 2023-03-27 17:26:00
+Microsoft Theme Sept 18 - Demo.pbix; 2023-03-27 17:26:00
+Power BI - Formatacao Condicional.pbix; 2023-03-27 17:26:00
+Restaurantes_Dashboard_publico.pbix; 2023-03-27 17:26:00
+Sales and Marketing Sample PBIX.pbix; 2023-03-27 17:26:00
+Show MTD, QTD , YTD Calculations To Current Date in Power BI wDAX.pbix; 2023-03-27 17:26:00
+Time Intelligence.pbix; 2023-03-27 17:26:00
+Understanding Your Customer Better.pbix; 2023-03-27 17:26:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Exercícios\Exercicio 1 - Importar de Varias Planilhas:
+Consolidado.pbix; 2023-03-27 17:26:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Exercícios\Exercício 2 - Importar Vários Arquivos:
+ImportarCSV.pbix; 2023-03-27 17:26:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Exercícios\Exercício 3 - Importar de Pasta:
+pasta.pbix; 2023-03-27 17:27:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cursos-materiais-capacitacoes\Curso Power BI\Modelos Prontos:
+BP_heat_airbnb.pbix; 2023-03-27 17:27:00
+DashboardControleInventário.pbix; 2023-03-27 17:27:00
+Dashboard_Estoque.pbix; 2023-03-27 17:27:00
+Introduction to M Programming for the Power BI Warrior.pbix; 2023-03-27 17:27:00
+Sales Top Other.pbix; 2023-03-27 17:27:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco:
+estoques_120.pbix; 2021-04-08 16:42:15.820920
+selecao_estoque.pbix; 2021-04-13 16:20:14.013258
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\'       jj:
+JGSxSBC.pbix; 2021-09-03 10:15:17.042559
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\'      thiagofortunato:
+JGSxSBC.pbix; 2021-08-31 15:34:00.392869
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise compras\'      jj:
+JGSxSBC.pbix; 2021-09-15 14:22:29.658643
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise compras\'new:
+Análise WEN BR - WMO BR.pbix; 2022-03-08 14:53:14.357236
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise compras\WEN:
+WENxWMO.pbix; 2021-09-30 11:28:36.963182
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise compras_novembro:
+Análise 1200 - 1201.pbix; 2021-12-06 14:14:34.869607
+Análise WEN BR - WMO BR.pbix; 2021-12-06 13:50:07.433247
+Graficos_para_relatorio.pbix; 2021-12-14 13:13:01.240143
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise compras_novembro\'piresm:
+WEN - Novembro 2021.pbix; 2021-11-24 14:06:24.987276
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise dolar:
+Analise_evolucao_custo.pbix; 2022-08-23 16:26:20.118370
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise final compras:
+Todos_os_centros_dez.pbix; 2021-12-13 09:04:42.302225
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\analise uti:
+Analise UTI.pbix; 2023-11-13 14:36:41.664982
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\ATE_Dezembro:
+Analise_compras_ate_dezembro.pbix; 2021-11-23 08:04:16.639761
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup:
+JGSxSBC.pbix; 2021-08-31 15:34:00.392869
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup\11 - Kanban digital:
+Kanban_Protótipo.pbix; 2021-12-22 15:58:13.491662
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Backup power bi valmir:
+Acompanhamento GR Cadeia de Ajuda.pbix; 2022-05-17 07:52:19.231774
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Backup Stock:
+Kanban_Protótipo.pbix; 2022-03-01 16:02:12.902402
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_30_03:
+analise_dados_sem_consumo.pbix; 2021-04-01 16:25:15.545514
+estoques_120.pbix; 2021-04-08 11:18:54.800036
+plan_real.pbix; 2021-04-05 14:24:31.278172
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_30_03\01_04:
+analise_geral.pbix; 2021-04-07 09:17:58.323066
+analise_sem_consumo.pbix; 2021-04-01 16:25:29.391761
+selecao_estoque.pbix; 2021-04-05 08:04:33.062123
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_30_03\base:
+base_dados.pbix; 2021-03-30 08:05:18.395709
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_30_03\planxreal:
+planxreal.pbix; 2021-03-30 15:16:15.843278
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_30_03\Sem consumo:
+analise_dados_sem_consumo.pbix; 2021-03-29 16:17:07.485379
+analise_sem_consumo.pbix; 2021-03-29 11:02:03.659232
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\backup_kanban:
+Kanban_Protótipo.pbix; 2022-03-03 12:47:51.834482
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Baixar Materiais:
+WEG1.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Baixar Materiais\Bônus\1. Vendas x Meta:
+Curso Negócios - Vendas x Meta v2.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Baixar Materiais\Exercícios\Exercicio 1 - Importar de Varias Planilhas:
+Consolidado.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Baixar Materiais\Exercícios\Exercício 2 - Importar Vários Arquivos:
+ImportarCSV.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Baixar Materiais\Exercícios\Exercício 3 - Importar de Pasta:
+pasta.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\base:
+base_dados.pbix; 2021-03-24 10:53:39.165188
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Beatriz:
+Reduzido 12 meses - 02.02.2023.pbix; 2023-03-02 15:55:48.204354
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Ciclo na montagem:
+ciclo_montagem.pbix; 2023-08-23 16:22:43.528786
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Ciclo na montagem\Backup:
+ciclo_montagem.pbix; 2023-08-18 10:42:47.711612
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Ciclo na montagem\Backup\08.21:
+ciclo_montagem.pbix; 2023-08-18 15:09:04.164904
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Cleansheets Chapa Extrema\Cleansheets Chapa Extrema:
+Chapas Extremas.pbix; 2022-11-08 16:42:58.143523
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\CM07:
+graficos.pbix; 2021-08-16 13:40:06.395435
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\colaboradores:
+colaboradores.pbix; 2021-06-28 15:01:58.173116
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros:
+analise.pbix; 2022-03-09 14:50:04.449090
+analise_WSB_JGS.pbix; 2022-05-06 13:37:34.810697
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\Abril:
+Análise WEN BR - WMO BR.pbix; 2022-05-05 09:57:49.816272
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\Fevereiro:
+Análise WEN BR - WMO BR.pbix; 2022-03-04 11:14:19.658621
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\JUNHO:
+Análise WEN BR - WMO BR Nova.pbix; 2023-07-19 14:10:49.502936
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\wen:
+Análise WEN BR - WMO BR Nova.pbix; 2022-05-10 16:00:44.193410
+Classificação Prodata - WEN.pbix; 2022-05-10 16:09:29.408558
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\WTEST:
+Análise WEN BR - WMO BR.pbix; 2022-04-04 15:37:36.272473
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\curso power bi\Baixar Materiais:
+WEG1.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\curso power bi\Baixar Materiais\Bônus\1. Vendas x Meta:
+Curso Negócios - Vendas x Meta v2.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\curso power bi\Baixar Materiais\Exercícios\Exercicio 1 - Importar de Varias Planilhas:
+Consolidado.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\curso power bi\Baixar Materiais\Exercícios\Exercício 2 - Importar Vários Arquivos:
+ImportarCSV.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\curso power bi\Baixar Materiais\Exercícios\Exercício 3 - Importar de Pasta:
+pasta.pbix; 2023-03-23 11:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Dashboard - Enviar\Dashboard - Enviar:
+JGS - follow up._2pbix.pbix; 2021-06-01 08:12:44
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Estoques_sem_consumo:
+stocks.pbix; 2021-06-09 07:54:57
+stocks_usd.pbix; 2021-06-10 10:05:16.404243
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Gemeos:
+Analise caixa.pbix; 2022-09-30 14:20:56.043655
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\GLOBAL - MATERIALS:
+Agosto - Análise WEN BR - WMO BR Nova.pbix; 2022-10-20 15:00:24.973370
+Junho - Análise WEN BR - WMO BR Nova.pbix; 2022-07-27 16:08:43.449455
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Impacto dolar:
+Evolucao_custo_planejado.pbix; 2022-04-20 09:31:45.566341
+impacto_dolar.pbix; 2022-04-14 07:35:10.095630
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Indicador WSB:
+indicador_WSB - Backup.pbix; 2023-12-12 15:39:32.721337
+indicador_WSB.pbix; 2024-02-14 09:45:17.772101
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\indicadores industriais:
+Planxrealizado.pbix; 2022-05-09 07:41:54.849004
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\JGSvsSBC\Análise:
+Analise.pbix; 2021-09-03 15:24:06.769971
+Comparative_analysis.pbix; 2021-09-01 15:04:43.517229
+JGSxSBC_alt.pbix; 2021-09-03 10:52:19.504863
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Levantamento - Reaproveitamento em outros centros:
+Reaproveitamento de materiais.pbix; 2023-08-01 15:21:39.093678
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Levantamento ferramenta de monitoramento:
+Analise_final_pcp.pbix; 2022-09-08 14:16:48.263631
+Analise_mes_1.pbix; 2022-06-14 16:47:19.062623
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Levantamento Suprimentos - Amanda:
+Relatório.pbix; 2022-06-29 14:32:09.526115
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Mestrado\Tópicos em Data Science:
+Analise_Exploratoria.pbix; 2023-08-14 13:18:49.248417
+Levantamento de dados.pbix; 2023-06-12 12:25:34.617515
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Montagem\Montagem\CM07:
+graficos.pbix; 2021-06-08 17:04:10.571865
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Multa fornecedor:
+Levantamento_Multa.pbix; 2022-12-01 15:16:57.141574
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Nordex:
+PROGRAMAÇÃO NORDEX.pbix; 2022-07-19 10:51:49.915984
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Painel:
+Proposta Painel.pbix; 2022-02-14 10:54:01.242713
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Power bi\Dataset_tutorial:
+Dados_inseridos.pbix; 2020-10-28 07:58:01.985407
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\teste:
+teste.pbix; 2021-06-02 16:41:15.527343
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\WII:
+relatorio.pbix; 2021-11-17 14:05:38.085796
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\WMOxWEN:
+WENxWMO.pbix; 2021-10-05 13:50:42.246599
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\WSB  - Pedidos em atraso:
+Pedidos_WSB.pbix; 2023-04-10 14:52:58.958820
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guilherme\Avaliação preliminar:
+analise preventiva.pbix; 2024-04-26 15:20:19.341076
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Controle de estoque:
+estoques_120.pbix; 2021-04-14 17:12:20.973178
+selecao_estoque.pbix; 2021-04-19 16:39:17.818745
+stocks -remanescentes.pbix; 2021-04-28 14:41:33.006242
+stocks.pbix; 2021-05-24 14:47:00.180624
+stocks_6200.pbix; 2021-05-11 15:49:23.867322
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\CRP\arquivo morto:
+CRP.pbix; 2021-02-26 14:35:50.663884
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\empilhadeiras:
+emp.pbix; 2021-07-28 17:01:35.124764
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Grafico_necessidades:
+necessidade_resumo.pbix; 2021-08-24 13:21:41.056822
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\ACOMPANHAMENTO DOS KIT JGS:
+ACOMPANHAMENTO DOS KITS DE JGS.pbix; 2024-01-30 09:40:38.670562
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\ACOMPANHAMENTO ECM:
+Acompanhamento ECM.pbix; 2022-12-19 15:05:45.142329
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\CRP _WSB:
+CRP_SBC - Com RH.pbix; 2023-02-17 11:25:13.026646
+CRP_SBC.pbix; 2024-01-16 08:37:48.834692
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\CRP_TGM:
+CRP - TGM Com RH.pbix; 2023-03-06 15:00:14.153423
+CRP - TGM.pbix; 2023-02-17 10:45:33.714586
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\CRP_TGM\Backup2022:
+CRP - TGM.pbix; 2022-10-26 15:50:33.374197
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\FALTA DE MATERIAIS GTA:
+INDICADOR GTA.pbix; 2024-05-16 17:09:54.676455
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\FALTA DE MATERIAIS GTA\Tabela para Auxiliar o Fechamento do GTA:
+FECHAMENTO - INDICADOR FALTA DE MATERIAL GTA.pbix; 2023-09-21 17:08:19.789538
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR BLOCO K:
+Indicador do Bloco Kpbix.pbix; 2023-08-17 15:46:29.228867
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR BLOCO K\lixo:
+Indicador do Bloco k.pbix; 2021-12-21 14:31:29.126254
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR CADEIA DE AJUDA:
+Acompanhamento GR Cadeia de Ajuda.pbix; 2024-01-30 09:51:35.281608
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira:
+Indicador Ociosidade por Operador.pbix; 2022-06-14 08:23:00.123842
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira\Dados:
+Indicador de Acompanhamento das Empilhadeiras.pbix; 2021-11-23 16:12:54.970194
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR EQUIPE DE APOIO:
+Indicador GR Equipe de Apoio Planejamento.pbix; 2022-06-01 16:07:19.142029
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR EXPEDIÇÃO:
+Indicador da Expedição - versão 1.pbix; 2024-02-06 22:31:20.713106
+Indicador da Expedição.pbix; 2024-05-15 10:42:24.996324
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR EÓLICO:
+ACOMPANHAMENTO DA PROGRAMAÇÃO DO EOLICO.pbix; 2022-09-22 16:36:53.618169
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PARA SBC:
+Acompanhamento PCP SBC.pbix; 2022-01-11 09:58:02.371701
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PLANEJAMENTO:
+Indicador Planejamento(NOVO).pbix; 2024-04-09 13:26:29.902955
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PLANEJAMENTO\lixo:
+Indicador Planejamento.pbix; 2021-10-19 12:58:14.105594
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR POWER BI - VESTAS:
+INDICADOR ACOMPANHAMENTO VESTAS.pbix; 2022-10-19 17:00:01.025710
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR POWER BI- NORDEX:
+INDICADOR ACOMPANHAMENTO NORDEX.pbix; 2024-01-30 09:58:40.160017
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PROGRAMAÇÃO:
+2024.03.21.pbix; 2024-03-15 16:06:12.262607
+Indicador Programação.pbix; 2024-05-03 15:58:34.396211
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PROGRAMAÇÃO\Backups:
+2024.03.21.pbix; 2024-03-15 16:06:12.262607
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PROGRAMAÇÃO\Dados para o encerramento tecnico:
+Acompanhamento Encerramento Tecnico.pbix; 2022-04-14 17:16:06.849971
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR SERGIO-VILSON:
+Indicador Dados Mestre_Workflow.pbix; 2023-11-24 15:16:37.201679
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\Matriz Qualidade(QM):
+Indicador de QM PCP.pbix; 2022-04-18 14:14:57.472417
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\NORDEX:
+CRP_WEN_versão PUBLICADA_1.pbix; 2022-09-14 16:01:33.733119
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\NOVO CRP\Desatualizado:
+CRP WEN JGS ( não utilizar ).pbix; 2022-03-15 17:03:46.547976
+CRP WEN JGS.pbix; 2022-04-01 14:33:18.416137
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\NOVO CRP\NOVO_CRP:
+CRP_WEN_versão 2.pbix; 2022-09-26 13:00:43.634386
+CRP_WEN_versão PUBLICADA.pbix; 2024-05-20 08:52:16.319121
+CRP_WEN_versão VIRADA.pbix; 2023-12-18 09:06:00.344552
+CRP_WEN_versãoVALMIR.pbix; 2023-10-26 10:50:08.423536
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\NOVO CRP\NOVO_CRP\arquivos antigos:
+CRP_WEN - Copia.pbix; 2022-05-30 11:19:56.439903
+CRP_WEN.pbix; 2022-05-26 14:29:13.507667
+CRP_WEN_CRIADO AGRUPAMENTO.pbix; 2022-05-25 17:00:46.406240
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\Não publicados\INDICADORES WSB:
+Acompanhamento Almoxarifado WSB.pbix; 2021-10-22 16:37:29.970317
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\Previsão de Fio:
+ANALISE DE FIO E CHAPA.pbix; 2022-08-31 09:38:07.426026
+Previsão de Fio.pbix; 2022-08-17 17:23:42.602547
+Previsão de Fios e Chapas.pbix; 2022-08-22 14:11:18.434357
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\Previsão de Fio\ACOMPANHAMENTO DOS FIOS 2022:
+PROGRAMAÇÃO DOS FIOS 2022 teste.pbix; 2023-05-02 08:41:10.438523
+PROGRAMAÇÃO DOS FIOS 2022.pbix; 2022-10-25 14:40:28.593237
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\Previsão de Fio\GTA:
+Analise de Fio Alternadores.pbix; 2022-08-31 09:38:21.372838
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\PROJETO ATO:
+ESTUDO DO ATO.pbix; 2022-05-02 10:25:09.413903
+FaturamentoxProdução.pbix; 2022-05-11 17:38:36.644009
+INFORMAÇÕES DOS GTA200.pbix; 2022-05-02 17:05:55.845473
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI:
+indicadores_diretoria.pbix; 2021-07-12 13:25:16.836249
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\01 - Atendimento OV:
+Atendimento OV.pbix; 2021-01-18 13:17:12.202019
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\02 - Produtividade:
+Produtividade.pbix; 2021-01-22 08:48:50.141382
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\03 - Entrada de Pedidos:
+Entrada de Pedidos.pbix; 2021-01-18 13:46:28.273550
+indicadores_diretoria.pbix; 2021-05-05 15:19:54.165721
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\05 - Mão de Obra:
+Mão de Obra.pbix; 2020-12-21 17:18:54.413267
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\09 - Planejado x Realizado:
+plan_real.pbix; 2021-04-19 11:09:15.974883
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Power BI\14 - Horas Apontadas:
+Horas_apontadas.pbix; 2021-04-19 13:00:59.742113
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\SBC\Fluxo de máquinas de serivços:
+Serviços SBC Modificado.pbix; 2023-12-04 10:46:13.478476
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\SBC\GR Compras:
+GR Compras.pbix; 2023-11-09 15:23:39.128752
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\WMS 2023\Projetos:
+WMS 2023.pbix; 2022-11-22 16:29:54.522321
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\1. Projetos Mateus\1. Digitalização Kanban\Kanban:
+Kanban_Protótipo.pbix; 2021-08-13 08:00:53.911967
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\area de trabalho\Power BI:
+Kanban_Protótipo_Backup.pbix; 2021-06-16 14:17:57.586176
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\area de trabalho\Power BI\Atualizado:
+Kanban_WEG_Atualizado.pbix; 2021-05-17 07:49:25.578416
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\area de trabalho\Power BI\Atualizado\Preview:
+Kanban_Preview.pbix; 2021-05-18 16:28:18.471531
+Kanban_Preview_TXT.pbix; 2021-05-21 09:03:12.955365
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\area de trabalho\Power BI\Kanban:
+Kanban_WEG_30-04.pbix; 2021-05-07 12:55:47.620199
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Programadores\Tabela para Auxiliar o Fechamento do GTA:
+FECHAMENTO - INDICADOR FALTA DE MATERIAL GTA.pbix; 2023-09-21 17:08:19.789538
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital:
+Kanban_Digital_JGS.pbix; 2024-05-14 14:57:04.241261
+Kanban_Digital_JGS_cópia valmir.pbix; 2023-11-29 09:17:59.745496
+Kanban_Turbinas.pbix; 2024-04-08 08:50:27.534747
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup:
+Kanban_Protótipo.pbix; 2022-05-26 13:23:44.916203
+Kanban_ProtótipoModificado.pbix; 2022-10-31 15:43:25.113073
+Kanban_Turbinas.pbix; 2024-02-15 16:45:06.433910
+Kanban_V02.pbix; 2022-11-10 10:49:30.602528
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\16022023:
+Kanban_Protótipo.pbix; 2023-02-10 10:51:55.065044
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\20022023:
+Kanban_Protótipo.pbix; 2023-02-17 10:26:17.843632
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.02.17:
+Kanban_Protótipo.pbix; 2023-02-16 16:02:22.692992
+Kanban_V02.pbix; 2023-02-28 16:23:33.841362
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.02.20:
+Kanban_Protótipo.pbix; 2023-02-17 10:26:17.843632
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.02.23:
+Kanban_Protótipo.pbix; 2023-02-20 16:00:40.372351
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.02.28:
+Kanban_V02.pbix; 2023-02-24 15:47:32.292798
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.06:
+Kanban_Protótipo.pbix; 2023-03-03 09:28:03.635568
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.07:
+Kanban_Protótipo.pbix; 2023-03-06 09:34:37.988099
+Kanban_V02.pbix; 2023-03-07 08:29:45.632067
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.10:
+Kanban_Protótipo.pbix; 2023-03-09 08:26:26.409829
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.13:
+Kanban_Protótipo.pbix; 2023-03-10 14:58:49.243774
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.14:
+Kanban_Protótipo.pbix; 2023-03-13 09:22:45.084438
+Kanban_V02.pbix; 2023-07-10 08:23:51.277681
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.20:
+Kanban_Protótipo.pbix; 2023-03-16 08:22:18.514927
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.03.29:
+Kanban_Protótipo.pbix; 2023-03-24 14:24:02.718820
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.04.14:
+Kanban_V02.pbix; 2023-04-13 08:08:24.353894
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.05.10:
+Kanban_Protótipo.pbix; 2023-04-12 13:05:21.319498
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.05.25:
+Kanban_V02.pbix; 2023-04-14 16:42:03.524691
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.06.01:
+Kanban_Protótipo.pbix; 2023-05-22 08:29:58.530704
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.06.06:
+Kanban_Protótipo.pbix; 2023-06-01 09:36:00.599391
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.06.29:
+Kanban_Protótipo.pbix; 2023-06-06 13:43:55.082740
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.07.05:
+Kanban_Protótipo.pbix; 2023-06-29 08:33:37.270936
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.07.19:
+Kanban_Protótipo.pbix; 2023-07-11 13:51:38.006533
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.09.05:
+Kanban_Protótipo.pbix; 2023-08-29 08:44:59.108291
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.09.10:
+Kanban_Protótipo.pbix; 2023-10-02 16:27:47.562792
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.09.26:
+Kanban_Protótipo.pbix; 2023-09-20 17:20:41.043787
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2023.12.04:
+Kanban_Digital_JGS.pbix; 2023-11-28 09:06:42.377349
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.01.25:
+Kanban_Digital_JGS.pbix; 2024-01-23 14:56:57.663852
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.02.01:
+Kanban_Digital_JGS.pbix; 2024-01-26 08:36:37.810403
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.03.06:
+Kanban_Digital_JGS.pbix; 2024-03-04 11:03:45.396184
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.03.12:
+Kanban_Digital_JGS.pbix; 2024-03-08 15:13:25.419426
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.04.10:
+Kanban_Digital_JGS.pbix; 2024-04-04 14:04:43.570911
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\2024.05.10:
+Kanban_Digital_JGS.pbix; 2024-05-09 16:12:36.469384
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Backup\26012023:
+Kanban_Protótipo.pbix; 2023-01-26 12:45:40.395425
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\Kanban Normal:
+Kanban_Digital_JGS.pbix; 2023-11-28 09:06:42.377349
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital\LIXO:
+Kanban_Protótipo - Copia.pbix; 2022-10-28 15:38:16.362958
+Kanban_ProtótipoModificado.pbix; 2022-10-31 15:43:25.113073
+Kanban_Protótipo_diversos.pbix; 2022-12-16 14:22:54.064813
+Kanban_V02 - Copia.pbix; 2022-06-01 13:16:21.701560
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\13 - Quadro kanban caldeiraria:
+Quadro kanban caldeiraria.pbix; 2022-08-25 12:42:29.277098
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\25 - Indicadores kanban digital:
+Kanban_Espelho.pbix; 2021-11-18 14:56:05.475267
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\27 - Gestao visual:
+Gestao_visual_mont_A.pbix; 2021-11-30 14:48:07.721411
+montagem A.pbix; 2021-11-30 13:42:28.173180
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\38 - Kanban Turbinas:
+Kanban_Turbinas - Copia. Valmir Junckes.pbix; 2023-02-24 08:29:11.789260
+Kanban_Turbinas.pbix; 2023-02-24 08:29:11.789260
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\48 - Power BI Acompanhamento de projetos:
+Acompanhamento_projetos.pbix; 2022-06-01 14:22:18.028379
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\56 - Kanban de planejamento:
+Kanban_Planejamento.pbix; 2022-10-19 14:30:06.638694
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\57 - Kanban Usinagem:
+Quadro kanban Usinagem Leve.pbix; 2022-12-08 11:18:31.054898
+Quadro kanban Usinagem Pesada.pbix; 2022-07-28 13:02:55.974785
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\59 - Planejado x Realizado:
+Planejado x Realizado.pbix; 2022-08-09 13:12:16.709086
+Todos PlanvsReal.pbix; 2024-05-07 14:36:58.710101
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\67 - Média de Estoques:
+Média de Dias Antigo.pbix; 2024-01-18 09:42:04.241073
+Média de Dias.pbix; 2024-02-22 16:18:25.193586
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\67 - Média de Estoques\Backup:
+Média de Dias.pbix; 2023-04-12 10:15:05.938474
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\73 - Kanban Digital WSB:
+Kanban_digital_WSB.pbix; 2022-09-19 16:17:13.216189
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\80 - Ferramenta de comparacao de materiais:
+Analise caixa.pbix; 2022-10-18 14:05:43.627034
+Cluster_Caixa.pbix; 2023-01-25 14:34:37.330385
+Ferramenta - Should be cost.pbix; 2022-10-26 09:37:00.333014
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\80 - Ferramenta de comparacao de materiais\Base de dados Trocador de calor:
+Analise_Trocador.pbix; 2023-01-23 16:19:33.787218
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\96 - Indicador Pastas:
+SolicitarPastas.pbix; 2023-01-17 09:04:31.637564
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC:
+KanbanSBC - bécap.pbix; 2024-02-19 14:33:32.307214
+KanbanSBC.pbix; 2024-05-06 10:00:58.543446
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2023.03.16:
+KanbanSBC.pbix; 2023-03-09 13:17:02.818545
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2023.08.01:
+KanbanSBC.pbix; 2023-07-14 14:46:57.878018
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2023.10.13:
+KanbanSBC.pbix; 2023-09-21 14:07:40.014620
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2023.11.20:
+KanbanSBC.pbix; 2023-10-31 14:40:24.431053
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2024.02.06:
+KanbanSBC HELP.pbix; 2023-11-24 15:32:53.859079
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2024.02.19:
+KanbanSBC.pbix; 2024-02-06 09:54:03.046612
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A023 - Kanban SBC\Backup\2024.03.19:
+KanbanSBC antes mudança diversos.pbix; 2024-03-19 10:04:59.566866
+KanbanSBC.pbix; 2024-02-21 14:56:19.408787
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A029 - Kanban Inicio:
+Kanban_Inicio.pbix; 2023-03-16 08:22:18.514927
+Kanban_por_inicio.pbix; 2023-04-19 08:43:55.990829
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A049 - Relatório UTI_BIQ:
+Analise UTI.pbix; 2024-05-20 09:44:02.032984
+Relatório_UTI.pbix; 2024-05-20 09:40:09.301963
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A051 - Solicitações Analistas:
+Solicitações Analistas.pbix; 2024-01-15 16:26:12.398902
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert:
+Indicador da Expedição.pbix; 2023-01-26 07:59:54.795413
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Backup Kanban:
+Kanban_Protótipo.pbix; 2022-10-28 15:45:39.502463
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques:
+Estoque Médio Protótipo - Copia.pbix; 2022-08-03 10:48:12.409502
+Estoque Médio Protótipo.pbix; 2022-09-21 09:42:37.300173
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\PlanxReal:
+Planejado x Realizado (NOVO).pbix; 2022-07-07 08:16:22.546272
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários:
+Kanban_Protótipo.pbix; 2023-03-07 13:18:00.023448
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\Projeto Andon:
+Montagem A - Black.pbix; 2022-03-30 08:14:47.676016
+Montagem BC - Black.pbix; 2022-03-29 10:13:44.288022
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\Projeto Andon\A:
+Acabamento A.pbix; 2022-03-23 13:44:15.420887
+Montagem A.pbix; 2022-03-23 13:43:59.715928
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\Projeto Andon\Antigo:
+Montagem ABC - Black - Fábrica.pbix; 2022-03-28 16:10:49.252247
+Montagem ABC - Black.pbix; 2022-03-28 10:36:35.666063
+Montagem ABC - Fábrica.pbix; 2022-03-28 10:36:12.233176
+Montagem ABC.pbix; 2022-03-28 10:36:31.088945
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\Projeto Andon\BC:
+Acabamento BC.pbix; 2022-03-23 14:25:06.872703
+Montagem BC.pbix; 2022-03-23 14:25:03.017765
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\Projeto Andon\Diferencial:
+Montagem A - Black.pbix; 2022-03-30 08:17:06.102653
+Montagem BC - Black.pbix; 2022-03-30 08:19:46.055504
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR BLOCO K:
+Indicador do Bloco Kpbix.pbix; 2022-04-28 17:37:23.929618
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR BLOCO K\lixo:
+Indicador do Bloco k.pbix; 2021-12-21 14:31:29.126254
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR CADEIA DE AJUDA:
+Acompanhamento GR Cadeia de Ajuda.pbix; 2022-04-29 09:10:31.152769
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira:
+Indicador Ociosidade por Operador.pbix; 2022-04-29 09:43:02.878385
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira\Dados:
+Indicador de Acompanhamento das Empilhadeiras.pbix; 2021-11-23 16:12:54.970194
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR EXPEDIÇÃO:
+Indicador da Expedição.pbix; 2022-04-29 09:46:55.778676
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR PARA SBC:
+Acompanhamento PCP SBC.pbix; 2022-01-11 09:58:02.371701
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR PLANEJAMENTO:
+Indicador Planejamento(NOVO).pbix; 2022-05-03 10:59:11.969495
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR PLANEJAMENTO\lixo:
+Indicador Planejamento.pbix; 2021-10-19 12:58:14.105594
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR PROGRAMAÇÃO:
+Acompanhamento Encerramento Tecnico.pbix; 2022-04-14 17:16:06.849971
+Indicador Programação.pbix; 2022-04-29 13:47:22.641393
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\INDICADOR SERGIO-VILSON:
+Indicador Dados Mestre_Workflow.pbix; 2022-04-29 10:06:47.116363
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\Matriz Qualidade(QM):
+Indicador de QM PCP.pbix; 2022-04-18 14:14:57.472417
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\NOVO CRP:
+CRP WEN JGS ( não utilizar ).pbix; 2022-03-15 17:03:46.547976
+CRP WEN JGS.pbix; 2022-04-01 14:33:18.416137
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\NOVO CRP\NOVO_CRP:
+CRP_WEN - Copia.pbix; 2022-04-06 18:15:56.360941
+CRP_WEN.pbix; 2022-04-29 10:11:20.219897
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\Não publicados\INDICADORES WSB:
+Acompanhamento Almoxarifado WSB.pbix; 2021-10-22 16:37:29.970317
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Indicadores Automatizados (Valmir)- Backup\PROJETO ATO:
+ESTUDO DO ATO.pbix; 2022-03-25 12:53:40.584872
+INFORMAÇÕES DOS GTA200.pbix; 2022-04-25 13:10:31.560872
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR BLOCO K:
+Indicador do Bloco Kpbix.pbix; 2021-12-21 14:44:24.686860
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR BLOCO K\lixo:
+Indicador do Bloco k.pbix; 2021-12-21 14:31:29.126254
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR CADEIA DE AJUDA:
+Acompanhamento GR Cadeia de Ajuda.pbix; 2022-03-15 14:45:46.978253
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira:
+Indicador Ociosidade por Operador.pbix; 2022-03-14 13:26:11.070687
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR DAS EMPILHADEIRAS\Indicador Rastreamento Empilhadeira\Dados:
+Indicador de Acompanhamento das Empilhadeiras.pbix; 2021-11-23 16:12:54.970194
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR EXPEDIÇÃO:
+Indicador da Expedição.pbix; 2021-12-09 17:47:20.525551
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR PARA SBC:
+Acompanhamento PCP SBC.pbix; 2022-01-11 09:58:02.371701
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR PLANEJAMENTO:
+Indicador Planejamento(NOVO).pbix; 2022-03-22 08:12:04.776342
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR PLANEJAMENTO\lixo:
+Indicador Planejamento.pbix; 2021-10-19 12:58:14.105594
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR PROGRAMAÇÃO:
+Indicador Programação.pbix; 2022-03-22 12:24:58.516634
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\INDICADOR SERGIO-VILSON:
+Indicador Dados Mestre_Workflow.pbix; 2022-03-22 07:56:16.236157
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\NOVO CRP:
+CRP WEN JGS ( não utilizar ).pbix; 2022-03-15 17:03:46.547976
+CRP WEN JGS.pbix; 2022-03-16 16:54:45.116655
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\NOVO CRP\NOVO_CRP:
+CRP_WEN.pbix; 2022-03-23 17:26:36.240830
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\Não publicados\INDICADORES WSB:
+Acompanhamento Almoxarifado WSB.pbix; 2021-10-22 16:37:29.970317
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Power BI\Indicadores Automatizados (Valmir)\PROJETO ATO:
+ESTUDO DO ATO.pbix; 2022-03-22 09:33:34.363238
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\VSM SBC:
+ORDENS PLANEJADOR 081.pbix; 2023-04-24 12:54:37.849772
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS:
+Dashboard.pbix; 2024-05-15 16:44:30.420015
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2021\Office e Fábrica - 2021\WMS Office 2021:
+WMS BI.pbix; 2021-03-15 16:32:43.401261
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2023\Projetos:
+Dashboard.pbix; 2023-12-14 10:25:33.347627

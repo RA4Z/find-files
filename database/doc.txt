@@ -1,0 +1,3042 @@
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP:
+Passo a Passo QUADRO ACOMPANHAMENTO MONTAGEM C.doc; 2012-05-07 09:13:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\01. Eduarda Campestrini:
+criar registro info.doc; 2022-08-23 17:43:00
+Manutenção de um cadastro de material.doc; 2024-02-23 07:09:34.331000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\500 - CL para atualizar projeto:
+500 - CL para atualizar Projeto.doc; 2024-04-09 11:24:26.384000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\01. Administrar pedido vendas:
+WFR-18996_PT_2 [não usamos].doc; 2021-08-13 14:22:35.278814
+WFR-20912_EN_3 [não usamos].doc; 2021-08-13 14:25:21.753933
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\02. Iniciar Projeto\Atas:
+PWQP-17-ADR-001-00_Grupo02.doc; 2021-05-11 17:07:48.900000
+PWQP-17-ADR-002-00_Grupo02.doc; 2021-06-04 17:14:42.830000
+PWQP-17-ADR-003-00_Grupo02.doc; 2021-06-14 16:01:07.615000
+PWQP-17-ADR-004-00_Grupo02.doc; 2021-08-10 17:18:35.364000
+~$QP-17-ADR-004-00_Grupo02.doc; 2021-07-19 15:16:02.405399
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\02. Iniciar Projeto\Normas:
+WFR-25501.doc; 2021-06-18 11:59:19.151000
+WFR-25501_EN_2 (1).doc; 2021-08-23 13:25:54.636000
+WFR-25501_ES_2 (1).doc; 2021-09-06 08:59:43.637000
+WFR-25501_PT_2 (4).doc; 2021-08-23 13:13:16.203000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\07. Controlar Custos e Lucractividade:
+2021 04 13 _ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-04-16 10:58:49.958000
+2021 05 04_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-04 15:49:11.803000
+2021 05 13_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-21 10:49:28.897000
+2021 05 27_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-27 09:39:13.690000
+2021 06 18_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-06-18 14:35:02.089000
+2021 07 01_ PWQP Meta 17 _ Controlar Custos e Lucratividade _ atualização 07.07.doc; 2021-07-07 10:04:50.817000
+2021 07 01_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-07-01 11:11:51.607000
+WPM-26384_ reunião 08 07.doc; 2021-07-27 08:17:13.146000
+WPM-26384_ reunião 27 07.doc; 2021-07-27 10:14:02.059000
+WPM-26384_PT_1 _ reunião 02.07.doc; 2021-07-05 14:43:07.735000
+WPM-26384_PT_1 _ reunião 07. 07.doc; 2021-07-07 17:10:38.555000
+WPM-34435_PT_1 _ 07.07.doc; 2021-07-07 17:53:31.307000
+WPS-33619_PT_1 _ Revisão Elis _ 21.05.21.doc; 2021-05-21 09:55:51.634000
+WPS-35228_PT_1. 2 Reviao Alcidio.doc; 2021-07-14 13:35:04.372000
+WPS-35228_PT_1. Editada Alcidio 07.07.doc; 2021-07-07 17:47:12.031000
+ZTPS063.doc; 2021-04-19 10:56:25.977000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Atas:
+PWQP-17-ADR-001-00.doc; 2021-05-19 10:34:47.712000
+PWQP-17-ADR-002-00.doc; 2021-06-07 15:55:45.455000
+PWQP-17-ADR-003-00.doc; 2021-07-05 14:57:13.181000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Normas:
+WFR-26427-R2 PT.doc; 2021-07-21 10:14:21.540000
+WFR-26428-R2 PT.doc; 2021-07-21 10:14:59.253000
+WFR-45991-R0 PT.doc; 2021-07-21 10:15:50.276000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Normas\Old:
+1 - Convocação de inspeção - Software Inspeção WEG - Microsoft Teams_R1.0.doc; 2021-07-14 09:31:41.399447
+2 - Convocação de inspeção - Presencial WJGS_R1.0.doc; 2021-07-14 09:31:40.711840
+3 - Convocação de inspeção - Presencial WSB_R1.0_comentada.doc; 2021-07-14 09:51:52.506000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Atas:
+PWQP-17-ADR-002-00.doc; 2021-05-04 16:23:53.223000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas:
+WFR-24785 - Letter to the customer - Importation of materia_REVISADA.doc; 2021-07-28 16:44:59.365697
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas\Extras:
+Importação de componentes.doc; 2021-06-29 15:12:04.994393
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas\Old:
+WFR-24785 - Letter to the customer - Importation of materials.doc; 2021-06-30 15:48:16.423465
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\11. Administrar Aprovação e Certificação de Desenhos\Docs Deb:
+WFR-25953 - Carta ao cliente_COMENTADA.doc; 2021-04-29 13:26:35.815021
+WFR-25953 - Carta ao cliente_REVISADA.doc; 2021-04-30 14:29:29.107157
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\12. Alteração de Pedido e Cancelamento de OVs\Atas:
+PWQP-17-ADR-001-00.doc; 2021-04-22 14:37:20.745000
+PWQP-17-ADR-002-00.doc; 2021-05-19 15:41:59.591000
+~$QP-17-ADR-002-00.doc; 2021-05-06 10:36:27.642498
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\010 - Normas e Procedimentos\CNE - Meta 17 - Revisao de Normas\Revisão de normas no WEG DOC:
+WPM-26384_ reunião 08 09.doc; 2021-09-08 09:46:42.541000
+WPM-26384_ reunião 27 07.doc; 2021-07-27 16:51:57.483000
+WPS-33619_PT_1 _ Revisão Elis _ 21.05.21.doc; 2021-05-31 15:10:56.888000
+WPS-35228_PT_1. 2 Reviao Alcidio.doc; 2021-07-28 13:52:45.210000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\Indicadores:
+Projeto indicadores V3.doc; 2018-09-06 11:21:29
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais:
+076R-16 Relatório recorrente PWQP2016 - meta 04.doc; 2017-01-17 13:22:57
+~$6R-16 Relatório recorrente PWQP2016 - meta 04.doc; 2018-09-05 10:16:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\00 - ARQUIVOS PMC\RELATÓRIOS PMC 2013:
+003R-13 - Sistemática da Cadeia de Ajuda2.doc; 2016-06-23 14:24:49
+004R - 15 - Regras dos Buffers_final.doc; 2016-07-06 13:02:24
+004R-14 - KANBAN DE TRANSPORTE.doc; 2016-12-21 09:43:10
+005R-13 -  Procedimentos Fluxo de Material2.doc; 2016-06-28 15:22:45
+011R-13 -  Procedimentos Fluxo de Material.doc; 2016-12-21 12:41:45
+012R-13 -  Proposta Programação Linha de Montagem A.doc; 2016-08-11 17:03:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\02 - BRAINSTORMING:
+023A-16 - Acompanhamento PWQP Meta 18 - Produção Puxada Montagem A.doc; 2016-04-08 11:16:42
+~$3A-16 - Acompanhamento PWQP Meta 18 - Produção Puxada Montagem A.doc; 2016-12-21 13:24:50
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\03 - SISTEMA MECÂNICO\Tracionador da Linha:
+Identificação carga.doc; 2013-07-24 09:34:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\06 - SIMULAÇÃO FLEXSIM:
+284R-16 - Simulação no FlexSim da linha tracionada da Montagem A.doc; 2016-10-18 14:29:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\06 - SIMULAÇÃO FLEXSIM\Natália\MONTAGEM A:
+relatório da simualção.doc; 2016-04-19 13:56:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\07 - AÇÕES:
+285R-16 - Acompamanhamento PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2016-10-18 14:25:46
+~$5R-16 - Acompamanhamento PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2016-12-21 13:21:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\07 - AÇÕES\LOGÍSICA DE MATERIAIS:
+012R-13 -  Proposta Programação Linha de Montagem A.doc; 2016-08-10 08:36:19
+102A-16 - Materiais para linha tracionada da Montagem A.doc; 2016-08-01 12:39:38
+130A-16 - Normalização da Consolidação de Materiais.doc; 2016-10-18 12:03:00
+132A-16 - Normas de movimentação de materiais para as Montagens.doc; 2016-11-01 07:01:04
+~$2R-13 -  Proposta Programação Linha de Montagem A.doc; 2018-11-28 15:16:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Alexandre\MTG A\Materiais iniciais\Material EL\META 18 - Linha Tracionada Montagem A\10 - FECHAMENTO:
+003R-17 - Conclusão PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2017-01-17 15:52:09
+139A-16 - Linha Tracionada na Montagem A.doc; 2016-12-20 08:28:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina:
+~$DICADORES REUNIÃO MENSAL.doc; 2017-03-02 15:00:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\CRP:
+~$CRP 1.doc; 2014-08-11 14:08:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\CRP\arquivo:
+CRP 1.doc; 2014-08-11 14:06:22
+CRP 2.doc; 2014-08-11 14:06:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\INDICADORES MENSAL:
+Atendimento das Atividades no prazo - indicadores de diretoria.doc; 2017-01-18 13:21:08
+Atendimento no prazo PCP e ENG Industrial .doc; 2017-10-02 11:26:17
+Atualizar PWQP.doc; 2016-10-31 08:15:15
+BOOK DIRETORIA.doc; 2016-05-10 08:21:04
+Cargas Projetos - Logistica.doc; 2017-06-02 10:16:49
+CARGAS_PROJETOS_ MANUAL.doc; 2015-08-07 10:23:49
+Encerramento de Projetos.doc; 2020-04-07 15:54:33.992000
+Entrega de Ordens de Produção.doc; 2016-05-23 14:03:19
+Indicador diário - Com MACRO.doc; 2020-06-17 16:31:21.895000
+Inventário.doc; 2015-06-24 10:14:47
+JOB Prod - Lib - Apont.doc; 2015-06-01 08:41:57
+Material 120 dias no estoque.doc; 2019-09-09 13:44:15.632000
+Medir Produtividade das Áreas (MCPS).doc; 2014-09-26 10:17:12
+Ordens Descartadas ENTE sem MREL.doc; 2015-06-24 10:31:34
+Ovs Abertas WM WSB e WII (mensal, início de mês).doc; 2020-03-20 15:56:50.714000
+Pasta de Indicadores - Suely.doc; 2013-10-22 12:38:10
+Pendências Estoque máquinas apontadas.doc; 2016-05-31 07:25:07
+Planejado x Realizado.doc; 2017-02-01 09:54:47
+Relatório de Carteira WSB (Suely, Dionisio).doc; 2015-10-20 08:13:48
+~$dicador diário - Com MACRO.doc; 2017-08-03 15:50:51
+~$OK DIRETORIA.doc; 2015-10-07 09:48:01
+~$rgas Projetos - Logistica.doc; 2016-04-04 09:48:15
+~$s Abertas WM WSB e WII (mensal, início de mês).doc; 2016-05-23 13:21:30
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\INDICADORES SEMANAL:
+2ª F - Encerramento Técnico.doc; 2018-05-21 15:15:32
+2ª F - Gerar Planilha CRP.doc; 2019-07-15 10:31:32.295000
+2ª F - Produtividade WEN.doc; 2018-07-09 16:06:57
+2ªF - Cobranças Gerais (Alcidio).doc; 2018-05-24 08:04:11
+4ª F - Atendimento ordens de Vendas GTA %.doc; 2015-06-16 08:09:57
+4ª F - Prazo para Controle PCP.doc; 2019-06-17 07:22:32.700000
+4ª F - Relatório de indicadores Kamban.doc; 2020-06-18 10:50:38.239000
+4ª F - Resumo de Indicadores .doc; 2018-07-09 16:11:37
+5ª F - Faturamento.doc; 2016-10-28 09:57:29
+5ª F - Reunião da Prod. (mont. do Book).doc; 2019-06-18 07:52:01.653000
+5º F - ENTRADA DE PEDIDOS - Suely.doc; 2014-01-14 10:12:46
+Ata WSB INDICADORES - Produção Puxada (2).doc; 2016-07-21 12:55:51
+Atendimento linha GTA (relatório reunião da produção).doc; 2017-12-21 09:54:32
+CRP-HISA.doc; 2017-08-14 15:05:25
+Horas Aerogerador - CM07.doc; 2018-07-09 16:47:10
+Quadro Kanban montagem.doc; 2015-10-26 15:26:31
+Relatório de indicadores Kamban - HISA.doc; 2017-09-13 15:28:07
+Sequencia reunião da HISA.doc; 2017-08-14 15:37:04
+Tabela Engenharia.doc; 2020-06-23 15:10:06.632000
+~$ F - Encerramento Técnico.doc; 2015-07-28 11:28:35
+~$ F - ENTRADA DE PEDIDOS - Suely.doc; 2017-03-21 08:20:49
+~$ F - Faturamento.doc; 2014-08-07 08:33:12
+~$ F - Resumo de Indicadores e CRP.doc; 2017-03-21 08:43:10
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\Procedimentos Úteis:
+Alteração de Data de Ordens.doc; 2014-02-20 10:56:01
+CADASTRAR FORNECEDOR NO SAP.doc; 2014-07-22 08:18:16
+Como requisitar material de limpeza.doc; 2016-09-28 15:48:27
+Compra de Cartão de Visita.dot.doc; 2014-04-10 11:14:21
+Compra de móveis.doc; 2014-11-06 09:52:37
+Criar Nota de Remessa.doc; 2016-04-05 13:10:43
+Dados necessários do fornecedor EXTERNO para cadastro no SAP.doc; 2015-04-15 14:34:00
+Dados necessários do fornecedor para cadastro no SAP.doc; 2015-04-15 14:33:46
+Requisitar fichas verdes para EPI.doc; 2013-10-25 13:55:34
+Transferir pastas no share point.doc; 2015-02-03 13:08:07
+~$iar Nota de Remessa.doc; 2017-03-21 14:43:06
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\PROGRAMAÇÃO\ALTERNADORES\Fechamento GTA\MATERIAIS X FORNECEDORES:
+Fios que vem de Itajaí.doc; 2021-02-01 13:22:56.021000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\PROGRAMAÇÃO\ALTERNADORES\Manuais enviados pelo GUI:
+PROCEDIMENTO - Motores CC Unidade Hidraulica.doc; 2020-06-29 14:49:48.021000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\PROGRAMAÇÃO\USINAGEM\Análise manutenção:
+Avaliação CT  02011042 - Torno Taurus Wotan.doc; 2021-12-21 14:04:23.446000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Manual de Procedimentos\PROGRAMAÇÃO\USINAGEM\Eliminar bloqueio de vendas:
+Manual para retirar bloqueio de vendas.doc; 2013-03-22 14:27:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD:
+Formulário CI para pagamento de serviço II.doc; 2013-06-24 14:19:42
+mod0466-1.doc; 2013-04-12 13:59:40
+NOVA INVOICE.doc; 2013-06-24 13:10:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE BASEEFA:
+INVOICE 2012388 BASEEFA.doc; 2014-05-19 08:36:11
+INVOICE 2012388 CI BASEEFA.doc; 2014-01-24 12:55:29
+INVOICE 600055 CI BASEEFA.doc; 2013-07-11 10:13:55
+INVOICE 600948 CI BASEEFA.doc; 2013-10-08 16:26:47
+INVOICE 601355 CI BASEEFA.doc; 2013-11-28 14:35:02
+INVOICE 601678 BASEEFA.doc; 2014-02-11 07:14:38
+INVOICE 601679 BASEEFA.doc; 2014-02-11 07:12:38
+INVOICE 602319 CI BASEEFA.doc; 2014-06-16 09:52:37
+INVOICE 602768 BASEEFA.doc; 2014-10-02 14:39:02
+INVOICE 603347 BASEEFA.doc; 2014-12-12 15:34:38
+INVOICE 603392 CI BASEEFA.doc; 2014-12-15 07:16:24
+INVOICE 604343 CI BASEEFA.doc; 2015-07-10 15:29:35
+INVOICE 604381 CI BASEEFA.doc; 2015-07-10 15:30:50
+INVOICE 605312 CI BASEEFA.doc; 2015-12-15 15:14:26
+INVOICE 605876 BASEEFA.doc; 2016-04-28 10:40:24
+INVOICE 605927 BASEEFA.doc; 2016-04-28 10:32:46
+INVOICE 606412 BASEEFA.doc; 2016-08-01 14:29:43
+INVOICE 606459 BASEEFA.doc; 2016-08-09 10:43:50
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE CSA:
+INVOICE 92340334 CSA Group.doc; 2013-10-17 09:50:02
+INVOICE 92373705 CSA Group.doc; 2014-02-04 08:19:56
+INVOICE 92390640 CSA Group.doc; 2014-03-21 12:45:41
+INVOICE 92452934 CSA Group.doc; 2014-10-02 14:36:51
+INVOICE 92452935 CSA Group.doc; 2014-10-02 14:41:54
+INVOICE 92519517.doc; 2015-03-27 09:11:19
+INVOICE 92533933 CSA Group.doc; 2015-05-11 10:31:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE DNV:
+INVOICE 1009122 CI DNV.doc; 2015-06-02 16:07:18
+INVOICE 1012848 CI DNV.doc; 2013-11-11 15:37:37
+INVOICE 1014893 DNV.doc; 2014-02-11 07:09:22
+INVOICE 1015263 CI DNV.doc; 2014-02-13 07:32:18
+INVOICE 1015867 CI DNV.doc; 2014-03-21 12:35:55
+INVOICE 1017319 DNV.doc; 2015-02-11 11:44:27
+INVOICE 1019958 DNV.doc; 2014-09-03 13:14:17
+INVOICE 1022221 CI DNV.doc; 2014-12-12 15:37:18
+INVOICE 1023241 DNV.doc; 2015-03-30 08:11:14
+INVOICE 1025331 CI DNV.doc; 2015-08-28 09:13:56
+INVOICE 1025935 CI DNV.doc; 2015-06-02 16:07:48
+INVOICE 1027315 CI DNV.doc; 2015-07-28 10:42:05
+INVOICE 1027699 CI DNV.doc; 2015-08-03 14:31:37
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE OUTRAS:
+INVOICE 044030811 LLC.doc; 2015-03-30 08:13:11
+INVOICE 216 ANO EX NII.doc; 2015-12-03 07:04:37
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE SERCONS:
+INVOICE 13202.doc; 2015-08-11 10:44:11
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE TUV:
+INVOICE 140038802 TÜV.doc; 2014-10-16 11:07:50
+INVOICE 140164541.doc; 2015-04-01 07:25:03
+INVOICE 140331078 TÜV.doc; 2015-11-06 11:53:05
+INVOICE 140389414 TÜV.doc; 2015-11-06 11:51:21
+INVOICE 140416305 TÜV.doc; 2016-01-12 07:15:25
+INVOICE 140436119 TÜV.doc; 2016-01-12 09:51:06
+INVOICE 140455978 TÜV.doc; 2016-02-24 10:18:35
+INVOICE 77740005 TÜV.doc; 2014-10-16 11:08:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\INVOICE UL:
+INVOICE 72020021768 CI UL.doc; 2014-12-03 12:02:57
+INVOICE 72020053913 CI UL.doc; 2014-12-03 12:09:27
+INVOICE 72020064121.doc; 2015-02-17 07:55:44
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\NOTAS FISCAIS DA QUALIDADE\INVOICE WORD\NANIO  CCVE:
+INVOICE 104 NANIO CCVE.doc; 2015-12-03 06:55:24
+INVOICE 173 NANIO CCVE.doc; 2014-05-16 09:43:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Procedimentos Úteis:
+Alteração de Data de Ordens.doc; 2014-02-20 10:56:01
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Quadros Kanban - Juliano:
+Quadros Kanban Montagem.doc; 2016-02-23 10:56:16
+~$adros Kanban Montagem.doc; 2015-11-12 06:55:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl:
+000A-13 -  Modelo da Ata.doc; 2016-03-18 07:41:23
+001A-18 -  Planejamento pré aprovação gerador + turbina.doc; 2018-12-21 12:26:04.453000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho:
+Adesivo de clientes na Nacele.doc; 2021-12-01 15:53:45.627000
+ATA - Reunião aço elétrico.doc; 2021-10-06 17:50:24.218000
+ATA - Reunião Fluxo de modificações.doc; 2021-10-21 08:10:05.450000
+Graduação engenharia de produção.doc; 2022-07-12 12:27:49.062000
+Relatorio - Falta de material em alternadores.doc; 2022-06-01 15:01:13.844000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup:
+07. Manual WMS - LOG_CS - Logistica e Atendimento ao Cliente .doc; 2020-04-30 13:05:21.380000
+Meu Pad 2021.doc; 2021-10-15 10:55:06.949000
+Meu Pad.doc; 2021-02-04 21:05:24.563000
+Oposição a Contribuição Assistencial 2022.doc; 2024-01-22 12:06:27.580000
+Oposição a Contribuição Assistencial.doc; 2021-02-16 16:19:18.912000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup\Atas de reuniões:
+013A-12 -   Procedimentos para sobra de materiais - BA01.doc; 2012-11-28 06:12:31.487000
+Ata de reunião aproveitamento itens em estoque - 2.doc; 2013-03-28 17:26:24.444000
+ATA GATILHO CHUMBADOR  PLACA.doc; 2013-05-16 10:27:36.795000
+ATA Notas fiscais.doc; 2012-10-05 15:27:36.653000
+ATA Nª7 ECM DE MODIFICAÇÃO.doc; 2013-05-10 07:02:55.679000
+ATA para transferencia de tintas pela CO27.doc; 2012-07-03 16:54:24.449000
+ATA para transferencia de tintas pela CO27a.doc; 2012-07-03 16:55:36.626000
+ATA recebimento de ECM.doc; 2012-11-13 12:46:25.615000
+Montagem de tubulação.doc; 2012-10-04 16:38:24.470000
+UTILIZAÇÃO DE MATERIAIS EM ORDENS NÃO LIBERADAS.doc; 2013-11-11 17:01:37.573000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup\Faculdade:
+paper das franquias.doc; 2014-11-26 14:45:07.518000
+plano de desenvolvimento pessoal.doc; 2013-11-18 16:12:57.401000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup\Materiais auxiliares:
+000A-13 -  Modelo da Ata.doc; 2013-05-23 11:05:02.003000
+Centros de Trabalho.doc; 2014-12-12 09:48:03.239000
+Etiqueta 5S.doc; 2013-06-12 16:47:24.437000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup\Pós graduação\Mapeamento de fluxo:
+2. Project Charter - Pós Graduação.doc; 2018-11-27 10:44:17.498375
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Backup\Pós graduação\TCC:
+2 Documentos necessarios para entrega da monografia apendice D.doc; 2021-02-16 14:00:31.086000
+2 Documentos necessarios para entrega da monografia.doc; 2021-01-21 17:27:31.219000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\English:
+dicionário técnico.doc; 2015-03-18 07:14:53.405000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho\Faculdade Engenharia de produção\Gestão de estoques e compras\Aula 7:
+A07_Classificacao_ABC.doc; 2024-05-18 10:26:15.838000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques:
+Giro de estoque e SMI Jan 2022.doc; 2022-02-18 09:30:21.586000
+~$ro de estoque e SMI Fevereiro 2021.doc; 2021-03-19 06:54:57.737782
+~$ro de estoque e SMI Novembro.doc; 2020-12-17 10:38:01.031250
+~$ro de estoque e SMI.doc; 2020-12-17 10:14:00.475918
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2016:
+Arquivo de acertos de estoque caldeiraria.doc; 2016-03-05 07:21:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2020:
+COMISSÃO DE ESTOQUES WEN INVENTÁRIOS Jan a Jul.doc; 2020-08-06 08:51:38.822000
+Giro de estoque e SMI Dezembro.doc; 2021-02-19 11:39:58.533000
+Giro de estoque e SMI Novembro.doc; 2020-12-17 19:30:49.160000
+Giro de estoque e SMI.doc; 2020-11-12 17:27:30.126000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2021:
+Giro de estoque e SMI Abril 2021.doc; 2021-05-20 10:23:26.201320
+Giro de estoque e SMI Agosto 2021.doc; 2021-10-08 13:08:37.325000
+Giro de estoque e SMI Fevereiro 2021.doc; 2021-04-14 11:31:46.206000
+Giro de estoque e SMI Janeiro 2021.doc; 2021-02-19 11:48:32.401000
+Giro de estoque e SMI Julho 2021.doc; 2021-08-20 14:04:10.637000
+Giro de estoque e SMI Junho 2021.doc; 2021-08-20 12:31:03.281000
+Giro de estoque e SMI Março 2021.doc; 2021-04-16 11:22:14.809000
+Giro de estoque e SMI Novembro 2021.doc; 2021-12-16 10:58:04.563000
+Giro de estoque e SMI Outubro 2021 sem 2022.doc; 2021-11-19 13:17:30.832000
+Giro de estoque e SMI Outubro 2021.doc; 2021-11-19 11:30:13.203000
+Inventário Abril.doc; 2021-06-02 19:54:57.591000
+Inventário Agosto.doc; 2021-10-08 11:39:51.733000
+Inventário Fevereiro.doc; 2021-04-16 11:33:49.603000
+Inventário Janeiro.doc; 2021-02-19 12:06:14.077000
+Inventário Julho.doc; 2021-08-20 10:40:17.606000
+Inventário Junho.doc; 2021-07-28 07:37:03.857000
+Inventário Maio.doc; 2021-06-02 19:55:42.814000
+Inventário Março.doc; 2021-04-16 11:34:17.592000
+Inventário Novembro.doc; 2021-12-17 13:03:28.457000
+Inventário Outubro.doc; 2021-11-19 07:13:24.380000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022:
+Giro de estoque e SMI Fevereiro 2022.doc; 2022-03-25 11:33:15.522000
+Inventário Fevereiro.doc; 2022-03-25 14:19:01.425000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Abril:
+Giro de estoque e SMI Abril 2022.doc; 2022-05-19 09:16:37.226000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 1200:
+Relatorio - Diagnóstico estoques apresentação.doc; 2022-02-17 14:54:12.782000
+~$latorio - Diagnóstico estoques.doc; 2022-02-09 08:57:18.301543
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 1201:
+Relatorio SBC- Diagnóstico estoques apresentação.doc; 2022-02-18 14:18:46.221000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 1208, 1210 e 1211:
+Relatorio - Diagnóstico estoques apresentação.doc; 2022-02-22 17:40:43.180000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 3200:
+Relatorio EM- Diagnóstico estoques apresentação.doc; 2022-02-18 14:17:55.722000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Diagnóstico de estoques\Centro 6200:
+Relatorio WII - Diagnóstico estoques apresentação.doc; 2022-02-18 14:16:29.606000
+~$latorio WII - Diagnóstico estoques apresentação.doc; 2022-02-23 10:59:23.531950
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Julho:
+Giro de estoque e SMI Julho 2022.doc; 2022-08-25 11:45:59.314000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Maio:
+Giro de estoque e SMI Maio 2022.doc; 2022-06-23 11:21:58.779000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Março:
+Giro de estoque e SMI Março 2022.doc; 2022-04-14 12:49:49.108000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Novembro\Comissão 09:
+Giro de estoque e SMI Novembro 2022.doc; 2022-12-19 17:17:52.754000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Outubro:
+Giro de estoque e SMI Outubro 2022.doc; 2022-11-24 10:13:52.199000
+~$ro de estoque e SMI Outubro 2022.doc; 2022-11-24 13:56:28.573872
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2022\Setembro:
+Giro de estoque e SMI Setembro 2022.doc; 2022-10-13 10:39:16.059000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2023\Comissão de estoques\2023-01 - Aprovado em diretoria:
+Giro de estoque e SMI Dezembro 2022.doc; 2023-01-31 12:38:19.191000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2023\Comissão de estoques\2023-15 - Aprovado em diretoria:
+ATA DA COMISSÃO DE ESTOQUES WEN_2023_xx - 10.05.doc; 2023-10-04 13:20:31.144529
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estoques\2024\Comissão de estoques\2024-01:
+MODELO PROPOSTA PARA COMISSÃO DE ESTOQUES WEN.doc; 2023-12-20 14:37:47.971212
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Estudo de Metodologia do Trabalho\Eng ind\Cronoanalise:
+XXXR-20 Prazos e investimentos para a realização das cronoanálises na WEN Jaraguá do Sul_Rev 01.doc; 2020-12-16 16:18:35.126000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\HISA:
+FLUXO PROCEDIMENTO DA EXPEDIÇÃO (2) (2).doc; 2016-08-08 15:04:12
+FLUXO PROCEDIMENTO DA EXPEDIÇÃO (2).doc; 2016-06-15 08:16:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Inventário\JGS:
+COMISSÃO DE ESTOQUES WEN INVENTÁRIOS Setembro.doc; 2020-10-07 16:23:56.212000
+COMISSÃO DE ESTOQUES WEN INVENTÁRIOS.doc; 2020-07-15 17:57:31.956000
+Giro de estoque e SMI Outubro.doc; 2020-11-12 17:32:33.779000
+Giro de estoque e SMI.DOC; 2020-10-23 13:55:46.250000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Procedimento:
+4ª F - Prazo para Controle PCP.doc; 2020-03-04 14:38:49.104150
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Relatórios:
+Relatorio - Analise de Fio comparativo.doc; 2023-07-07 16:00:39.531000
+Relatorio - Analise de Fio.doc; 2023-06-07 14:20:51.425000
+Relatorio - Atividades e objetivos WEM.doc; 2023-08-02 08:48:30.371000
+Relatorio - Chapas no depósito IA09.doc; 2023-02-08 14:01:25.443000
+Relatorio - Consumo de materiais lote minimo.doc; 2021-06-01 22:27:24.420000
+Relatorio - CPC47 para Mercado Externo.doc; 2023-09-20 16:56:17.370000
+Relatorio - Estoque de alternadores para 25 giros.doc; 2021-03-03 14:28:08.768000
+Relatorio - Estoque São Bernardo.doc; 2022-06-27 09:36:08.964000
+Relatorio - Impacto da redução do Eólico.doc; 2024-04-08 18:15:14.741269
+Relatorio - Reduce delay WEM.doc; 2024-05-09 18:56:50.305000
+Relatorio - Regras projetos especiais.doc; 2021-02-03 09:29:08.296000
+Relatorio - Resina eólico vencida.doc; 2024-05-02 18:41:56.609000
+Relatorio - Solicitação de tintas WTI.doc; 2021-01-21 10:42:18.863000
+Relatório - Estoque chapa e fio de alternadores.doc; 2022-10-18 14:38:21.412000
+Relatório - Falta de eixos em alternadores.doc; 2022-08-31 07:46:21.758000
+Report - Travel Report WEM.doc; 2023-10-04 14:07:54.721000
+~$latorio - Analise de Fio.doc; 2023-06-06 14:27:46.097714
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Reunião do planejamento\Setembro 2018:
+Guia Reunião Mensal_Pesquisa de Clima WEG_Jgua do Sul_Setembro_2018.doc; 2018-09-14 16:16:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\TCC - Modelo ATO em alternadores:
+Anderson Paulo da Luz - mono Final.doc; 2020-10-28 09:36:59.931932
+Trabalho metodologia.doc; 2020-09-11 16:07:38.712000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Vestas:
+Relatorio - Postergação do Vestas.doc; 2021-01-29 16:12:10.113000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andrei:
+Equivalência NEMA-IEC.doc; 2018-05-10 13:38:26.042000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andrei\Como criar Kit(passo-a-passo):
+Criação de Kit.doc; 2012-02-16 07:30:06
+Fluxograma controle e encerramento de medidas de Nota CS SAP.doc; 2011-06-24 15:46:16
+Manual Básico do Andrei.doc; 2012-04-12 16:58:44
+PASSO A PASSO PARA CRIAÇÃO DE KIT OU PARTES E PEÇAS.doc; 2011-02-09 08:36:27
+PASSO A PASSO PARA VERIFICAÇÃO DE EXISTÊNCIA DO KIT OU PARTES E PEÇAS.doc; 2011-02-09 07:18:59
+Procedimento CV02N Revisar Documento ZAC.doc; 2009-09-16 15:18:42
+Transação IQS9 para notas de garantia.doc; 2011-07-05 17:28:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andrei\GTA:
+Programador GTA.doc; 2017-07-31 13:52:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa:
+CGH Antunes - Kit Valvula 16017849.doc; 2021-05-20 14:24:10.348579
+Procedimento para Fabricar Partes e Peças do Brasil na Weg Índia.doc; 2022-05-09 09:25:13.692000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM:
+Procedimento  pedidos Intercompany.doc; 2021-09-23 10:19:01.669000
+~$ocedimento  pedidos Intercompany.doc; 2021-11-29 17:11:51.741552
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\120-2100520:
+20270827 - Meeting Minutes -16138934-WEM TGF -1202100520.docx.doc; 2021-08-27 13:04:18.461000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação:
+4512634491 ci  SHIPMENT 2 COMPLETE metric.doc; 2022-05-25 08:34:53.694564
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220405:
+4512686500 CI.doc; 2022-04-04 15:48:20.503794
+4512780701 CI.doc; 2022-04-05 10:31:47.756718
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220411 WSB:
+4512686500 CI shipment 2.doc; 2022-04-11 13:40:01.667552
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220412:
+4512581799 CI.doc; 2022-04-08 12:29:33.076130
+4512721127 ci  SHIPMENT 1.doc; 2022-04-12 12:53:44.477921
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220420 - WEN:
+4512552091 ci  SHIPMENT 1.doc; 2022-04-14 10:57:09.634830
+4512581799 CI SHIPMENT 2.doc; 2022-04-14 11:18:08.632135
+4512581799 CI SHIPMENT 3.doc; 2022-04-18 15:56:12.933247
+4512637889 CI.doc; 2022-04-14 11:56:07.235910
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220420 - WSB:
+4512533560 CI SHIPMENT 1.doc; 2022-04-14 11:13:57.217280
+4512533560 CI SHIPMENT 2 complete.doc; 2022-04-18 13:16:54.978302
+4512780701 CI SHIPMENT 2.doc; 2022-04-14 15:33:21.025026
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220428 - WEN:
+4512634491 ci  SHIPMENT 1.doc; 2022-04-25 11:31:00.181151
+4512634491 ci  SHIPMENT 2 COMPLETE.doc; 2022-04-27 16:30:49.865638
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220429 - WEN:
+4512721127 ci  SHIPMENT 2 partial.doc; 2022-04-28 16:52:10.214729
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220516:
+4512552091 ci  SHIPMENT 2 partial.doc; 2022-05-04 11:26:12.583287
+4512552091 ci  SHIPMENT 3 complete.doc; 2022-05-16 12:10:40.942052
+4512721127 ci  SHIPMENT 3 PARTIAL.doc; 2022-05-13 07:33:04.042101
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220519:
+4512894816 CI.doc; 2022-05-23 09:38:17.475314
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220601:
+4512805052 ci  SHIPMENT COMPLETE.doc; 2022-05-23 15:30:43.915462
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220601 - WSB:
+4512921041 CI COMPLETE.doc; 2022-05-20 16:27:46.886892
+4512932940 CI COMPLETE.doc; 2022-05-20 15:52:57.405173
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220630 - WSB:
+4512780701 CI SHIPMENT 3.doc; 2022-06-30 17:21:07.634785
+4512921044 CI SHIPMENT 1.doc; 2022-06-30 16:31:24.294681
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220707 - WSB:
+4513025441 CI SHIPMENT.doc; 2022-07-07 15:35:17.829092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220707 -WEN:
+4513118309 CI SHIPMENT 1 partial.doc; 2022-07-07 15:50:31.792803
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220714 - WEN:
+4513170403 CI.doc; 2022-07-14 15:41:10.471347
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\2 - WEM\Importação\20220714 - WSB:
+4512780701 CI SHIPMENT 4 PARTIAL.doc; 2022-07-14 12:25:18.372319
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\area de trabalho 08.03.2022:
+001A-21 -  Planejamento Sobressalentes  Antecipados em Ripa.doc; 2021-11-29 10:36:39.729000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\Documentos Diversos:
+frases comuns CLAINS.doc; 2018-07-06 12:48:13.898000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\Documentos Diversos\Manuais uteis:
+Procedimento Anexar Claim no Projeto.doc; 2018-06-18 09:59:21.522000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\E-mails Importantes definições prodecimentos:
+ATA-PTMA.doc; 2021-08-06 17:33:28.137971
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andressa\usinagem:
+Relatório_Análise Carga Usinagem.doc; 2021-05-17 16:24:45.748000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Beatriz\PAD:
+Estabelecendo Objetivos.doc; 2024-01-05 10:14:41.798562
+Linha do tempo.doc; 2024-01-05 09:31:16.072063
+Modelo PAD EM BRANCO Weg.doc; 2024-01-05 09:55:02.120841
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Centro 1220 - Produção Aerogerador:
+Criação de Deposito centro 1220.doc; 2020-09-03 16:40:53.910000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Christian\TLT\APT:
+APT - Expedição  e Consolidação - 45993.doc; 2018-05-03 08:39:14
+APT Transporte de materiais diversos na fabrica - 45995.doc; 2021-09-03 07:46:55.199000
+APT_Abastecimento de Gas nas Empilhadeiras a Conbustao - 45994.doc; 2017-01-24 13:58:24
+APT_Troca de Bateria Empilhadeira Eletrica - 45997.doc; 2017-12-13 10:20:49
+~$T_Troca de Bateria Empilhadeira Eletrica - 45997.doc; 2017-10-16 07:30:09
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia:
+Criar requisições de  compras  quadros WAU.doc; 2021-03-31 09:49:17.003000
+frases comuns CLAINS.doc; 2021-06-23 11:07:33.930000
+Procedimento  pedidos Intercompany.doc; 2021-09-23 10:18:53.231000
+Procedimento Programar Sobressalentes.doc; 2021-06-16 14:16:37.460000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\CPA:
+Calculo de Materia Prima.doc; 2014-07-16 13:30:59
+Descrição da atividade.doc; 2013-12-24 08:16:58
+Manual para retirar bloqueio de vendas.doc; 2013-03-22 14:27:17
+Materiais Comprados regras.doc; 2014-02-28 10:29:13
+~$nual para retirar bloqueio de vendas.doc; 2023-08-28 09:25:42.684572
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\EM 3200:
+Procedimento  pedidos Intercompany.doc; 2021-06-09 16:41:47.165000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\Eolico:
+Criar requisições de  compras  quadros WAU.doc; 2021-03-31 09:49:17.003000
+Eolico (2).doc; 2022-05-20 10:09:25.602000
+Eolico.doc; 2021-08-25 08:47:46.458000
+~$lico (2).doc; 2021-10-27 06:51:11.966956
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\Nova pasta:
+criar registro info.doc; 2022-08-23 17:43:00
+Manutenção de um cadastro de material.doc; 2024-02-23 07:09:34.331000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\planejamento:
+Diagramas de Rede Standard.doc; 2017-05-02 07:23:48
+Pocedimento de Envio Antecipado.doc; 2017-05-17 08:20:42
+Procedimento para Fabricar Partes e Peças do Brasil na Weg Índia.doc; 2017-04-13 11:46:36
+Procedimento Programar Sobressalentes.doc; 2017-05-17 08:53:18
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\Programação:
+013A-12 -   2Procedimentos para sobra de materiais - BA01.doc; 2012-11-24 14:10:21
+013A-12 -   Procedimentos para sobra de materiais - BA01.doc; 2013-03-28 14:40:26
+013A-12 -   Procedimentos para sobra de materiais - BA01.doc 2.doc; 2012-11-27 07:05:03
+Ata estoques de produtos acabados sem movimentação 16 03 2012.doc; 2012-03-19 15:54:36
+Criar ordem de venda - VA01.doc; 2013-08-06 15:26:45
+criar registro info.doc CPA.doc; 2011-08-16 10:14:03
+Encerramento técnico.doc; 2013-06-10 17:03:30
+Manual VA01.doc; 2013-09-11 13:24:57
+Mateiais para teste.doc; 2014-03-10 16:19:28
+Procedimento Nota de Saídas Das Bobinas - Blumenau.doc; 2012-11-06 11:51:42
+Procedimentos - Inventarios.doc; 2013-03-21 13:50:34
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\CLAIM  - Pedidos de Vendas\Guadalupe:
+frases comuns CLAINS.doc; 2022-07-13 15:16:53.546000
+Liberar MPS.doc; 2022-01-19 16:05:52.699302
+PAD.doc; 2023-05-22 08:18:42.164000
+~$ases comuns CLAINS.doc; 2022-08-29 07:17:31.793825
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\CLAIM  - Pedidos de Vendas\Guadalupe\COMO FAZ:
+ROTOR INJETADO.doc; 2023-02-16 14:04:55.244000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\CLAIM  - Pedidos de Vendas\MERCADO (TODOS)\12079597 - MGR10407 (630):
+12079597 - MGR630 - OV1356230 - 412471402 - 02 PÇS - traducao.doc; 2012-05-09 08:28:34
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\CLAIM  - Pedidos de Vendas\MERCADO (TODOS)\14054754 - W60400S:
+NORMAS.doc; 2017-06-19 10:51:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico:
+009R-21-Armazenamento máquina área descoberta.doc; 2022-01-17 10:06:22.439393
+Proposta de Armazenamento das Maquinas do Acabamento.doc; 2022-11-09 10:36:09.374000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ESTOQUES - BA01 - 1200:
+3 - Proposta Destino de materiais em Revisões por Solicitação do Cliente.doc; 2020-09-18 07:53:51.228000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ESTOQUES - BA01 - 1206\Aprovações 21.10:
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18.doc; 2020-10-21 10:19:09.591377
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18_Anexo 3.DOC; 2020-10-21 10:19:09.651581
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18_Anexo 4.DOC; 2020-10-21 10:19:09.668639
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ESTOQUES - BA01 - 1206\Aprovações 28.10:
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09 - Anexo 1.doc; 2020-10-29 07:57:56.480806
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09 - Anexo 7.doc; 2020-10-29 07:57:56.550812
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09.doc; 2020-10-29 07:57:56.510809
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ESTOQUES - BA01 - 1206\Valmir:
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18.doc; 2020-10-21 10:19:09.591377
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\GASTOS PCP LOGISTICA\Pag. Tendas:
+01 - WEG  com manutenção- Guilherme.doc; 2022-01-27 12:53:19.863924
+02 - WEG - Guilherme - JANEIRO (2).doc; 2022-01-27 12:53:19.908042
+03- WEG - Guilherme.doc; 2022-02-07 13:03:18.791253
+04- WEG - Guilherme.doc; 2022-03-14 08:34:29.961000
+05- WEG - Guilherme.doc; 2022-04-04 16:32:51.037716
+06 - WEG - Guilherme.doc; 2022-05-09 14:49:23.605070
+08 - WEG - Guilherme.doc; 2022-06-03 07:47:13.839734
+10 - WEG - Guilherme - TENDAS + MANUTENÇÕES.doc; 2022-07-08 11:23:55.151792
+12 - WEG - Guilherme - TENDAS.doc; 2022-08-11 11:40:54.060590
+15 - WEG - Guilherme - TENDAS + MANUTENÇÃO TENDAS.doc; 2022-10-05 13:15:30.773824
+16 - WEG - Guilherme - TENDAS.doc; 2022-10-05 13:15:05.913224
+18 - WEG + Manutenções - Guilherme - TENDAS.doc; 2022-11-17 11:02:16.902232
+20 - WEG  - Guilherme - TENDAS.doc; 2022-12-02 11:39:17.341870
+22 - WEG  - Guilherme - 2 TENDAS.doc; 2023-02-02 15:45:32.621509
+23 - WEG  - Guilherme - 2 TENDAS.doc; 2023-02-02 15:45:32.684019
+23 - WEG - Clesio - 1 Tenda 10x10.doc; 2023-02-03 14:00:16.859094
+24 - WEG  - Guilherme - 2 TENDAS + Manutenções.doc; 2023-04-03 07:29:29.656393
+25 - WEG  - Guilherme - 2 TENDAS.doc; 2023-03-14 07:31:53.438401
+29 - WEG  - Guilherme - 2 TENDAS.doc; 2023-05-09 09:55:11.831063
+30 - WEG  - Guilherme - 2 TENDAS.doc; 2023-05-09 09:53:07.031645
+31 - WEG - Guilherme - 1 Tenda 10x10.doc; 2023-05-09 09:28:43.023514
+32 - WEG  - Guilherme - 2 TENDAS.doc; 2023-06-19 14:47:23.007270
+33 - WEG  - Guilherme - 2 TENDAS.doc; 2023-06-19 14:47:22.913459
+34 - WEG - Guilherme - 1 Tenda 10x10 + MANUTENÇÃO.doc; 2023-06-19 14:47:22.960341
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\GASTOS PCP LOGISTICA\Pag. Tendas\Agosto:
+39 - WEG  - Guilherme - 2 TENDAS.doc; 2023-08-08 09:47:24.489945
+40 - WEG  - Guilherme - 2 TENDAS.doc; 2023-08-08 09:47:24.552490
+41 - WEG  - Guilherme - 2 TENDAS.doc; 2023-09-29 07:35:53.461351
+41 - WEG - Guilherme - 1 Tenda 10x10.doc; 2023-08-08 09:47:24.427438
+42 - WEG  - Guilherme - 2 TENDAS.doc; 2023-09-29 07:35:53.449625
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\GASTOS PCP LOGISTICA\Pag. Tendas\Julho:
+35 - ATRASADA - WEG  - Guilherme - 2 TENDAS.doc; 2023-08-08 09:46:30.479728
+36 - ATRASADA - WEG  - Guilherme - 2 TENDAS.doc; 2023-08-08 09:46:30.401659
+37 - ATRASADA - WEG - Guilherme - 1 Tenda 10x10.doc; 2023-08-08 09:46:30.542242
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\Logistica:
+009R-21-Armazenamento máquina área descoberta.doc; 2021-06-24 08:05:29.477000
+Armazenamento máquina área externa WEN.doc; 2022-02-14 16:44:27.085000
+Proposta de Armazenamento das Maquinas do Acabamento.doc; 2022-02-25 08:39:33.209000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ORÇAMENTO ASSOALHO CARRETA 33:
+Orçamento - Weg assoalho.doc; 2022-09-27 13:41:59.449744
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\Pós Graduação:
+Anexo 2  - Project Charter.doc; 2020-11-10 08:18:34.278000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\Pós Graduação\TCC:
+Artigo WEG- Copy - Anderson.doc; 2023-02-14 15:57:11.178461
+Currículo Mi! (3).doc; 2022-09-20 13:30:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\Pós Graduação\TCC\Envio:
+Fluxo de materiais.doc; 2023-02-28 07:09:31.745000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\RELATÓRIOS EMPILHADEIRAS:
+Relatório Substuição Empilhadeiras SKAN.doc; 2022-06-01 07:57:38.053317
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\RENOVAÇÃO CONTRATO LINHA DE EIXO:
+Contrato de caldeiraria 2022_.doc; 2022-05-02 14:13:37.912000
+Renovação contrato locação linha de eixo .doc; 2022-05-13 10:32:03.857000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Daniele K:
+Modelo PAD EM BRANCO Weg.doc; 2018-01-16 13:43:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Daniele K\BLOCO K:
+Ata Aerogeradores e Movimentação de Mercadoria.doc; 2017-04-17 09:42:22
+Baixa dos Kits Sobressalentes não faturaveis.doc; 2017-03-01 14:51:45
+Dipositivos internos.doc; 2017-04-03 13:04:09
+Dipositivos internos.doc - atualizado.doc; 2019-02-28 16:02:37
+DISPOSITIVOS SOLICITADOS PELA WMO E WAU PARA FABRICAÇÃO NA WEN.doc; 2016-12-02 08:13:45
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane:
+dicionário técnico.doc; 2015-03-25 12:16:29
+~$dicadores Seção.doc; 2015-07-17 16:20:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\apresentação:
+012R-13 -  Proposta Programação Linha de Montagem A %282%29.doc; 2014-05-07 18:24:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\Atas:
+001A-15 -  Melhorar o fluxo e gestão visual das alterações.doc; 2015-12-03 12:50:36
+001R-14 - Regras dos Buffers.doc; 2014-07-18 17:29:09
+ATA alteração de depositos ia11.doc; 2019-05-30 13:36:11.134000
+ATA CO27 alternadores-MB1B.doc; 2019-06-05 09:34:47.279000
+Ata WM - 03_2016.doc; 2019-06-18 08:39:37.379669
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\Bloco K\BLOCO K 3:
+Ata Aerogeradores e Movimentação de Mercadoria.doc; 2017-04-17 09:42:22
+Baixa dos Kits Sobressalentes não faturaveis.doc; 2018-03-08 16:01:33
+Dipositivos internos.doc; 2017-04-03 13:04:09
+Dipositivos internos.doc - atualizado.doc; 2017-09-05 14:19:17
+DISPOSITIVOS SOLICITADOS PELA WMO E WAU PARA FABRICAÇÃO NA WEN.doc; 2016-12-02 08:13:45
+~$ixa dos Kits Sobressalentes não faturaveis.doc; 2019-05-30 09:23:16.224770
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\Jaque\Atas:
+Ata 01-04-2015 - Sequenciamento da Produção GTA.doc; 2015-05-04 12:39:43
+Ata 03-06-2015 - Visita WMO - Controle da produção.doc; 2015-06-10 10:41:33
+Ata 14-06-2016 - Solicitação e acompanhamento de materiais comprados (itens kanban).pdf.doc; 2016-06-15 07:51:18
+MofM 28-03-2019 - KIT CONCEPT - SCOPE.pdf.doc; 2019-04-01 15:54:12
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\Kanban:
+Passo a Passo Reprogramação.doc; 2015-01-08 12:48:12
+Procedimento Produção Puxada.doc; 2015-04-24 07:08:49
+Proposta quadro montagem.doc; 2015-03-05 14:09:50
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\Procedimentos:
+Criar ordem de venda - VA01.doc; 2018-10-01 15:08:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\00 - ARQUIVOS PMC\RELATÓRIOS PMC 2013:
+003R-13 - Sistemática da Cadeia de Ajuda2.doc; 2016-06-23 14:24:49
+004R - 15 - Regras dos Buffers_final.doc; 2016-07-06 13:02:24
+004R-14 - KANBAN DE TRANSPORTE.doc; 2016-12-21 09:43:10
+005R-13 -  Procedimentos Fluxo de Material2.doc; 2016-06-28 15:22:45
+011R-13 -  Procedimentos Fluxo de Material.doc; 2016-12-21 12:41:45
+012R-13 -  Proposta Programação Linha de Montagem A.doc; 2016-08-11 17:03:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\02 - BRAINSTORMING:
+023A-16 - Acompanhamento PWQP Meta 18 - Produção Puxada Montagem A.doc; 2016-04-08 11:16:42
+~$3A-16 - Acompanhamento PWQP Meta 18 - Produção Puxada Montagem A.doc; 2016-12-21 13:24:50
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\03 - SISTEMA MECÂNICO\Tracionador da Linha:
+Identificação carga.doc; 2013-07-24 09:34:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\06 - SIMULAÇÃO FLEXSIM:
+284R-16 - Simulação no FlexSim da linha tracionada da Montagem A.doc; 2016-10-18 14:29:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\06 - SIMULAÇÃO FLEXSIM\Natália\MONTAGEM A:
+relatório da simualção.doc; 2016-04-19 13:56:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\07 - AÇÕES:
+285R-16 - Acompamanhamento PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2016-10-18 14:25:46
+~$5R-16 - Acompamanhamento PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2016-12-21 13:21:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\07 - AÇÕES\LOGÍSICA DE MATERIAIS:
+012R-13 -  Proposta Programação Linha de Montagem A.doc; 2016-08-10 08:36:19
+102A-16 - Materiais para linha tracionada da Montagem A.doc; 2016-08-01 12:39:38
+130A-16 - Normalização da Consolidação de Materiais.doc; 2016-10-18 12:03:00
+132A-16 - Normas de movimentação de materiais para as Montagens.doc; 2016-11-01 07:01:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Eliane\WMS\META 18 - Linha Tracionada Montagem A\10 - FECHAMENTO:
+003R-17 - Conclusão PWQP 2016 Meta 18 – Linha Tracionada na Montagem A.doc; 2017-01-17 15:52:09
+139A-16 - Linha Tracionada na Montagem A.doc; 2016-12-20 08:28:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester:
+000A-13 -  Modelo da Ata.doc; 2021-10-08 14:32:19.770000
+Ata 22.07.2014.doc; 2021-09-24 14:19:19.224000
+Modelo - Proposta.doc; 2022-04-20 10:51:10.147000
+Modelo PAD EM BRANCO Weg.doc; 2023-02-09 12:54:25.703000
+PROPOSTA -5s digitalt.doc; 2023-08-25 08:02:49.777000
+PROPOSTA -Alteração de Layout.doc; 2022-04-20 10:50:16.372000
+Proposta.doc; 2021-12-16 16:36:18.071000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\5s:
+Anexo 1 - Etiqueta padrão.doc; 2017-03-21 15:39:29
+etiquetas cadeiras.doc; 2016-04-15 09:57:25
+ETIQUETAS LIXEIROS.doc; 2016-04-15 10:45:37
+Etiquetas produtos inflamáveis.doc; 2014-04-14 15:04:32
+Etiquetas sala de aula e PEMC 2.doc; 2016-04-29 10:45:06
+~$exo 1 - Etiqueta padrão.doc; 2021-01-14 16:07:00.949073
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Giro de estoque SMI\2021:
+Giro de estoque e SMI Dezembro 2021.doc; 2022-01-26 07:38:37.882000
+Giro de estoque e SMI Maio 2021.doc; 2021-06-16 14:10:07.239000
+Giro de estoque e SMI Novembro 2021.doc; 2021-12-16 09:45:08.764000
+Giro de estoque e SMI Outubro 2021.doc; 2021-11-19 11:19:07.489888
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Giro de estoque SMI\2022:
+Giro de estoque e SMI Agosto 2022.doc; 2022-09-15 11:23:56.899000
+Giro de estoque e SMI Dezembro 2022.doc; 2023-01-25 09:47:09.686000
+Giro de estoque e SMI Janeiro 2022.doc; 2022-02-23 09:24:19.950000
+Giro de estoque e SMI Julho 2022.doc; 2022-08-12 16:38:52.508000
+Giro de estoque e SMI Junho 2022.doc; 2022-07-15 14:06:21.333000
+Giro de estoque e SMI Maio 2022.doc; 2022-06-13 11:14:45.217000
+Giro de estoque e SMI Novembro 2022.doc; 2022-12-16 11:06:26.010000
+Giro de estoque e SMI Outubro 2022.doc; 2022-11-21 13:28:06.903000
+~$ro de estoque e SMI Dezembro 2022.doc; 2023-01-25 09:08:29.759325
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Giro de estoque SMI\2023\PASTA PADRÃO:
+Indicadores_Diretoria_Industrial_WEG EM.doc; 2023-02-15 13:29:10.643000
+Indicadores_Diretoria_Industrial_WEN - JGS.doc; 2023-09-12 09:30:35.819000
+Indicadores_Diretoria_Industrial_WEN.doc; 2017-02-23 14:59:20
+Indicadores_Diretoria_Industrial_WEN_WSB..doc; 2023-03-10 09:34:13.800000
+Indicadores_Diretoria_Industrial_WII.doc; 2023-02-15 13:25:25.113000
+~$dicadores_Diretoria_Industrial_WEG EM.doc; 2018-04-26 07:52:42
+~$dicadores_Diretoria_Industrial_WEN - JGS.doc; 2017-02-07 14:57:18
+~$dicadores_Diretoria_Industrial_WEN..doc; 2015-11-18 08:09:49
+~$dicadores_Diretoria_Industrial_WEN.doc; 2016-02-16 09:16:03
+~$dicadores_Diretoria_Industrial_WEN_WSB..doc; 2016-02-16 13:43:34
+~$dicadores_Diretoria_Industrial_WII.doc; 2020-07-28 14:20:57.443334
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Manual de Procedimentos:
+Planejado x Realizado.doc; 2017-02-01 09:54:47
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Manual de Procedimentos\Indicadores Mensal:
+4ª F - Prazo para Controle PCP.doc; 2020-08-19 08:32:55.739000
+Indicador Kanban WEN .doc; 2020-09-08 15:52:43.496000
+Ord_Prod_Atraso.doc; 2023-07-05 14:26:16.314000
+Planejado x Realizado.doc; 2017-02-01 09:54:47
+~$d_Prod_Atraso.doc; 2021-09-08 13:11:58.758151
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Manual de Procedimentos\Indicadores Semanal:
+Prazo para Controle PCP.doc; 2020-07-09 08:08:59.146000
+Tabela Engenharia.doc; 2020-06-23 15:10:22.235000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Projeto P:
+Apresentação .doc; 2021-12-16 16:25:48.563000
+CRONOGRAMA REUNIÃO.doc; 2021-09-16 10:46:45.974000
+~$resentação .doc; 2021-06-22 07:50:40.643872
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\viagem:
+Carta de Apresentação para Visto Americano - Anderson.doc; 2023-05-03 13:12:23.004000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\_BAIXACPD\Indices - MACRO\Status do Sistema:
+Forn.doc; 2014-03-03 07:47:30
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura:
+Alterar o Layout das colunas da lista técnica no roteiro.doc; 2013-02-26 10:18:10
+Forma Construtiva .doc; 2011-08-05 10:29:44
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\ATAs:
+001CP-17 -   Ata.doc; 2017-06-09 09:26:59
+010CP-13 - ECMs que são encaminhados para a CPA.doc; 2013-06-21 16:00:44
+012CP-13 - Análise e atualizações do manual de criação dos roteiros.doc; 2013-11-13 11:40:49
+013CP-13 -  Estagiamento de materiais (rotores linha MA e S polos lisos).doc; 2013-11-13 15:42:31
+014CP-13 - Posições fixas da lista técnica e estagiamento automático.doc; 2013-11-25 07:20:42
+ATA Nª1 ARMAZENAMENTO PLACAS IDENTIFICAÇÃO.doc; 2012-05-23 14:51:52
+ATA Nª2 FUNDIDOD COM SUCATEADOS.doc; 2011-07-01 15:19:31
+ATA Nª4 GERENCIAMENTO DO PROJETO.doc; 2012-05-23 13:10:49
+ATA Nª5 CHAPA DISTANCIADORA.doc; 2012-06-26 15:46:53
+ATA Nª6 Definir regras para operações e estagiamento nos materiais Item final dos Geradores da fabrica V..doc; 2013-02-15 09:30:48
+ATA Nª7 ECM DE MODIFICAÇÃO.doc; 2013-05-09 11:36:24
+ATA Nº 8 Modificações da linha H.doc; 2013-05-16 14:12:13
+ATA Nº9 estagiamento automático carcaças soldadas.doc; 2013-09-27 15:02:33
+ATA Programadores 09 05 2012 (2).doc; 2012-05-15 09:38:16
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\ATAs\Novo modelo de ATA-Arquivadas no SahrePoint:
+001CP-13 - ARMAZENAMENTO PLACAS IDENTIFICAÇÃO.doc; 2013-06-20 13:23:31
+002CP-13 - Definir forma de controle dos itens fundidos com modelos sucateados.doc; 2013-06-20 13:28:24
+004CP-13 - Gerenciamento de Projeto (PS).doc; 2013-06-20 13:45:21
+005CP-13 - Redefinir Planejador para as Chapas distanciadora com distanciador Estator e Rotor.doc; 2013-06-20 13:58:49
+006CP-13 - Definir regras para operações e estagiamento nos materiais Item final dos Geradores da fabrica V.doc; 2013-06-20 14:10:19
+007CP-13 - Definir processos de envio das ECMs de Modificação.doc; 2013-06-20 14:54:18
+008CP-13 - Definir método e procedimentos de modificações em ECM’s e claim ZR, ZZ.doc; 2013-06-20 15:09:16
+009CP-13 - Materiais base para roteiro de usinagem.doc; 2013-06-20 09:07:07
+010CP-13 - ECMs que são encaminhados para a CPA.doc; 2013-06-21 16:00:44
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Características dos centros de trabalho usinagem:
+Roteiros.doc; 2015-05-22 13:11:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\CPA_MANUAL_DE _ATIVIDADES\INFORMAÇÕES:
+172A-09 - Transferência eixos CC e FAF para WMO Flávia.doc; 2011-06-28 16:06:09
+172A-09 - Transferência eixos CC e FAF para WMO.doc; 2010-02-04 06:51:41
+711-017 Manual Validações automáticas nas visões criação material.doc; 2010-09-09 08:55:25
+AP215_711-001_nova_proposta ZTMM20_VILSON.doc; 2011-01-25 09:16:48
+Caixa_Ligaçao.doc; 2009-07-22 16:13:19
+Controle de projeto.doc; 2009-12-03 10:23:24
+Fluxo de atribuiçoes CPA.doc; 2010-08-31 13:57:55
+Manutenção de um cadastro de material.doc; 2013-03-21 16:14:20
+Novo método de trabalho.doc; 2009-10-23 15:42:05
+Para ver anexo na QM.doc; 2011-02-18 08:25:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\ECM de Modificação:
+Manual para modificações pelo ECM - Rev005.doc; 2017-05-25 14:01:57
+New method of ECM Modifications - Rev002.doc; 2015-02-23 16:40:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Informações:
+037A-12 - Procedimento para estagiamento das placas de vazão e suporte travamento carcaça.doc; 2012-03-22 07:35:58
+ATA para transferencia de tintas pela CO27.doc; 2012-06-26 17:04:59
+Bom dia.doc; 2012-03-22 08:33:02
+Chapa de balanceamento rotores 2 pólos 2.doc; 2013-06-13 15:03:08
+ENP-001-12  - Roteiros padronizados por familia de eixos.doc; 2013-01-10 12:20:03
+Levantamento dos materiais CONJ VISOR NIVEL MANCAL OLEO.DOC; 2012-08-07 17:01:12
+Transferência da fabricação de estatores e rotores excitratriz EP linha G.doc; 2013-01-14 12:32:47
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jean C\Jean Documentos\cancelamento contribuição sindical 2015:
+Declaração referente ao cancelamento da Contribuição Sindical 2015.doc; 2015-02-20 09:15:59
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jean C\Jean Ricardi Correia\Desktop\Jean Documentos\cancelamento contribuição sindical 2015:
+Declaração referente ao cancelamento da Contribuição Sindical 2015.doc; 2015-02-20 09:15:59
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jean C\Jean Ricardi Correia\Desktop\jogos\Receitas:
+Livro_de_Receitas Churrasco[1].doc; 2010-02-24 23:06:07
+Receitas de Churrasco.doc; 2012-07-04 22:12:47
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jean C\Jean Ricardi Correia\Desktop\Pastas de planilhas\Usinagem:
+310R-13 Procedimento para realizar a usinagem em tampas International Paper linha HGF.doc; 2015-02-02 06:15:08
+356R-13 Procedimento para realizar a usinagem em tampas International Paper linha M.doc; 2015-02-02 06:15:23
+Caderno IP.doc; 2015-01-09 15:42:11
+ENP-001-12  - Roteiros padronizados por familia de eixos.doc; 2015-01-14 07:28:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jean C\Pastas de planilhas\Usinagem:
+310R-13 Procedimento para realizar a usinagem em tampas International Paper linha HGF.doc; 2015-02-02 06:15:08
+356R-13 Procedimento para realizar a usinagem em tampas International Paper linha M.doc; 2015-02-02 06:15:23
+Caderno IP.doc; 2015-01-09 15:42:11
+ENP-001-12  - Roteiros padronizados por familia de eixos.doc; 2015-01-14 07:28:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson:
+~$teriais Comprados regras.doc; 2014-03-20 13:58:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\1 - ATA\Modelos:
+000A-13 -  Modelo da Ata.doc; 2014-07-21 13:03:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\10 - WEGNOLOGY:
+Fluxo Grama Planejamento .doc; 2014-07-14 16:17:50
+Manutenção de um cadastro de material.doc; 2013-03-21 16:14:20
+~$nutenção de um cadastro de material.doc; 2014-07-30 15:33:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\2 - CALDERARIA\Capacidade das maquinas\Dobradeira:
+Altura do punção.doc; 2013-09-11 13:47:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\6 - DOCUMENTOS TÉCNICOS:
+Materiais.doc; 2015-03-12 15:05:23
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\7 - MELHORIAS:
+5's Feminino.doc; 2014-04-15 15:58:14
+5's Masculino.doc; 2014-04-15 15:49:38
+Padrão Jefferson.doc; 2015-03-23 09:05:45
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\8 - WORK FLOW:
+Manual comprados.doc; 2014-03-26 14:22:47
+Planejadores W.doc; 2014-03-12 14:25:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\Not:
+Currículum Jefferson de Medeiros.doc; 2017-09-14 11:24:58
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Projetos\Roteiro\Documentos para roteiros:
+003CP-14 - Discutir e entrar em um consenso a respeito do projeto 120-1300390-2 referente ao material 12699739.doc; 2014-03-10 16:13:19
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Projetos\Roteiro\Documentos para roteiros\Doc. Importantes:
+018A-13 - Transferência Motores Verticais da Montagem A para a Montagem B.doc; 2013-02-05 13:42:42
+131A-12 - Alteração no processo de fabricação do conjunto excitação turbogerador.doc; 2012-09-18 11:09:29
+145A-12 - Solicitação para inclusão de Operações para ajuste de centro magnético.doc; 2012-10-29 12:42:56
+147A-12 - Análise do fluxo para fabricação de dispositivos.doc; 2012-11-12 08:11:10
+150A-12 - Informações de pintura nos roteiros.doc; 2012-11-20 07:33:58
+155A-12 - Alterar estagiamento das tampas caixas ligação.doc; 2013-01-16 14:39:03
+233A-11- Alteração para estrutura do rotor.doc; 2011-09-26 16:50:07
+Ata da reunião - Estagiamento Célula Excitação.doc; 2012-10-23 14:41:26
+Ata da reunião -Documentos Célula segunda reuniao.doc; 2013-01-18 12:41:24
+Ata da reunião 07 - Alteração referente as operação 1800 e 3000 - 1900 e 2200..doc; 2013-05-14 12:44:43
+Ata Reunião - Medição da Rebarba de Chapas - 26-01-2011.doc; 2013-02-01 11:49:22
+CD 11351 - Comunicado Liberação.doc; 2012-07-17 09:22:16
+Comissão Operacional Padronização rugosidade no cubo de aranhas e rodas polares.doc; 2012-05-28 09:43:29
+Engenharia de manufatura.doc; 2011-03-30 13:45:35
+Forma Construtiva.doc; 2010-05-04 08:30:13
+Montagem de tubulação.doc; 2012-10-04 16:38:24
+TBG-1591-POR - Sinetagem de eixos rastreados.doc; 2012-06-28 08:02:23
+Tempos de Processo.doc; 2012-09-04 10:24:34
+TOP-4255 Soldar Tubulação com solda TIG (3).doc; 2012-09-27 15:18:33
+TSQ - Dispositivos de Fabricação.doc; 2012-11-12 07:53:26
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Projetos\Roteiro\Documentos para roteiros\Normas:
+TBG-0561 - CT's WEG Maquinas.doc; 2014-02-04 14:10:06
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Projetos\Roteiro\Projetos 2012\PROJETOS MÊS 07 _ Problemas:
+PEP 120-1002084-21.doc; 2012-07-16 10:38:57
+PEP 120-1002085-21.doc; 2012-07-13 13:00:17
+PEP 120-1200006-21.doc; 2012-07-19 07:57:19
+PEP 120-1200272-21.doc; 2012-07-13 12:16:53
+PEP 120-1200288-21.doc; 2012-07-17 15:16:11
+PEP 120-1200352-2.doc; 2012-07-13 12:57:09
+PEP 120-1200439-2.doc; 2012-07-13 08:02:28
+PEP 120-1200463-21.doc; 2012-07-16 12:37:32
+PEP 120-1200464-21.doc; 2012-07-17 13:16:11
+PEP 120-1200477-21.doc; 2012-07-13 08:44:32
+PEP 120-1200500-21.doc; 2012-07-17 13:16:51
+PEP 120-1200523-2.doc; 2012-07-19 08:22:26
+PEP 120-1200524-21.doc; 2012-07-12 15:22:41
+PEP 120-1200536-2.doc; 2012-07-17 15:35:07
+PEP 120-1200539-21.doc; 2012-07-18 15:20:40
+PEP 120-1200559-21.doc; 2012-07-18 10:30:59
+PEP 120-1200567-B2.doc; 2012-07-18 10:35:04
+PEP 120-1200567-D2.doc; 2012-07-19 08:27:35
+PEP 120-1200567-G2.doc; 2012-07-18 12:55:17
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Projetos\Roteiro\SÃO ROQUE - SLW 4000:
+1º Claim 412790800.doc; 2014-02-19 09:39:14
+2º Claim 412790800.doc; 2014-02-19 09:32:24
+4º Claim 412790800.doc; 2014-02-27 14:10:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Tempos\CALDEIRARIA\Capacidade das maquinas\Dobradeira:
+Altura do punção.doc; 2013-09-11 13:47:38
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\1. VESTAS\FURO CARCAÇA VESTAS:
+Analise Carcaça Vestas 2024.doc; 2024-03-19 16:53:29.442000
+Analise Carcaça Vestas Valmir.doc; 2024-02-16 16:04:15.290000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\MANUAIS ROGÉRIO_Procedimentos\Guadalupe:
+ROTOR INJETADO.doc; 2024-01-17 10:05:55.473000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Planejamento Estratégico:
+PLANEJAMENTO ESTRATEGICO PCP.doc; 2023-12-13 15:11:07.562000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Planejamento Estratégico\Pesquisa Direcionamento Estratégico SAP-SCM:
+WEG_PRON_VIS_Questionario_Expectativas_vf.doc; 2023-06-30 07:52:46.379000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Procedimentos:
+Procedimento Liberação de Ordens de Produção.doc; 2023-05-30 16:10:03.810000
+Procedimento para visualização CARGA MAQUINA.doc; 2023-05-30 15:56:33.790000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\WOL:
+Transações WOL - visão geral.doc; 2023-11-22 08:28:11.899182
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Franciele\viagem:
+Carta de Apresentação para Visto Americano - Anderson.doc; 2023-05-03 13:12:23.004000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco:
+Indicadores_Diretoria_Industrial_WEN - JGS.doc; 2023-02-14 16:15:07.975000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Analise final compras:
+Relatório_Análise_comprados_WSB_JGS_BR.doc; 2022-06-14 11:17:25.547000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\analise uti\2023.09.18:
+Relatório_UTI.doc; 2023-09-18 13:46:08.238000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\analise uti\2023.09.25:
+Relatório_UTI.doc; 2023-09-25 14:06:03.482000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\analises:
+Relatório_Análise_comprados_WEN_BR.doc; 2021-10-05 15:18:10.646000
+Relatório_Análise_comprados_WSB_JGS_BR.doc; 2021-12-14 13:10:15.721000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\AVALIAÇÕES VESTAS:
+Analise Falta de Trocador Vestasdoc.doc; 2022-05-16 13:11:50.476000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros:
+Relatório_Análise_comprados_WENBR.doc; 2022-04-05 14:09:59.862000
+Relatório_Análise_marco_comprados_WENBR.doc; 2022-04-05 14:10:24.402000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Levantamento - Reaproveitamento em outros centros:
+Relatório_resultadoParcial_reaproveitamento_ferramenta.doc; 2023-08-01 15:17:15.768000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Levantamento ferramenta de monitoramento:
+Relatório_resultado_ferramenta.doc; 2022-06-20 16:28:12.174000
+Relatório_resultado_ferramenta_pcp.doc; 2022-09-16 15:40:55.253000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\PROCEDIMENTOS:
+Procedimento CR21 Criar Hierarquias de Centros de Trabalho.doc; 2022-10-31 10:17:38.084000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe:
+PAD.doc; 2023-05-22 08:18:42.164000
+~$ases comuns CLAINS.doc; 2022-08-29 07:17:31.793825
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\COMO FAZ:
+ROTOR INJETADO.doc; 2024-01-17 10:05:55.473000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4512921044:
+4512921044 CI.doc; 2022-07-26 09:28:28.297000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4512966198:
+4512966198 CI  COMPLETE.doc; 2022-10-13 10:08:14.731000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4512986181:
+4512986181 CI  partial SHIPMENT 1.doc; 2022-09-05 09:12:50.109000
+4512986181 CI SHIPMENT 2 complete.doc; 2022-10-20 10:31:07.461000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4512998976:
+4512998976 CI SHIPMENT COMPLETE (002).doc; 2022-07-28 11:14:53.440000
+4512998976 CI SHIPMENT COMPLETE.doc; 2022-07-26 09:37:50.757000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513005396:
+4513005396 CI SHIPMENT COMPLETE.doc; 2022-08-01 08:50:04.401000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513028141:
+4513028141 CI SHIPMENT 2 COMPLETE.doc; 2022-08-10 17:32:32.816000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513088058:
+4513088058 CI COMPLETE.doc; 2022-08-08 13:32:36.794000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513113695:
+4513118309 CI complete.doc; 2022-09-23 14:56:43.619000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513118309:
+4513118309 CI SHIPMENT 2 complete.doc; 2022-11-10 08:35:17.698000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513122457:
+4513122457 CI SHIPMENT.doc; 2022-08-02 16:12:20.886000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513122849:
+4513122849 CI  complete.doc; 2022-09-14 14:27:03.553000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513205094:
+4513205094 CI COMPLETE.doc; 2022-10-18 17:34:38.740000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513206734:
+4513206734 CI SHIPMENT 1 partial.doc; 2022-08-05 13:06:26.484000
+4513206734 CI SHIPMENT 2 complete.doc; 2022-08-31 10:38:31.102891
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513225143:
+4513225143 CI  COMPLETE.doc; 2022-10-10 09:38:12.041000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513310419:
+4513310419 CI.DOC; 2022-11-18 12:55:46.767000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513322153:
+4513322153 CI  COMPLETE SHIPMENT 2.doc; 2022-11-04 13:34:24.204000
+4513322153 CI  PARTIAL SHIPMENT 1.doc; 2022-10-25 16:16:20.439000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513343048:
+4513343048 CI SHIPMENT COMPLETE.doc; 2022-09-23 07:20:32.993000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513356530:
+4513356530  CI partial.doc; 2022-12-21 16:21:22.803000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513383248:
+4513383248 CI SHIPMENT 2 2complete.doc; 2023-01-23 16:56:47.626000
+4513383248 CI SHIPMENT 2 COMPLETE.doc; 2022-11-09 15:57:37.385000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513431069:
+4513431069 CI COMPLETE.doc; 2022-12-13 14:32:58.711000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513438134:
+4513438134 CI  complete.doc; 2022-10-06 12:34:06.983000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513495700:
+4513495700 CI  COMPLETE.doc; 2022-10-13 10:34:40.918000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513540031:
+4513540031 CI COMPLETE shipment 2.doc; 2022-12-23 09:10:58.707000
+4513540031 CI partial shipment 1.doc; 2023-03-15 14:50:09.066000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513554373:
+NEW WEG CI (002).doc; 2023-06-21 14:29:11.424000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513648498:
+4513648498 CI.DOC; 2022-12-19 17:29:48.228000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513785530:
+4513785530 CI COMPLETE.doc; 2023-02-07 14:07:35.746000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513807945:
+4513807945 CI COMPLETE shipment 2.doc; 2023-03-10 07:42:53.735000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513820389:
+CI PAINT.doc; 2023-05-19 16:38:41.053000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513930753:
+4513930753 CI SHIPMENT 1 PARTIAL.doc; 2023-03-14 12:50:20.197000
+NEW WEG CI 40.doc; 2023-07-14 12:30:54.536000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4513953888:
+4513953888 10.doc; 2023-07-12 15:53:10.857000
+4513953888 CI  partial.doc; 2023-04-12 10:59:25.931000
+4513953888 ci (002).doc; 2023-08-03 15:16:09.024000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514043835:
+4514043835 SAN BERNARDO DO CAMPO SP CI.doc; 2023-06-21 14:35:13.996000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514124045:
+4514124045 CI 2.doc; 2023-09-15 16:13:33.313000
+4514124045 CI.doc; 2023-09-08 12:36:20.824000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514189722:
+NEW WEG CI.doc; 2023-05-16 12:45:51.414000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514210118:
+4514210118 JARAGUA DO SUL COMMERCIAL INVOICE.doc; 2023-05-23 07:45:46.399000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514213094:
+4514213094 ci.doc; 2023-09-12 13:29:18.542000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514305337:
+NEW WEG CI (003).doc; 2023-07-07 08:11:51.957000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514319788:
+NEW WEG CI (003).doc; 2023-06-29 12:41:51.753000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514369782:
+4514369782 NEW WEG CI.doc; 2023-08-01 13:24:02.368000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514388330:
+4514388330 (002).doc; 2023-08-21 07:49:04.762000
+4514388330 (004).doc; 2023-08-02 15:59:50.938000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514520449:
+4514520449 CI.doc; 2023-10-11 12:34:48.784000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514555199:
+4514555199 CI.doc; 2023-08-22 15:07:35.459000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514560886:
+4514560886 CI.doc; 2023-10-03 16:01:00.867000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514580602:
+4514580602 ci.doc; 2023-08-23 12:26:04.652000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514586023:
+45145286023 CI.doc; 2023-10-11 13:58:14.066000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514589611:
+4514589611 CI.doc; 2023-09-06 13:41:57.772000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4514606334:
+4514606334 CI.doc; 2023-09-11 16:55:18.664000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guadalupe\Pedidos EM\4515014057:
+INVOICE 4515014057.doc; 2024-01-23 12:38:07.381000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\PROJETO ATO:
+Proposta Implantação  ATO Alternadores.doc; 2022-05-09 11:21:56.019000
+Proposta Implantação  ATO Alternadores_V1.doc; 2022-05-09 13:10:32.808000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ivanrl\Backup\Area de trabalho\Ivan Rafael Leitzke:
+Cadastro de Financiamento.doc; 2015-10-27 08:25:51.301000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Atas:
+Ata 01-04-2015 - Sequenciamento da Produção GTA.doc; 2015-05-04 12:39:43
+Ata 03-06-2015 - Visita WMO - Controle da produção.doc; 2015-06-10 10:41:33
+Ata 14-06-2016 - Solicitação e acompanhamento de materiais comprados (itens kanban).pdf.doc; 2016-06-15 07:51:18
+MofM 28-03-2019 - KIT CONCEPT - SCOPE.pdf.doc; 2019-04-01 15:54:12
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\03. DQF:
+Relatório do projeto - proposta.doc; 2015-05-06 10:32:56
+Relatório do projeto - VSM DQF.doc; 2015-07-17 18:14:12
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Administrativo:
+FLUXO-GRUPO02-REV01.doc; 2010-03-03 11:53:10
+lista de participantes.doc; 2010-01-29 13:54:20
+Novo Fluxo de Implantação de OV.doc; 2010-03-04 09:30:35
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Administrativo - Pos Vendas:
+Ata_16-2011 VSM Pós-Vendas.doc; 2011-11-08 14:14:04
+planilha check list - SAP10001039898 Rev. 06.doc; 2011-12-16 13:01:40
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Bobinagem de Estator\2010:
+Mapa - Bob. estator Futuro.doc; 2010-05-13 15:52:16
+Mapa - Bob. estator.doc; 2010-05-13 16:02:56
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Montagem e Bobinagem Fio Circular:
+197A-10 VSP Montagem A - preparação 15 16 julho.doc; 2010-07-16 16:43:39
+ATA VSP Montagem A - preparação 15 16 julho.doc; 2010-07-16 17:38:41
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Serviços:
+Fluxograma_Vendas_Servi%c3%a7os_01[1].doc; 2010-02-17 15:38:22
+VSM Atual Serviços.doc; 2010-02-25 13:57:40
+VSM Futuro Serviços.doc; 2010-02-25 15:35:31
+VSM Futuro Serviçosed.doc; 2010-02-25 15:28:27
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Turbo Geradores 900\1 GK 02_03_09:
+1º Pre Kaizen - Ata 01.doc; 2009-02-02 15:45:18
+2º Pre Kaizen - Ata 02.doc; 2009-02-26 10:17:23
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Turbo Geradores 900\1 GK 02_03_09\Silvia - WEN:
+ETIQUETAS IDENTIFICAÇÃO DO PISO.doc; 2009-03-05 17:13:16
+Identificaçao - ferramentas et al.doc; 2009-03-05 16:39:11
+Identificação - Kanbam.doc; 2009-03-06 09:35:32
+VER AGIR.doc; 2009-03-06 08:53:17
+~$entificaçao - ferramentas et al.doc; 2009-03-05 14:54:13
+~$entificação - Kanbam.doc; 2009-03-05 15:56:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Usinagem\Leve:
+linha tempo.doc; 2011-01-24 17:30:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Exemplos VSM - pasta PEMC\VSM Usinagem\Pesada:
+Ações propostas.doc; 2010-12-07 07:55:10
+Lista de desperdícios.doc; 2010-12-14 13:10:46
+PR-00200_08_Rev.07_-_Mancais_Horizontais_-_Máquinas_Elétricas_Girantes.doc; 2010-11-22 12:23:41
+PR-00253_08_-_Rev.06.doc; 2010-11-22 12:23:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Procedimentos:
+PROCEDIMENTO - Verificações para materiais sem hierarquia de cotas.doc; 2015-02-19 07:09:14
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Procedimentos\Trade:
+PROCEDIMENTO - Motores CC Unidade Hidraulica.doc; 2016-10-17 08:34:19
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Produção Puxada:
+004R - 15 - Regras dos Buffers.doc; 2015-09-10 16:47:46
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\Sistema Supervisório GTA\Lei do Bem:
+FORMULARIO AVALIAÇÃO ENQUADRAMENTO PROJETOS - Projeto PCP revisado.doc; 2015-04-29 14:25:55
+FORMULARIO AVALIAÇÃO ENQUADRAMENTO PROJETOS - Projeto PCP.doc; 2015-04-28 12:51:16
+PCP - FORMULARIO AVALIAÇÃO ENQUADRAMENTO PROJETOS.doc; 2015-04-08 10:08:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jaque\WEM:
+WIS Suite Business Blueprint - PS.doc; 2018-04-27 09:49:01
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean:
+Etiquetas 5S em WORD.doc; 2021-01-14 13:10:18.289000
+frases comuns CLAINS.doc; 2022-02-02 16:33:52.482000
+Procedimento para criação e programação de sobressalentes.doc; 2016-08-11 15:53:23
+~$ases comuns CLAINS.doc; 2021-12-03 09:59:03.912484
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\ANO 2011\Ata programação:
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN (2).doc; 2009-08-24 13:43:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\ATAS:
+Fluxo Modificações.doc; 2015-04-09 12:52:31
+Modelo ATA.doc; 2015-04-09 12:50:54
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Formulários:
+Doc1.doc; 2010-11-22 12:50:07
+erro SAP.doc; 2009-10-06 09:55:44
+frases comuns CLAINS (3) - fernanda.doc; 2012-09-20 11:12:48
+GSA315.doc; 2012-03-20 11:09:29
+Impacto Proposta Nomenclatura WM_MS (2).doc; 2009-08-20 14:20:06
+Lista do Estator - compensador.doc; 2013-04-08 15:10:48
+MD19 (MARCOS).doc; 2012-05-21 14:34:59
+MD19.doc; 2012-05-17 07:44:01
+Na tela IQS9.doc; 2009-01-15 13:36:43
+PROCEDIMENTO PROJETOS NOVO MODELO.doc; 2009-12-01 14:00:36
+Procedimento PS _Jean.doc; 2009-10-07 11:13:50
+Procedimento PS.doc; 2008-12-18 12:13:40
+Questionário MRP (3).doc; 2010-09-03 08:35:44
+Questionário PCP planej  do projeto (3).doc; 2010-09-03 08:35:07
+RASTREABILIDADE PERY2.doc; 2011-02-28 10:54:16
+REVISÕES.doc; 2009-08-21 07:54:18
+TABELA DE PREÇOS.doc; 2012-03-16 08:19:18
+TELA MD19.doc; 2009-09-30 11:24:56
+Telefones Responsaveis PCP.doc; 2009-12-02 08:29:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Formulários\Impressora:
+REQUISIÇÃO DE SUPRIMENTOS WEG (2) (3).doc; 2012-01-10 07:15:37
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Formulários já utilizados:
+MRP II.doc; 2006-09-18 13:19:02
+REPROGRAMAÇÃO  11.doc; 2010-09-16 15:13:53
+REPROGRAMAÇÃO.doc; 2010-11-12 09:37:50
+~$PROGRAMAÇÃO.doc; 2009-07-14 15:33:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Frases:
+frases comuns CLAINS.doc; 2024-04-11 08:56:19.188000
+~$ases comuns CLAINS.doc; 2023-07-05 08:03:36.233583
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\HISA:
+mrp.doc; 2017-12-27 07:56:10
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Impressora:
+REQUISIÇÃO DE SUPRIMENTOS WEG (2).doc; 2012-03-13 08:11:37
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\MOTORES  - CLAINS JÁ APONTADOS\Linha G\13770676 - GTD560:
+NORMAS.doc; 2016-10-04 15:43:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\MOTORES  - CLAINS JÁ APONTADOS\Linha M\15316978 - W60450S:
+NORMAS.doc; 2020-02-03 10:00:50.983173
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\MOTORES  - CLAINS JÁ APONTADOS\Linha M\15335822 - MGP8010:
+NORMAS.doc; 2020-02-14 07:47:10.310383
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Procedimentos:
+Ajuste de Parâmetros.doc; 2024-04-09 07:13:56.109000
+Frases e informações para ajudar no dia a dia.doc; 2024-04-10 12:45:36.308000
+Procedimento Fechamento Mensal.doc; 2024-04-10 12:51:37.057000
+Procedimento para alteração para nova TRADE.doc; 2024-04-10 12:44:42.863000
+PROGRAMAÇÃO.doc; 2024-04-08 10:51:45.786000
+Relatóios diários - COOIS e MD19.doc; 2024-04-08 08:20:23.828000
+Relatório do Quadro Suely.doc; 2024-04-08 09:24:39.059000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Procedimentos SAP:
+PROCEDIMENTO PROJETOS NOVO MODELO.doc; 2011-05-03 10:56:00
+ZTPS008 - VALORES.doc; 2009-12-04 10:42:58
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\QUADRO_SALA_SUELY\Programa de remessa\Manuais:
+Cancelar requisição de compra.doc; 2009-06-16 08:53:10
+Claim.doc; 2009-06-16 08:26:36
+CM01 - atividades no P.S.doc; 2010-04-28 15:38:29
+CRONOGRAMAS.doc; 2010-04-19 09:04:20
+CS15.doc; 2009-06-16 11:04:22
+Descrição atividades.doc; 2010-05-06 14:48:57
+Enviar pedido por e-mail.doc; 2009-06-23 09:42:11
+Liberar MPS.doc; 2010-05-11 14:07:19
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN.doc; 2009-08-12 18:49:48
+Relatório para tirar atrasos de fios.doc; 2009-08-31 16:17:18
+RIPAS.doc; 2010-02-25 08:58:09
+Tela MD06.doc; 2009-06-01 16:03:15
+Tela ZTPP107 - motor CC e carcaça bobinada.doc; 2009-07-13 08:49:39
+Tipos de movimento.doc; 2009-08-31 11:08:47
+Transferência de estoque.doc; 2009-06-23 18:21:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\SAO ROQUE:
+Modelo ATA.doc; 2015-04-07 09:26:41
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Sindicato:
+Declaração referente ao cancel  Contribuição Ass 2013.doc; 2016-02-22 09:27:30
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Solicitacao Toner:
+REQUISIÇÃO DE SUPRIMENTOS WEG.doc; 2012-05-31 14:31:54
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Jean\Unerj:
+ESTAGIO_SUPERVISIONADO_1 SERGIO.doc; 2009-09-14 13:48:39
+Fundamentos da Administração (marlene) 1.doc; 2009-10-26 12:30:02
+Fundamentos da Administração (marlene) 2 19-10.doc; 2010-10-19 07:17:30
+Fundamentos da Administração (marlene).doc; 2009-10-23 12:20:25
+Projeto Final.doc; 2009-09-08 07:43:54
+TCC-20 04 2010 (3).doc; 2010-04-20 12:05:56
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Juliano\Reuniao_Secao\Reuniao Secao 2018_09:
+Guia Reunião Mensal_Pesquisa de Clima WEG_Jgua do Sul_Setembro_2018.doc; 2018-09-14 16:16:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Juliano\TLT - PCP Planejamento da Produçao:
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao - em 07-11-2013.doc; 2014-04-28 07:57:55
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao 1.doc; 2013-11-06 11:45:30
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao.doc; 2009-04-15 18:52:49
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag1.doc; 2014-04-28 07:58:25
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag1.doc 17.10.doc; 2016-10-25 13:35:27
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag1.doc 28.10.doc; 2016-10-31 10:07:36
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag2.doc; 2014-04-28 08:06:01
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag2.doc - 17.10.doc; 2016-10-17 13:33:06
+0458 Registro de Treinamento no Local de Trabalho TLT - Sc Planejamento da Producao_pag2.doc - 28.10.doc; 2016-10-31 12:37:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Juliano\WII:
+10 checkpoints for improve the quality perception.doc; 2018-10-11 09:28:51
+Task force WII - Final considerations.doc; 2018-10-11 09:28:51
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS:
+MODELO.doc; 2009-12-07 14:44:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2009:
+Ata CCQ 01-12-2009.doc; 2009-12-09 07:35:56
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2010:
+Ata 01 CCQ 15-01-2010.doc; 2010-01-22 10:14:39
+Ata 02 CCQ 09-02-2010.doc; 2010-02-23 08:44:18
+Ata 03 CCQ 09-03-2010.doc; 2010-04-14 07:54:15
+Ata 04 CCQ 13-04-2010.doc; 2010-05-04 08:05:11
+Ata 05 CCQ 13-05-2010.doc; 2010-05-26 17:10:36
+Ata 06 CCQ 08-06-2010.doc; 2010-06-21 15:30:33
+Ata 07 CCQ 29-06-2010.doc; 2010-07-19 17:18:18
+Ata 08 CCQ 13-07-2010.doc; 2010-08-03 09:32:03
+Ata 09 CCQ 03-08-2010.doc; 2010-08-17 17:10:56
+Ata 10 CCQ 08-09-2010.doc; 2010-10-18 08:27:29
+Ata 11 CCQ 26-10-2010.doc; 2010-11-19 07:08:21
+Ata 12 CCQ 06-12-2010.doc; 2011-03-10 14:27:34
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2011:
+Ata 01 CCQ 19-01-2011.doc; 2011-02-10 11:16:27
+Ata 02 CCQ 25-02-2011.doc; 2011-03-10 14:36:19
+Ata 03 CCQ 22-03-2011.doc; 2011-04-05 17:08:52
+Ata 04 CCQ 29-03-2011.doc; 2011-04-05 17:02:04
+Ata 05 CCQ 14-04-2011.doc; 2011-05-11 09:52:20
+Ata 06 CCQ 17-05-2011.doc; 2011-06-06 14:33:25
+Ata 07 CCQ 27-05-2011.doc; 2011-06-06 14:47:08
+Ata 08 CCQ 26-06-2011.doc; 2011-07-26 15:28:36
+Ata 09 CCQ 29-07-2011.doc; 2011-08-18 15:02:36
+Ata 10 CCQ 28-08-2011[1].doc; 2011-10-04 14:17:09
+Ata 11 CCQ 23 de setembro de 2011 (1).doc; 2011-10-04 14:18:49
+Ata 12 CCQ 31 de OUTUBRO de 2011.doc; 2011-11-07 20:59:02
+Ata 13 CCQ 25 de novembro de 2011.doc; 2011-12-23 13:31:33
+Ata 14 CCQ 13 de Dezembro de 2011.doc; 2011-12-23 13:52:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2012:
+Ata 1 CCQ -25-01-2012.doc; 2012-02-13 09:33:18
+Ata 10 CCQ -27-07-2012.doc; 2012-09-11 17:17:46
+Ata 11 CCQ -21-08-2012.doc; 2012-09-12 14:17:29
+Ata 12 CCQ -12-09-2012.doc; 2012-10-10 09:58:58
+Ata 13 CCQ -30-10-2012.doc; 2012-11-29 14:00:13
+Ata 14 CCQ -14-11-2012.doc; 2012-11-29 14:13:41
+Ata 15 CCQ -03-12-2012.doc; 2012-12-14 13:01:39
+Ata 16 CCQ -18-12-2012.doc; 2013-01-21 08:53:46
+Ata 2 CCQ -30-01-2012.doc; 2012-02-13 10:15:43
+Ata 3 CCQ -17-02-2012.doc; 2012-03-12 13:04:31
+Ata 4 CCQ -14-03-2012.doc; 2012-05-15 09:39:19
+Ata 5 CCQ -04-04-2012.doc; 2012-05-15 09:42:22
+Ata 6 CCQ -11-04-2012.doc; 2012-05-15 09:43:38
+Ata 7 CCQ -15-05-2012.doc; 2012-07-05 14:10:44
+Ata 8 CCQ -30-05-2012.doc; 2012-07-05 14:26:50
+Ata 9 CCQ -26-06-2012.doc; 2012-07-05 14:35:33
+~$a 12 CCQ -12-09-2012- novo.doc; 2012-10-10 12:57:54
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2013:
+Ata 01 CCQ -25-01-2013.doc; 2013-03-01 12:38:55
+Ata 02 CCQ -08-02-2013.doc; 2013-03-01 13:42:55
+Ata 03 CCQ -08-03-2013.doc; 2013-03-21 13:33:47
+Ata 04 CCQ -22-03-2013.doc; 2013-04-03 14:56:53
+Ata 05 CCQ -26-04-2013.doc; 2013-05-22 10:40:51
+Ata 06 CCQ -28-05-2013.doc; 2013-06-19 13:10:18
+Ata 07 CCQ -19-06-2013.doc; 2013-09-12 08:08:55
+Ata 08 CCQ -20-08-2013.doc; 2013-08-20 10:47:03
+Ata 09 CCQ -23-08-2013.doc; 2014-01-30 10:23:16
+Ata 10 CCQ -17-09-2013.doc; 2014-01-31 08:56:43
+Ata 11 CCQ -30-10-2013.doc; 2014-01-31 09:09:22
+Ata 12 CCQ -18-12-2013.doc; 2014-01-31 12:28:23
+Relatorio Viagem Fallgatter 25_01_13.doc; 2013-03-01 12:47:57
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2014:
+Ata 01 CCQ -14-01-2014.doc; 2014-01-31 12:30:45
+Ata 02 CCQ -12-02-2014.doc; 2014-02-19 14:10:03
+Ata 03 CCQ -28-02-2014.doc; 2014-02-28 15:06:43
+Ata 04 CCQ -12-03-2014.doc; 2014-03-13 12:59:08
+Ata 05 CCQ - 17-03-2014.doc; 2014-04-09 16:11:04
+Ata 06 CCQ - 09-04-2014.doc; 2014-05-15 14:37:07
+Ata 07 CCQ - 14-05-2014.doc; 2014-05-15 15:26:31
+Ata 08 CCQ - 11-06-2014.doc; 2014-07-09 14:53:48
+Ata 09 CCQ - 09-07-2014.doc; 2014-07-09 15:06:33
+Ata 10 CCQ - 13-08-2014.doc; 2014-08-19 15:34:07
+Ata 11 CCQ - 10-09-2014.doc; 2014-11-12 15:07:09
+Ata 12 CCQ - 08-10-2014.doc; 2014-11-12 14:35:11
+Ata 13 CCQ - 12-11-2014.doc; 2014-12-16 15:14:08
+Ata 14 CCQ - 16-12-2014.doc; 2014-12-16 15:30:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2015:
+Ata 1 CCQ - 28-01-2015.doc; 2015-02-23 15:34:24
+Ata 2 CCQ - 23-02-2015.doc; 2015-02-23 15:33:40
+Ideia 13 ok.doc; 2015-12-02 15:11:13
+Ideia 3 ok.doc; 2015-10-26 15:47:43
+Ideia 5 ok.doc; 2015-11-26 15:40:41
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Kaizen WEG\ATAS\2016:
+Ideia 1 Consumo real das chapas na caldeiraria.doc; 2015-08-27 15:23:11
+Ideia 3 descarreg eixo.doc; 2015-08-26 16:59:31
+Ideia 4_2016 Instalar Sensor de Presença nos banheiros Masculino e Feminino - ok.doc; 2016-02-18 12:44:06
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\Logistica\Treinamento LOG:
+07. Manual WMS - LOG_CS - Logistica e Atendimento ao Cliente .doc; 2021-01-27 11:35:19.391000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Lucas\Estudo_Projeto_Compras:
+Cobrança Suprimentos.doc; 2019-08-21 08:03:02.693597
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Lucas\Lucas_Estagio\Estudo_Projeto_Compras:
+Cobrança Suprimentos.doc; 2019-08-21 08:03:02.693597
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marcos:
+ATA REUNIÃO.doc; 2010-03-17 15:02:43
+COMENTARIO CLAIM OV.doc; 2022-10-10 09:32:44.995000
+Declaração Sindicato.doc; 2014-02-19 06:37:57
+Procedimento META.doc; 2012-05-22 11:40:27
+Procedimento MM02.doc; 2011-06-29 09:06:07
+PROCEDIMENTOS PLANEJAMENTO.doc; 2012-05-22 10:57:15
+Procedimentos PROJETO.doc; 2015-10-06 13:17:41
+Procedimentos.doc; 2011-03-17 15:15:36
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit:
+Tipos de movimento.doc; 2008-02-20 17:02:05
+~$vantamento dos Parâmetros do Weg Online.doc; 2013-10-03 15:29:12
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\A - HISA:
+Ata 04 2017_OPERACIONALIZAÇÃO do processo de faturamento.doc; 2017-11-16 09:50:47
+Dados do Marco.doc; 2017-05-23 17:22:25
+Planejamento de Aprovação.doc; 2017-05-19 11:36:18
+regras_campos_pcp_mestre_materiais - WORKFLOW.doc; 2017-06-20 08:00:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\Bloco k:
+Ata Aerogeradores e Movimentação de Mercadoria.doc; 2016-10-19 14:39:16
+Dipositivos internos.doc; 2017-04-03 15:06:39
+DISPOSITIVOS SOLICITADOS PELA WMO E WAU PARA FABRICAÇÃO NA WEN.doc; 2016-12-02 08:13:45
+Procedimento QC antes emissão CAP Eólico.doc; 2017-03-30 15:47:58
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\Comparativo HGF com WMO:
+Comparativo HGF entre empresas WMO e WM.doc; 2010-04-22 11:08:33
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\DICIONÁRIO\games:
+Buttons_for_games.doc; 2007-05-03 09:33:10
+Games help port.doc; 2007-05-02 11:53:48
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\EM - Material:
+Passo a Passo Carga Engenharia PS.doc; 2018-04-16 13:57:21
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\INGLES:
+Diagram of tenses.doc; 2012-03-07 12:53:33
+Expressions.doc; 2020-10-13 15:55:50.449000
+factory tools.doc; 2012-05-25 17:05:51
+Geral A a Z.doc; 2012-05-25 17:07:35
+Simple Past.doc; 2012-03-07 12:54:20
+Simple Present_present progressive.doc; 2012-03-07 12:54:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\LEAD TIME Diversos:
+Fabricar motores geradores sem criação de Material para Componentes.doc; 2012-09-27 15:15:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\Lead time sem Espera:
+Padronização lead time Montagem A.doc; 2012-12-18 12:40:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TGM\Treinamento TGM\MATERIAIS DE TREINAMENTO REVISADOS JOSI:
+Aprovação de RC - Workflow_iphone.doc; 2012-08-08 08:02:23
+entrada_criar_ov_de_retorno_com_movimentacao_de_estoque.doc; 2014-03-17 07:54:11
+entrada_manual_remessas_criar_ov_de_entrada.doc; 2014-03-17 07:53:30
+MPN_Numero das Peça de Fabricante - Formulário de Materiais usuário final.doc; 2017-08-28 07:39:18
+MPN_Numero das Peça de Fabricante.doc; 2017-08-28 07:39:18
+Purchase Order for Intercompany Process - WG_com entrega em cliente.doc; 2014-04-17 13:49:45
+Recebimento de mercadoria - México.doc; 2014-05-13 14:22:39
+Relatório de Materiais em Poder de Terceiros.doc; 2014-03-17 07:54:35
+Subcontratação_EÓLICO.doc; 2016-08-02 13:55:07
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TGM\Treinamento TGM\MATERIAIS DE TREINAMENTO REVISADOS JOSI\ALMOXARIFADO:
+1_ Processar Reservas_almoxarifado.doc; 2013-07-02 16:30:27
+1_ Processar Reservas_solicitante.doc; 2013-07-02 15:58:08
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TGM\Treinamento TGM\MATERIAIS DE TREINAMENTO REVISADOS JOSI\COMPRAS:
+2_ Processar Requisições de Compras.doc; 2013-07-02 17:28:14
+2_1_ Folha de Serviço.doc; 2013-07-02 17:26:59
+3_Estratégia de Liberação.doc; 2013-03-21 13:37:36
+4_ ZTMM028 FORMULARIO DE CADASTRO FORNECEDOR.doc; 2010-07-16 16:34:17
+4_Cadastro de fornecedores.doc; 2010-07-16 15:58:43
+6_MRBR Liberar pagamento para o fornecedor.doc; 2010-07-16 16:34:16
+6_Pedido de compras (Parte 1).doc; 2013-07-03 10:47:52
+6_Pedido de compras (Parte 2).doc; 2013-07-03 10:51:19
+7_Cadastro de fornecedor para envio da carta de cobrança.doc; 2014-04-25 10:35:48
+7_Manual_Carta de cobrança.doc; 2014-04-25 10:35:49
+DQF_Envio de desenhos.doc; 2013-07-03 11:07:31
+Global_PT_Cons movimentação, planejamento, est transito, fatur. bloqueadas.doc; 2010-07-16 15:58:43
+Global_PT_Consulta de Consumo e estoque - Compras.doc; 2010-07-16 15:58:43
+Global_PT_Consultar materiais, serviços e fornecedores.doc; 2010-07-16 15:58:43
+Global_PT_Parceria de fornecedores_WOL.doc; 2010-07-16 15:58:43
+Global_PT_Processo de subcontratação.doc; 2013-07-03 11:01:26
+Global_PT_Transferencias entre centros.doc; 2010-07-16 15:58:43
+Treinamento - MEKR.doc; 2013-07-08 10:58:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TGM\Treinamento TGM\MATERIAIS DE TREINAMENTO REVISADOS JOSI\COMPRAS\Processo devolução compras BRA:
+APOSTILA DE DEVOLUÇÃO DE COMPRAS - COMO FAZER.doc; 2016-08-15 15:05:31
+Manual para emissão de NF´s de devolução de compras.doc; 2016-08-15 15:05:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TREINAMENTO:
+711-017 Manual Validações automáticas nas visões criação material.doc; 2010-09-09 09:22:36
+AJUDA_ORDEM_PRODUCAO_MAPS.doc; 2008-10-22 10:06:34
+APONTAMENTO DE HORAS.doc; 2008-06-06 07:57:35
+Areas MRP Tintas.doc; 2013-01-15 13:59:30
+Areas MRP Usinagem Fundidos.doc; 2009-11-25 12:37:36
+Buscar CTs ligados a um Calendário.doc; 2010-12-03 12:53:50
+CD 11351 - Comunicado Liberação Requisições de Compra.doc; 2012-07-17 11:50:59
+CD 15417_Reavaliar o processo de apontamentos e recebimentos em estoque  .doc; 2013-12-09 12:18:35
+Central_Impressao_India.doc; 2011-02-25 17:11:35
+CO07 - Create production order without material.doc; 2017-10-24 07:49:59
+Comunicado de liberação - Classes de custo de projeto.doc; 2013-12-16 09:56:57
+Comunicação de liberação - Núumero de Ordens.doc; 2013-04-04 14:28:23
+Configuração para acesso remoto.doc; 2007-11-28 13:55:50
+CPC - 17 -  NOVO CALCULO EVOLUCAO PROJETOS.doc; 2014-10-13 10:47:24
+CPC_47_aud.doc; 2019-04-03 15:27:33
+Criar centros de trabalho de Projetos.doc; 2008-06-12 13:47:19
+Criar material para o nº Deposito DEX.doc; 2017-09-22 09:04:34
+criar registro info.doc CPA.doc; 2017-08-25 16:32:48
+Estrutura Organizacional Weg - Taxonomia.doc; 2012-03-30 15:42:07
+Faturamento - Picking - Mercado Interno - PROCEDIMENTO.doc; 2017-06-05 12:54:32
+Global_EN_Intercompany and Intracompany transfers - Weg India.doc; 2016-05-24 12:38:11
+GLOBAL_EN_Planning and Production Control.doc; 2010-07-28 08:04:11
+Global_EN_Purchase Requisiton and reservation.doc; 2010-07-28 08:04:47
+GLOBAL_PT_Planejamento e Programa da Produção.DOC.doc; 2010-09-17 14:36:19
+Hierarquia - horas em atraso - CM07.doc; 2014-11-07 08:39:36
+Impressão de Desenhos.doc; 2011-04-04 09:52:34
+India_EN_Inventory Procedures - Cycle Counting.doc; 2010-07-28 08:05:15
+India_EN_Routing Creation - User Manual.doc; 2011-04-14 13:28:33
+India_EN_Warehouse Procedures.doc; 2010-07-28 08:05:36
+India_EN_Work Center Creation - User Manual.doc; 2010-07-28 08:06:26
+INVENTARIO.DOC; 2013-03-26 09:05:19
+Inventário WM.doc; 2013-01-17 07:05:10
+ISE011-13-PT- Carimbos em documentos.doc; 2013-12-02 08:30:45
+Levantamento da função dos Programadores Montagem A B C.doc; 2012-09-18 16:01:10
+Levantamento da Situação do depósito.doc; 2012-04-17 09:52:22
+Manual para Cadastro de Regras do Workflow.doc; 2010-09-01 10:51:12
+MANUAL _ EMBALAR _ HU_Centro_1200.doc; 2017-09-01 16:11:46
+Manutenção de Feriados Móveis (2).doc; 2014-03-06 09:41:50
+MB21 reserva tipo mov 201 .doc; 2013-12-09 12:10:09
+Modificação dos calendários Móveis da Weg India.doc; 2014-03-06 09:47:02
+Modificação dos calendários para incluir férias coletivas.doc; 2009-03-11 15:27:30
+New method of ECM Modifications.doc; 2013-08-29 10:21:06
+Parametrizacao_Avaliacao_Capacidade_OV_GAP_913-004 (3).doc; 2012-01-17 12:36:53
+Parametrizacao_Avaliacao_Capacidade_OV_GAP_913-004_MPS.doc; 2011-05-30 13:35:45
+Parametrizacao_Avaliacao_Capacidade_OV_GAP_913-004_v1.doc; 2011-11-09 11:06:28
+Passo a passo transferência de materiais ME2O.doc; 2017-08-30 14:36:42
+PONTOS DE ATENÇÃO NA WEG INDIA.doc; 2012-04-17 09:54:23
+PP_ZTPP036_RELATORIO_DE_AVALIACAO_DE_ENTREGAS.doc; 2008-10-22 10:08:11
+procedimento - inspeção da qualidade.doc; 2011-05-03 07:54:40
+PROCEDIMENTO INTERNO PARA  CRIAÇÃO DE ORDEM CO07.doc; 2015-08-20 10:24:53
+Procedimento para alterar a data fim programado conforme OV.doc; 2013-04-10 10:22:01
+Procedimento para Impressões de Desenhos.doc; 2011-10-04 17:04:05
+Procedimento para verificar mais de uma alteração de componente da lista técnica no mesmo ECM.doc; 2010-05-13 09:05:25
+Procedimentos para ordem de retrabalho.doc; 2011-02-16 00:10:02
+Procedimento_Implantação Protótipos via PS_WEN.doc; 2013-12-23 15:05:39
+Procedure to program Spare Parts in Sales orders.doc; 2013-04-10 10:41:41
+Processar_Encerramento_do_Projeto_ver_1.doc; 2012-04-27 08:32:22
+Processar_Encerramento_do_Projeto_ver_2.doc; 2013-08-20 10:03:25
+regras_campos_pcp_mestre_materiais.doc; 2010-05-24 08:15:40
+Separação de Ordens.doc; 2011-04-04 09:53:31
+Solicitação de material Kanban.doc; 2014-03-12 13:41:43
+Subcontratação Torre.doc; 2013-12-20 14:03:24
+SUCATEAMENTO.DOC; 2013-03-26 09:05:46
+Sugestões para CO27.doc; 2012-04-20 15:30:11
+Sugestões para os programadores.doc; 2012-04-18 10:17:05
+Transação VA01.doc novo Pallet metálico.doc; 2013-01-24 14:02:32
+Transação VK11 Daniele.doc; 2012-11-13 12:49:01
+Transferências MIGO.doc; 2012-08-15 11:03:16
+Treinamento de inventário - WMO.doc; 2017-08-21 09:39:20
+WOL Kanban - Manual.doc; 2014-02-04 14:52:51
+WTR - Telas de Cadastro de Material.doc; 2019-12-05 17:14:45.993000
+ZTPP111 - Atendimento linha GTA.doc; 2020-01-16 09:39:27.969000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marguit\TREINAMENTO\Plano de treinamento:
+Descrições cargos - NOVO e revisado.doc; 2013-04-11 10:54:36
+Descrições cargos - NOVO.doc; 2013-01-18 11:10:42
+Descrições cargos.doc; 2012-11-29 08:36:06
+Plano de Mobilidade - PCP.doc; 2012-12-11 13:18:08
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\1. Projetos Mateus\2. Apresentação PCP WEN\1. Macro funções:
+Relatorio - Regras projetos especiais.doc; 2021-05-19 07:45:35.617402
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Mateus\1. Projetos Mateus\2. Apresentação PCP WEN\1. Macro funções\Apresentações e imagens WEN:
+BI WEG.doc; 2021-06-18 16:13:15.483000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Murilo\APTs:
+APT Transporte de materiais diversos na fabrica - REV 01.doc; 2024-05-06 10:01:12.499000
+APT_Abastecimento de Gas nas Empilhadeiras a Conbustao.doc; 2024-05-06 10:00:57.454000
+APT_Troca de Bateria Empilhadeira Eletrica.doc; 2024-05-06 10:00:31.204000
+~$T Transporte de materiais diversos na fabrica - REV 01.doc; 2024-05-06 10:01:12.872040
+~$T_Abastecimento de Gas nas Empilhadeiras a Conbustao.doc; 2024-05-06 10:00:57.581851
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Murilo\Murilo_PCP\SALVAR\Projeto AGVs:
+Fori Automation-AGV Information for Quoting (Rev. 0).doc; 2023-09-04 07:42:15.375000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\NEUSA:
+apontamento.doc; 2013-05-25 04:22:37
+neusa gavetas.doc; 2013-06-12 06:15:07
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\NEUSA\TLT2012-NEUSA:
+TLT1.1.doc; 2012-04-11 07:58:24
+TLT2.2.doc; 2012-04-11 07:59:01
+TLT3.3.doc; 2012-04-10 14:03:14
+TLT4.4.doc; 2012-04-10 13:52:01
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\ORDEM DE MONTAGEM\Procedimentos OM:
+WFR-19121_PT docx - Treinamento OM PCP- Cópia.doc; 2018-05-10 13:15:17
+WFR-19121_PT docx - Treinamento OM.doc; 2017-09-15 09:29:48
+~$R-19121_PT docx - Treinamento OM PCP- Cópia.doc; 2018-05-10 12:47:33
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar:
+172A-09 - Transferência eixos CC e FAF para WMO.doc; 2010-02-04 06:51:41
+EIXO - ENP-001-12  - Roteiros padronizados por familia de eixos.doc; 2014-09-12 16:36:51
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\Atas - Procedimentos:
+003CP-14 - Definir Métodos para informar reviões de Projetos.doc; 2015-03-17 16:08:28
+011CP-13 - Problemas com preço entre Planejado x Realizado.doc; 2013-10-03 09:15:31
+117R-14 - Procedimento para a fabricação de flanges de ventilação independente.doc; 2014-03-25 12:46:10
+210R-14 - Procedimento para a fabricação de peças com fibra de vidro.doc; 2014-08-06 12:59:41
+310R-13 Procedimento para realizar a usinagem em tampas International Paper linha HGF.doc; 2014-04-04 11:10:43
+356R-13 Procedimento para realizar a usinagem em tampas International Paper linha M.doc; 2014-04-04 11:09:57
+ATA DIRETORIA WEN 25-2014.doc; 2014-09-12 15:40:02
+ATA REUNIÃO SOBRESSALENTE 11.10.2015.doc; 2015-04-08 13:44:54
+ATA_REGRAS C T  ALTERNATIVOS.doc; 2013-01-24 13:02:29
+Manual comprados.doc; 2014-03-26 14:22:47
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\ECM:
+234R-12 - Meta 20 – Implantar nova metodologia de ECM de modificação.doc; 2012-11-19 13:09:30
+Alterar o Layout das colunas da lista técnica no roteiro.doc; 2013-02-26 10:18:10
+ATA#2 - Revisão Documentação de Cliente.doc; 2013-08-30 08:36:13
+Modificações de listas técnicas e documentos por meio do ECM.doc; 2012-11-19 12:26:55
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA:
+011CP-13 - Problemas com preço entre Planejado x Realizado.doc; 2013-10-03 09:15:31
+Alinhamento de procedimento chamado 0001038393.doc; 2013-06-03 09:34:06
+Andrei  Jefferson liberaram durante férias janeiro  2014.doc; 2014-01-29 06:00:05
+Apresentação Workflow.doc; 2013-05-16 08:25:25
+Manual para retirar bloqueio de vendas.doc; 2013-03-22 14:27:17
+PARA IA17.doc; 2013-03-20 15:52:54
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA\Como criar Kit(passo-a-passo):
+Criação de Kit.doc; 2012-02-16 07:30:06
+Fluxograma controle e encerramento de medidas de Nota CS SAP.doc; 2011-06-24 15:46:16
+Manual Básico do Andrei.doc; 2012-04-12 16:58:44
+PASSO A PASSO PARA CRIAÇÃO DE KIT OU PARTES E PEÇAS.doc; 2011-02-09 08:36:27
+PASSO A PASSO PARA VERIFICAÇÃO DE EXISTÊNCIA DO KIT OU PARTES E PEÇAS.doc; 2011-02-09 07:18:59
+Procedimento CV02N Revisar Documento ZAC.doc; 2009-09-16 15:18:42
+Transação IQS9 para notas de garantia.doc; 2011-07-05 17:28:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA\ECM:
+Documentos genéricos.doc; 2008-09-26 15:18:43
+Prenchimento de dados para ECM de modificação.doc; 2014-05-12 15:20:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA\Materiais liberados pelo Andrei em meu login dia 10-07:
+Itens liberados 10.07.doc; 2013-07-11 07:25:31
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA\Materiais liberados pelo Andrei em meu login dia 14-02-2013:
+Andrei liberou enquanto estava no ambulatório e hospital Dia 14.doc; 2013-02-15 06:50:57
+Materiais liberados pelo Andrei.doc; 2013-02-15 08:00:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\Facilitar\MARCIA\Planilhas de cálculo:
+Todas.doc; 2013-10-09 16:25:25
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\geral:
+Prenchimento de dados para ECM de modificação (2).doc; 2015-11-05 06:16:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Paulo\TRABALHO:
+ATA_REGRAS C T  ALTERNATIVOS.doc; 2013-01-24 13:02:29
+Etiquetas 5S em WORD.doc; 2012-04-18 17:06:06
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PCP-PLANEJAMENTO:
+Procedimento  pedidos Intercompany.doc; 2021-09-23 10:18:53.231000
+Procedimento Programar Sobressalentes.doc; 2022-03-09 16:06:45.680000
+~$ocedimento Programar Sobressalentes.doc; 2023-03-21 07:11:38.627934
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PCP-PLANEJAMENTO\E-mails Importantes definições prodecimentos:
+ATA-PTMA.doc; 2021-08-06 17:33:28.137971
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PCP-PLANEJAMENTO\EOLICO:
+Eolico.doc; 2022-03-25 17:52:59.844000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planejamento Estratégico\Materiais:
+PLANEJAMENTO ESTRATEGICO PCP.doc; 2024-01-19 10:14:55.920000
+WEG_PRON_VIS_Questionario_Expectativas_vf.doc; 2023-06-09 14:38:15.627170
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planejamento Estratégico\Materiais\PE OUTRAS UNIDADES:
+PLANEJAMENTO ESTRATEGICO PCP.doc; 2024-02-06 15:28:08.888000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planejamento Estratégico\Materiais\PE OUTRAS UNIDADES\PE QUALIDADE:
+Proposta para a Diretoria PE consenso equipe.doc; 2023-06-28 16:27:44.634782
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planilhas de controle\PAGAMENTOS\TENDAS:
+43 - ATRASADA - Vencimento corrigido.doc; 2023-11-03 07:30:39.257805
+44 - ATRASADA - Vencimento corrigido.doc; 2023-11-03 07:30:39.270385
+45 - WEG  - Guilherme - 2 TENDAS.doc; 2023-11-01 16:40:41.100385
+46 - WEG  - Guilherme - 2 TENDAS.doc; 2023-11-01 16:40:41.087279
+47 - WEG  - Guilherme - 2 TENDAS.doc; 2023-12-06 10:48:13.111949
+48 - WEG  - Guilherme - 1 TENDA 10x10.doc; 2023-12-06 10:48:13.101089
+49 - WEG  - Guilherme - 1 TENDA 5x10.doc; 2023-12-06 10:48:13.123225
+50 - WEG  - Guilherme - MANUTENÇÕES.doc; 2023-12-06 10:48:13.089617
+51 - WEG  - Guilherme - 2 TENDAS.doc; 2024-01-22 09:22:47.892498
+52 - WEG  - Guilherme - 1 TENDA 10x10.doc; 2024-01-22 09:22:47.862169
+53 - WEG  - Guilherme - 1 TENDA 5x10.doc; 2024-01-22 09:22:47.826911
+54 - WEG  - Guilherme - 2 TENDAS.doc; 2024-02-27 08:23:46.883165
+55 - WEG  - Guilherme - 1 TENDA 10x10.doc; 2024-02-27 08:23:46.871488
+56 - WEG  - Guilherme - 1 TENDA 5x10.doc; 2024-02-27 08:23:46.911307
+57 - WEG  - Guilherme - MANUTENÇÕES.doc; 2024-02-27 08:23:46.899473
+58 - WEG  - Guilherme - 2 TENDAS.doc; 2024-03-04 09:27:27.503993
+59 - WEG  - Guilherme - 1 TENDA 10x10.doc; 2024-03-04 09:27:27.403486
+60 - WEG  - Guilherme - 1 TENDA 5x10.doc; 2024-03-04 09:27:27.443873
+61 - WEG  - Guilherme - 2 TENDAS.doc; 2024-04-02 10:36:40.279727
+62 - WEG  - Guilherme - 1 TENDA 10x10.doc; 2024-04-02 10:36:40.259062
+63 - WEG  - Guilherme - 1 TENDA 5x10.doc; 2024-04-02 10:36:40.330227
+64 - WEG  -  2 TENDAS.doc; 2024-05-02 11:59:51.884783
+65 - WEG  - 1 TENDA 10x10.doc; 2024-05-02 11:59:51.909419
+66 - WEG  - 1 TENDA 5x10.doc; 2024-05-02 11:59:51.923509
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planilhas de controle\Proposta Alteração Fornecedor Linha de Eixos:
+Alteração de fornecedor para contrato locação linha de eixo_.doc; 2023-04-10 08:14:59.924350
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Ester:
+000A-13 -  Modelo da Ata.doc; 2021-10-08 14:32:19.770000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Raquel Michele\Manuais WEN:
+Faturamento de materiais para METALURGICA MV.doc; 2014-11-20 14:41:08.529000
+Faturamento Pulmão.doc; 2014-11-25 08:18:55.511000
+FICHA DE ABERTURA_ATUALIZADA - 2014.doc; 2014-11-27 07:47:33.505000
+Proposta de Parada para Manutenção.doc; 2021-06-24 08:24:05.405000
+Relatório_Análise paradas CT's Usinagem.doc; 2021-05-06 07:16:54.197000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Raquel Michele\Manuais WEN\5S:
+Anexo 1 - Etiqueta padrão 5S.doc; 2017-05-15 12:53:41.020000
+Diretrizes de inspeção 5S 2017 timbrada.doc; 2017-05-15 13:12:36.903000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Reuniao PCP\Levantamento MBBS\MBBS - Maquinas Apontadas:
+Instruçao de trabalho - Levantamento de Estoque de Maquinas Apontadas WEN.doc; 2014-12-10 10:06:52
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rogerio:
+frases comuns CLAINS.doc; 2022-07-13 15:16:53.546000
+Giro de estoque e SMI Março 2022.doc; 2022-04-13 11:16:02.804000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cafundo:
+CAP 2 - CONCLUSÕES E RECOMENDAÇÕES - OK.doc; 2015-12-24 09:03:58.150619
+CAP 6- ESTUDOS FINAIS DA ALTERNATIVA SELECIONADA .doc; 2015-12-24 09:03:58.493819
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\CGH Cedro - Documentos de identificação\Roni:
+Roni - CPF e RG.doc; 2014-07-07 09:47:12.446329
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\CGH Cedro - Documentos Gerais\Documentos de Negocio:
+CEDRO - Contrato de Compra e Venda de Ações.DOC; 2014-05-16 12:59:19.464278
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\Contrato\Contrato para análise REV 1:
+Contrato CEDRO - Contrato de Compra e Venda de Ações.doc; 2014-06-27 10:31:42.381000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\Contrato\Contrato para análise REV 2:
+Contrato CEDRO - Contrato de Compra e Venda de Ações.doc; 2014-07-02 17:11:42.227000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\Contrato\Contrato para análise REV 3:
+Contrato CEDRO - Contrato de Compra e Venda de Ações.doc; 2014-07-03 10:17:38.013000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\CGH Cedro\Contrato\Contrato para análise REV 4:
+Contrato CEDRO - Contrato de Compra e Venda de Ações (2).doc; 2014-07-04 14:19:05.062000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\01. Administrar pedido vendas:
+WFR-18996_PT_2 [não usamos].doc; 2021-08-13 14:22:35.278814
+WFR-20912_EN_3 [não usamos].doc; 2021-08-13 14:25:21.753933
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\02. Iniciar Projeto\Atas:
+PWQP-17-ADR-001-00_Grupo02.doc; 2021-05-11 17:07:48.900000
+PWQP-17-ADR-002-00_Grupo02.doc; 2021-06-04 17:14:42.830000
+PWQP-17-ADR-003-00_Grupo02.doc; 2021-06-14 16:01:07.615000
+PWQP-17-ADR-004-00_Grupo02.doc; 2021-08-10 17:18:35.364000
+~$QP-17-ADR-004-00_Grupo02.doc; 2021-07-19 15:16:02.405399
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\02. Iniciar Projeto\Normas:
+WFR-25501.doc; 2021-06-18 11:59:19.151000
+WFR-25501_EN_2 (1).doc; 2021-08-23 13:25:54.636000
+WFR-25501_ES_2 (1).doc; 2021-09-06 08:59:43.637000
+WFR-25501_PT_2 (4).doc; 2021-08-23 13:13:16.203000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\07. Controlar Custos e Lucractividade:
+2021 04 13 _ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-04-16 10:58:49.958000
+2021 05 04_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-04 15:49:11.803000
+2021 05 13_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-21 10:49:28.897000
+2021 05 27_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-05-27 09:39:13.690000
+2021 06 18_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-06-18 14:35:02.089000
+2021 07 01_ PWQP Meta 17 _ Controlar Custos e Lucratividade _ atualização 07.07.doc; 2021-07-07 10:04:50.817000
+2021 07 01_ PWQP Meta 17 _ Controlar Custos e Lucratividade.doc; 2021-07-01 11:11:51.607000
+WPM-26384_ reunião 08 07.doc; 2021-07-27 08:17:13.146000
+WPM-26384_ reunião 27 07.doc; 2021-07-27 10:14:02.059000
+WPM-26384_PT_1 _ reunião 02.07.doc; 2021-07-05 14:43:07.735000
+WPM-26384_PT_1 _ reunião 07. 07.doc; 2021-07-07 17:10:38.555000
+WPM-34435_PT_1 _ 07.07.doc; 2021-07-07 17:53:31.307000
+WPS-33619_PT_1 _ Revisão Elis _ 21.05.21.doc; 2021-05-21 09:55:51.634000
+WPS-35228_PT_1. 2 Reviao Alcidio.doc; 2021-07-14 13:35:04.372000
+WPS-35228_PT_1. Editada Alcidio 07.07.doc; 2021-07-07 17:47:12.031000
+ZTPS063.doc; 2021-04-19 10:56:25.977000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Atas:
+PWQP-17-ADR-001-00.doc; 2021-05-19 10:34:47.712000
+PWQP-17-ADR-002-00.doc; 2021-06-07 15:55:45.455000
+PWQP-17-ADR-003-00.doc; 2021-07-05 14:57:13.181000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Normas:
+WFR-26427-R2 PT.doc; 2021-07-21 10:14:21.540000
+WFR-26428-R2 PT.doc; 2021-07-21 10:14:59.253000
+WFR-45991-R0 PT.doc; 2021-07-21 10:15:50.276000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\08. Adm Inspeções e Diligenciamento\Normas\Old:
+1 - Convocação de inspeção - Software Inspeção WEG - Microsoft Teams_R1.0.doc; 2021-07-14 09:31:41.399447
+2 - Convocação de inspeção - Presencial WJGS_R1.0.doc; 2021-07-14 09:31:40.711840
+3 - Convocação de inspeção - Presencial WSB_R1.0_comentada.doc; 2021-07-14 09:51:52.506000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Atas:
+PWQP-17-ADR-001-00.doc; 2021-04-19 17:09:23.293000
+PWQP-17-ADR-002-00.doc; 2021-05-04 16:23:53.223000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas:
+WFR-24785 - Letter to the customer - Importation of materia_REVISADA.doc; 2021-07-28 16:44:59.365697
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas\Extras:
+Importação de componentes.doc; 2021-06-29 15:12:04.994393
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\10. Adm de Mat fornecido pelo cliente\Normas\Old:
+WFR-24785 - Letter to the customer - Importation of materials.doc; 2021-06-30 15:48:16.423465
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\11. Administrar Aprovação e Certificação de Desenhos\Docs Deb:
+WFR-25953 - Carta ao cliente_COMENTADA.doc; 2021-04-29 13:26:35.815021
+WFR-25953 - Carta ao cliente_REVISADA.doc; 2021-04-30 14:29:29.107157
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\12. Alteração de Pedido e Cancelamento de OVs\Atas:
+PWQP-17-ADR-001-00.doc; 2021-04-22 14:37:20.745000
+PWQP-17-ADR-002-00.doc; 2021-05-19 15:41:59.591000
+~$QP-17-ADR-002-00.doc; 2021-05-06 10:36:27.642498
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Meta 17 - Revisao de Normas\Revisão de normas no WEG DOC:
+WPM-26384_ reunião 08 09.doc; 2021-09-08 09:46:42.541000
+WPM-26384_ reunião 27 07.doc; 2021-07-27 16:51:57.483000
+WPS-33619_PT_1 _ Revisão Elis _ 21.05.21.doc; 2021-05-31 15:10:56.888000
+WPS-35228_PT_1. 2 Reviao Alcidio.doc; 2021-07-28 13:52:45.210000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Padroes\Documentos pessoais\Sindical:
+Declaração referente ao cancelamento da Contribuição assistencial.doc; 2024-01-31 08:17:36.067000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Padroes\Documentos pessoais\Visto - EUA:
+FORMULARIO DS 160 RASCUNHO 2022 (2) (2).doc; 2023-09-11 14:02:58.578000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rohan\Padroes\PAD:
+Rohan - Estabelecendo Objetivos.doc; 2019-11-08 11:17:33.525081
+Rohan - Linha do tempo.doc; 2019-11-08 11:17:33.614858
+Rohan - Modelo PAD EM BRANCO Weg.doc; 2019-11-08 11:17:33.792001
+Rohan - Plano de Autodesenvolvimento.doc; 2019-11-08 11:17:33.832954
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof:
+Caldeirado - usinado - Proposta Nilvo-Sergio.doc; 2012-04-26 09:17:04
+Como estamos agindo com clientes.doc; 2011-01-10 13:53:34
+CONJUNTOS  Estator - Proposta Nilvo-Sergio.doc; 2012-04-24 16:23:02
+Descrição atividades.doc; 2010-05-06 14:48:57
+Doc_fluxo.doc; 2008-03-19 13:06:02
+Manutenção de um cadastro de material.doc; 2009-07-30 15:39:17
+Sergiof.doc; 2005-11-25 15:43:08
+Sobremedida em eixos.doc; 2005-03-04 12:16:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof\Materiais 03-05\Planos Prontos:
+P1 - CONJUNTOS.doc; 2012-05-03 10:45:28
+P2 - CHAPA NIVELAMENTO.doc; 2012-04-25 15:53:16
+P3 - CALDEIRADO.USINADO.doc; 2012-04-27 09:57:19
+P4 - CJ ESTATOR BOB E PACOTE EST.doc; 2012-05-03 15:26:30
+P5 - NORMAL.ESPECIAL.doc; 2012-04-27 12:51:52
+P6 - Z9 PARA ARCHIEVE.doc; 2012-04-27 16:23:13
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof\Materiais 04-05\Planos Prontos:
+P1 - CONJUNTOS.doc; 2012-05-03 10:45:28
+P2 - CHAPA NIVELAMENTO.doc; 2012-04-25 15:53:16
+P3 - CALDEIRADO.USINADO.doc; 2012-05-04 16:22:01
+P4 - CJ ESTATOR BOB E PACOTE EST.doc; 2012-05-03 15:26:30
+P5 - NORMAL.ESPECIAL.doc; 2012-04-27 12:51:52
+P6 - Z9 PARA ARCHIEVE.doc; 2012-04-27 16:23:13
+Resumo Planos WEN.doc; 2012-05-04 10:39:30
+~$ - CALDEIRADO.USINADO.doc; 2012-05-04 15:52:41
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof\Materiais 08-05\Apresentar:
+Ata redução criação de materiais.doc; 2012-05-03 11:08:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof\Materiais 08-05\Apresentar\Indicadores:
+Indicadores do cadastro WEG_mar12.doc; 2012-05-08 13:58:56
+Indicadores do cadastro WEN_mar12.doc; 2012-05-08 13:59:19
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sergiof\Materiais 08-05\Planos Prontos:
+P1 - CONJUNTOS.doc; 2012-05-07 09:56:24
+P2 - CHAPA NIVELAMENTO.doc; 2012-04-25 15:53:16
+P3 - CALDEIRADO.USINADO.doc; 2012-05-04 16:22:01
+P4 - CJ ESTATOR BOB E PACOTE EST.doc; 2012-05-07 10:17:40
+P5 - NORMAL.ESPECIAL.doc; 2012-04-27 12:51:52
+P6 - Z9 PARA ARCHIEVE.doc; 2012-04-27 16:23:13
+Resumo Planos WEN.doc; 2012-05-07 11:33:59
+~$ - CALDEIRADO.USINADO.doc; 2012-05-04 15:52:41
+~$ - CJ ESTATOR BOB E PACOTE EST.doc; 2012-05-07 08:57:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\ATA's:
+ATA REUNIÃO DRESSER RAND.doc; 2015-02-16 10:00:05.454000
+ATA REUNIÃO SALTO APIACÁS E CABEÇA DE BOI.doc; 2015-08-12 14:26:31.037000
+ATA REUNIÃO WITER.doc; 2015-09-18 15:00:41.437000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\CIPA:
+0632 - Inspeção da CIPA.doc; 2014-03-18 16:45:49
+FORMULARIO DE REGISTRO DE FALTA DA CIPA.doc; 2014-03-18 16:45:48
+OBSERVAÇÕES 2014 - 2015.doc; 2014-03-18 16:45:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\Diversos:
+Oposição a Contribuição Assistencial 2020.doc; 2020-02-17 10:27:32.512000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\Documentos diversos:
+ATA Terceirização.doc; 2019-08-12 14:25:10.046000
+Oposição a Contribuição Assistencial.doc; 2019-02-19 07:41:56.352000
+PAD - Plano de Autodesenvolvimento SETTI 2014.doc; 2016-02-03 13:26:47.709000
+PAD - Plano de Autodesenvolvimento_01 (1).doc; 2019-02-11 06:22:27.901000
+Procedimento CV01N Criar Documento ZIM.doc; 2019-07-03 15:01:17.367000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\ESTOQUES - BA01 - 1206\Aprovações 21.10:
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18.doc; 2020-10-21 10:19:09.591377
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18_Anexo 3.DOC; 2020-10-21 10:19:09.651581
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_04 - 09_18_Anexo 4.DOC; 2020-10-21 10:19:09.668639
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\ESTOQUES - BA01 - 1206\Aprovações 28.10:
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09 - Anexo 1.doc; 2020-10-29 07:57:56.480806
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09 - Anexo 7.doc; 2020-10-29 07:57:56.550812
+ATA DA COMISSÃO DE ESTOQUES WEN_2020_05 - 10_09.doc; 2020-10-29 07:57:56.510809
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\LOGISTICA - TLT\APT:
+APT - Expedição  e Consolidação - 45993.doc; 2018-05-03 08:39:14
+APT Transporte de materiais diversos na fabrica - 45995.doc; 2021-09-03 07:46:55.199000
+APT_Abastecimento de Gas nas Empilhadeiras a Conbustao - 45994.doc; 2017-01-24 13:58:24
+APT_Troca de Bateria Empilhadeira Eletrica - 45997.doc; 2017-12-13 10:20:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\Serviços procedimento - VSM:
+VSM Atual Serviços.doc; 2010-02-25 13:57:40
+VSM Futuro Serviços.doc; 2010-02-25 15:35:31
+VSM Futuro Serviçosed.doc; 2010-02-25 15:28:27
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\Serviços procedimento - VSM\VSM Serviços:
+Fluxograma_Vendas_Servi%c3%a7os_01[1].doc; 2010-02-17 15:38:22
+VSM Atual Serviços.doc; 2010-02-25 13:57:40
+VSM Futuro Serviços.doc; 2010-02-25 15:35:31
+VSM Futuro Serviçosed.doc; 2010-02-25 15:28:27
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\SETTI:
+PASSO A PASSO PARA CRIAÇÃO DE KIT OU PARTES E PEÇAS.doc; 2011-02-09 08:36:27
+PASSO A PASSO PARA VERIFICAÇÃO DE EXISTÊNCIA DO KIT OU PARTES E PEÇAS.doc; 2011-02-09 07:18:59
+Relátorio de Ripa_Atual.doc; 2011-04-06 11:03:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Setti\SETTI\PAPER's:
+Plano de desenvolvimento da prática 20.8.doc; 2015-08-20 15:35:21.176000
+Plano de desenvolvimento da prática IV.doc; 2015-03-18 09:32:58.154000
+Plano de desenvolvimento da prática.doc; 2015-08-20 07:30:40.766000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Sharepoint\Planilha Acasalamento Macro:
+PROCEDIMENTO PARA ANÁLISE ATRASO DE COMPONENTES EM PROJETOS.doc; 2012-09-24 09:24:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Silvia\GTA:
+Compra de Materiais de expediente.doc; 2005-01-21 07:14:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Silvia\Manual de programação GTA:
+MANUAL _ EMBALAR _ HU_Centro_1200.doc; 2012-12-14 06:48:33
+Passos para cadastro de defasagem.doc; 2010-08-18 12:59:43
+Passos para cadastro de nova hierarquia.doc; 2012-03-16 15:55:28
+Passos para manutenção dos grupos de produtos.doc; 2010-04-14 10:33:32
+Procedimento - criar grupos de produtos via MC84.doc; 2012-03-14 14:01:08
+Procedimento VA01 - Criar Nota Devoluçao Pallets GTA.doc; 2013-01-25 14:22:21
+Verificações para materiais sem hierarquia de cotas.doc; 2011-05-11 10:48:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Silvia\Material:
+Itens GTA.doc; 2012-10-29 15:09:03
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely:
+CI Secao pessoal.doc; 2015-03-23 16:05:41
+Cotas_Mercado.doc; 2008-11-10 15:42:13
+Fornecimento_filiais.doc; 2008-11-10 13:57:06
+INSPECAO.doc; 2009-05-08 10:56:40
+INSPEÇÕES DA SULZER.doc; 2010-06-15 10:07:05
+justificativa.doc; 2008-08-19 16:04:30
+mod0011.doc; 2012-04-04 08:39:15
+mod0455.doc; 2004-11-30 16:30:46
+mod0706_DISTRIBUIDOR MATERIAL.doc; 2009-02-03 15:42:01
+mod0706_WSB.doc; 2009-03-11 13:20:47
+PLANO DE AÇÃO.doc; 2010-06-11 16:31:15
+PROPOSTA COMISSAO MARKETING.doc; 2009-05-20 16:05:24
+REUNIÃO INTERNACIONAL.doc; 2008-10-20 12:54:35
+TSQ-0009_10.doc; 2008-08-06 09:42:55
+~$ANO DE AÇÃO.doc; 2013-04-18 12:57:36
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\ATAS:
+ATA DE REUNIÃO_ENGENHARIA.doc; 2008-12-08 15:36:21
+ATA DE REUNIÃO_ESTOQUES.doc; 2008-12-15 14:54:33
+ATA DE REUNIÃO_recuperacao rotores.doc; 2010-08-30 10:48:25
+ATA DE REUNIÃO_ROTORES TURBO.doc; 2010-05-21 14:49:27
+ATA_12_07_2010.doc; 2010-07-14 16:56:25
+Ata_documentacao_fabril.doc; 2009-02-06 09:35:54
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Gestao de Estoques:
+ATA DE REUNIAO_GESTAO_ESTOQUES_01.doc; 2009-03-25 17:06:32
+Ata_Procedimentos_Reducao_Estoque_02.doc; 2009-04-27 15:17:27
+PLANO DE AUMENTO DE COMPETITIVIDADE.doc; 2009-09-08 17:27:18
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\grupo interfuncional de prazos:
+ATA DE REUNIÃO -  Recuperação dos atrasos na Caldeiraria.doc; 2006-05-26 14:34:12
+ATA DE REUNIÃO MIX PRODUCAO.doc; 2006-03-27 11:41:46
+ata reunião 01_grupo interfuncional de prazos.doc; 2006-06-08 09:16:42
+ata reunião 01_grupo interfuncional de prazos_2007.doc; 2007-07-10 15:26:42
+ata reunião 01_grupo interfuncional_2007.doc; 2007-03-13 09:06:59
+ata reunião 02_grupo interfuncional de prazos.doc; 2006-08-24 16:03:21
+ata reunião 02_grupo interfuncional de prazos_2007.doc; 2007-07-10 15:27:02
+ata reunião 03_grupo interfuncional de prazos.doc; 2006-11-29 14:49:56
+capacitacao da caldeiraria.doc; 2006-04-25 14:51:24
+DIAGRAMA DE CAUSA E EFEITO.doc; 2012-07-26 14:57:41
+DIAGRAMA DE CAUSA E EFEITO_2007.doc; 2007-03-09 08:49:24
+Modelo de programacao.doc; 2006-06-16 13:00:54
+proposta comissao administrativa.doc; 2006-06-16 11:26:44
+Sequenciamento da Programacao.doc; 2008-11-03 16:20:06
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\ARQUIVOS INDICADORES_DIRETORIA:
+Indicadores_Diretoria_Industrial_JGS_APRESENTAÇÃO1.doc; 2014-06-18 10:00:41
+Indicadores_Diretoria_Industrial_WEN..doc; 2014-12-15 03:14:20
+Indicadores_Diretoria_Industrial_WEN.doc; 2014-12-15 07:31:14
+Indicadores_Diretoria_Industrial_WEN_JGS.doc; 2014-02-14 11:58:00
+Indicadores_Diretoria_Industrial_WEN_WII..doc; 2014-07-14 09:33:18
+Indicadores_Diretoria_Industrial_WEN_WIIAGO14..doc; 2014-09-16 14:06:17
+Indicadores_Diretoria_Industrial_WEN_WIIOUT2014.doc; 2014-11-14 05:31:11
+Indicadores_Diretoria_Industrial_WEN_WII_SET14.doc; 2014-10-14 15:22:27
+Indicadores_Diretoria_Industrial_WEN_WSB.doc; 2014-07-14 09:03:31
+Indicadores_Diretoria_Industrial_WEN_WSB.NOV14.doc; 2014-12-09 14:52:21
+Indicadores_Diretoria_Industrial_WEN_WSB_AGO14..doc; 2014-09-10 11:32:44
+Indicadores_Diretoria_Industrial_WEN_wsb_OUT14.doc; 2014-11-11 16:20:59
+Indicadores_Diretoria_Industrial_WEN_WSB_SET14..doc; 2014-10-08 12:53:40
+~$dicadores_Diretoria_Industrial_WEN..doc; 2015-06-22 15:36:24
+~$dicadores_Diretoria_Industrial_WEN.doc; 2015-07-03 16:43:50
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2012:
+CRP 02_2012.doc; 2014-01-15 16:14:29
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2013:
+Indicadores_Diretoria_Industrial_WEN.doc; 2014-01-15 16:25:23
+Indicadores_Diretoria_Industrial_WEN_JGS.doc; 2014-01-16 15:24:10
+Indicadores_Diretoria_Industrial_WEN_WSB.doc; 2014-01-16 13:34:50
+NC por operacao.doc; 2013-11-13 16:17:44
+~$dicadores_Diretoria_Industrial_WEN_JGS.doc; 2014-07-18 16:01:40
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2014\Reunião Prod_05Mai14:
+~$dicadores_Diretoria_Industrial_WEN..doc; 2014-06-26 08:09:32
+~$dicadores_Diretoria_Industrial_WEN.doc; 2014-06-16 11:13:46
+~$dicadores_Diretoria_Industrial_WEN_WSB.doc; 2014-06-11 16:50:26
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2014\Reunião Prod_07Jul14:
+Indicadores_Diretoria_Industrial_WEN_WIIJUL14..doc; 2014-08-12 14:21:22
+Indicadores_Diretoria_Industrial_WEN_WSBJUL14..doc; 2014-08-12 14:10:18
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2015:
+Indicadores_Diretoria_Industrial_WEN.doc; 2016-01-21 11:38:13
+Indicadores_Diretoria_Industrial_WEN_WSB.doc; 2016-01-19 13:38:09
+~$dicadores_Diretoria_Industrial_WEN.doc; 2015-12-14 14:09:38
+~$dicadores_Diretoria_Industrial_WEN_WSB.doc; 2016-01-18 09:24:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2017:
+Indicadores_Diretoria_Industrial_WEN_HISA..doc; 2017-11-17 14:53:44
+Padrão WEG - A4 timbrada.doc; 2017-12-07 13:29:08
+~$dicadores_Diretoria_Industrial_WEN_HISA..doc; 2017-05-11 14:35:58
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\INDICADORES 2018:
+Indicadores_Diretoria_Industrial_WEN_HISA..doc; 2017-11-17 14:53:44
+Padrão WEG - A4 timbrada.doc; 2017-12-07 13:29:08
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\PASTA PADRÃO:
+Indicadores_Diretoria_Industrial_WEG EM.doc; 2023-02-15 13:29:10.643000
+Indicadores_Diretoria_Industrial_WEN - JGS.doc; 2023-09-12 09:30:35.819000
+Indicadores_Diretoria_Industrial_WEN.doc; 2017-02-23 14:59:20
+Indicadores_Diretoria_Industrial_WEN_WSB..doc; 2023-03-10 09:34:13.800000
+Indicadores_Diretoria_Industrial_WII.doc; 2023-02-15 13:25:25.113000
+~$dicadores_Diretoria_Industrial_WEG EM.doc; 2018-04-26 07:52:42
+~$dicadores_Diretoria_Industrial_WEN - JGS.doc; 2017-02-07 14:57:18
+~$dicadores_Diretoria_Industrial_WEN..doc; 2015-11-18 08:09:49
+~$dicadores_Diretoria_Industrial_WEN.doc; 2016-02-16 09:16:03
+~$dicadores_Diretoria_Industrial_WEN_WSB..doc; 2016-02-16 13:43:34
+~$dicadores_Diretoria_Industrial_WII.doc; 2020-07-28 14:20:57.443334
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Proposta implantação de célula:
+proposta implatacao celula.doc; 2008-03-28 07:46:17
+proposta implatacao celula_2.doc; 2008-04-02 14:45:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\PWQP_2011\METAS_PLANEJAMENTO:
+Explicativo da Meta 6 e 8.doc; 2012-01-26 13:18:23
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\PWQP_2012:
+Explicativo da Meta 6 e 8 (6).doc; 2012-01-31 11:45:20
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Reunioes de fechamento de programacao:
+ATA DE REUNIÃO 01.doc; 2006-12-15 12:27:11
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Situacao_da_Producao_WM:
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_04_fev.doc; 2010-02-05 15:16:47
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_04_mar.doc; 2010-03-08 07:52:48
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_06_maio.doc; 2010-05-13 16:38:05
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_08_abr.doc; 2010-04-09 17:04:19
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_10_junho.doc; 2010-06-23 10:28:19
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_11_fev.doc; 2010-02-15 06:52:47
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_11_mar.doc; 2010-03-12 17:10:26
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_13_maio.doc; 2010-05-20 13:30:44
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_15_abr.doc; 2010-04-19 07:33:55
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_18_fev.doc; 2010-02-22 10:54:13
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_20_maio.doc; 2010-06-09 09:41:54
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_23_abr.doc; 2010-04-23 16:58:56
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_24_junho.doc; 2010-06-25 16:16:48
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_25_fev.doc; 2010-03-01 07:44:28
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_25_mar.doc; 2010-03-26 14:52:41
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_27_maio.doc; 2010-06-09 09:40:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Situacao_da_producao_WSB:
+ATA DA REUNIÃO SEMANAL DE PRODUÇÃO_24_junho.doc; 2010-06-25 16:43:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\TGM:
+001-19 -  Ata projeto WIS.doc; 2019-08-08 18:29:37.580000
+~$1-19 -  Ata projeto WIS.doc; 2019-08-08 11:24:55.785175
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP:
+Analise Montagem.doc; 2020-11-24 08:17:42.061000
+Avaliação Processo WEN.doc; 2021-03-29 15:37:21.186000
+Relatório_Aumento de Capacidade Alternadores 89-90.doc; 2021-04-08 09:53:14.910000
+Relatório_Eventos Fotograficos.doc; 2021-03-23 06:38:14.669000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP\Alternadores 90:
+022R-21 - CEOMC - Recuperação parcial Estampo GTA160.doc; 2021-04-08 08:13:11.696000
+Relatório_Aumento de Capacidade Alternadores 90.doc; 2021-04-09 11:24:23.670000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP\Dias em Estoque - nov-2020:
+Relatorio - Dias em Estque até o Faturamento.doc; 2020-12-19 14:25:37.065000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP\Evento Fotografico:
+Relatório_Eventos Fotograficos.doc; 2021-08-27 07:09:59.747000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP\Moveis da Seção:
+PROPOSTA -Alteração de Layout.doc; 2022-02-16 20:31:51.542000
+~$OPOSTA -Alteração de Layout.doc; 2022-02-16 06:48:45.377841
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Projetos PCP\ZTPP162 E ZTWM029 Sistema de Prateleiras:
+Cadastro de LOGIN para controle de prateleiras.doc; 2011-09-22 08:07:35
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Reunião Mensal:
+000A-01-  Reunião mensal - Outubro.doc; 2021-10-13 16:05:52.430000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Reunião Mensal\2024\03-2024:
+Report - Travel Report WEM.doc; 2023-10-04 14:07:54.721000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Estágio WEG:
+ATA Recursos Críticos - André F. Possari.doc; 2011-01-27 08:02:24
+ATA Recursos Críticos - Cícero B. Bortoluzzi.doc; 2011-01-27 07:53:02
+ATA Recursos Críticos - Décio Odail de O. e Clovis Bauer.doc; 2011-01-27 08:09:04
+ATA Recursos Críticos - Gilmar Wagner.doc; 2011-01-27 07:49:49
+ATA Recursos Críticos - Ingomar Gaedtke.doc; 2011-01-27 07:46:33
+ATA Recursos Críticos - Klaus.doc; 2011-01-27 06:37:22
+ATA Recursos Críticos - Leandro Haffermann.doc; 2011-01-27 08:25:08
+ATA Recursos Críticos - Rodrigo Abreu.doc; 2011-01-27 07:43:47
+ATA Recursos Críticos - Silvino Chewinski.doc; 2011-01-27 08:05:21
+ATA Recursos Críticos - Valdir Meier.doc; 2011-01-27 08:27:56
+ATA Recursos Críticos.doc; 2011-01-27 07:58:49
+Fluxograma das Etapas.doc; 2012-02-17 09:20:45
+Fluxograma WEN.doc; 2011-03-02 12:09:10
+Hierarchy Capacity Analysis CM01 Transaction.doc; 2011-07-18 13:49:21
+Lista CT Criados para o PS.doc; 2011-09-23 10:36:11
+Procedimento Alocar Pessoas no Centro de Trabalho.doc; 2011-10-14 13:31:31
+Procedimento Capacidade Hierarquia.doc; 2012-02-28 16:39:24
+Procedimento de Cadastro de Centro de Trabalho.doc; 2012-02-28 16:40:42
+Procedimento de Liberação de RIPA.doc; 2012-02-15 12:17:56
+Procedimento Elaboração Tabela Lead Time.doc; 2011-09-21 08:00:17
+Procedimento Identificação dos Recursos Críticos WEN.doc; 2011-02-16 10:45:48
+Procedimento informação de status da tarefa.doc; 2011-11-30 08:00:13
+Procedimento informação do Projeto.doc; 2011-11-30 08:08:08
+Procedimento para Criar Hierarquias de Centros de Trabalho.doc; 2011-12-23 08:11:45
+Procedimento para criação e programação de sobressalentes.doc; 2011-11-25 13:20:20
+Procedimento Programação PS.doc; 2011-02-15 14:30:21
+Procedimento Simulação de Projetos.doc; 2011-11-28 09:56:59
+Projetos Desenvolvidos para Análise.doc; 2011-09-06 13:52:40
+Resumo CT Críticos.doc; 2011-01-12 11:03:16
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Implantação PS Depto Utilidades:
+0493-A.doc; 2012-07-18 13:48:05
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Material de Apoio:
+Gerenciamento de Projetos WEN.doc; 2012-09-25 09:06:40
+Manual - Centro de Custo Responsável.doc; 2012-08-03 15:48:21
+Manual - Pesquisa Tabelas por Transação.doc; 2012-03-05 09:51:57
+Manual - Versões de Projeto.doc; 2012-02-10 08:40:13
+Planejamento de Capacidade Project System.doc; 2012-10-09 15:26:19
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Projeto Revitalização SAP WTD\CNS:
+IT03 - Planejamento.doc; 2012-06-25 10:51:54
+IT04 - Execução Brasil.doc; 2012-06-25 12:17:49
+IT05 - Monitoramento.doc; 2012-06-15 18:14:48
+IT06 - Encerramento.doc; 2012-06-25 12:25:53
+IT07 - Planejamento Projeto.doc; 2012-07-11 09:32:47
+Manual CNS.doc; 2012-02-10 08:36:43
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Projeto Revitalização SAP WTD\Engenharia Produto\01 - Manuais PS:
+CC01 - CRIAÇÃO ECM LTA CÁLCULO.doc; 2012-01-25 16:18:24
+CM25 - VERIFICAR TAREFA PS.doc; 2012-01-25 16:18:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Projeto Revitalização SAP WTD\Engenharia Produto\02 - Modificação de Produto:
+CC01 - CRIAÇÃO ECM.doc; 2012-02-06 12:46:38
+CC03 - CONSULTAR ECM.doc; 2012-02-06 12:44:46
+CLAIM ZR - MOD. PRODUTO.doc; 2012-01-24 13:53:50
+COMO PREENCHER UM ECM.doc; 2012-04-13 07:55:40
+COORDENADOR ECM ENGENHARIA.doc; 2012-04-13 07:55:08
+MOD PRODUTO PROCESSOS e PCP.doc; 2012-02-06 12:45:26
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Tiago\Projeto Revitalização SAP WTD\Engenharia Produto\06 - Interface Solidworks MPA:
+Roteiro de Cadastro no SAP.doc; 2012-04-18 16:14:48
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020:
+PROPOSTA PARA COMISSÃO DE ESTOQUES WEN - BLOCO K.doc; 2020-12-22 14:00:37.247000
+Status Gemba Walk - Ações Pendentes PCP.doc; 2020-12-08 12:48:30.718000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Area de trabalho Dez_2020:
+Identificação area externa.doc; 2020-07-20 17:25:14.756000
+PAD_VALMIR_2021 a 2031.doc; 2020-10-28 14:44:53.160000
+RI 71453 Operador de Empilhadeira WEN Juliano.doc; 2020-08-14 09:34:22.681000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Area de trabalho Dez_2020\Valmir PCP:
+Currículo-Valmir Junckes.doc; 2017-04-28 19:29:42.402000
+Declaração referente ao cancelamento da Contribuição Sindical 2017.doc; 2017-02-24 08:21:17.212000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Nova Seçao:
+Modelo_0936-3 embalagem.doc; 2013-02-07 06:57:55.042000
+Rótulos NBR 14725.doc; 2013-04-18 07:25:56.128000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Nova Seçao\Empilhadeiras:
+Alongador de Garfos 3 Toneladas.doc; 2013-05-09 10:35:46.682000
+Alongador de Garfos 5 Toneladas.doc; 2013-05-09 10:33:27.635000
+IW39.doc; 2013-03-26 07:54:28.489000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Nova Seçao\Empilhadeiras\APTs Empilhadeiras:
+0679_Modelo - Lista de Presença.doc; 2013-03-22 13:18:21.230000
+3304_Modelo - Análise precencionista da tarefa APT.doc; 2013-03-20 08:20:09.135000
+APT_Abastecimento de Gas nas Empilhadeiras a Conbustao.doc; 2013-03-27 09:23:06.985000
+APT_Troca de Bateria Empilhadeira Eletrica.doc; 2013-03-20 08:13:21.938000
+~$04_Modelo - Análise precencionista da tarefa APT.doc; 2013-04-11 12:50:15.576864
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Nova Seçao\Normas:
+TBG-0908 Disposiçao de Residuos Industriais Parque Fabril II.doc; 2013-03-26 07:56:05.036000
+TBG-1328 Inventario de Produtos Acabados, Materiais Comprados e Manufaturados.DOC; 2013-03-19 15:08:59.918000
+TBG-1338 Sucateamento de Produtos Acabados, Materiais Comprados e Manufaturados.DOC; 2013-03-19 15:10:36.388000
+TBG-1338.doc; 2013-03-04 12:54:10.975443
+TSQ-1012.doc; 2013-03-04 12:51:38.380716
+TSQ-1013.doc; 2013-03-04 12:52:44.693641
+TSQ-1367 - Programaçao e Controle.doc; 2013-03-04 12:44:19.424782
+TSQ-1368 - Modificaçao de Documentos e Listas Tecnicas das Ordens de produçao.doc; 2013-03-04 12:45:38.019035
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Abril 2014:
+RI 51751 EXPEDIDOR Valmir WEN.doc; 2014-02-24 17:02:18.999000
+RI 51752 OPERADOR DE EMPILHADEIRA Valmir Junckes WEN.doc; 2014-02-25 11:11:25.179000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\AREA DE TRABALHO (02.08):
+001PR-13 -  Gatilho Caldeiraria.doc; 2013-06-18 11:04:22.238000
+ATA Placa Ancoragem-Chumbador-ChapaNil..doc; 2013-02-25 17:04:45.429000
+ATA.doc; 2013-06-04 17:01:14.396000
+Ficha de inscrição VALMIR JUNCKES.doc; 2013-08-08 15:48:35.072000
+Processo de Refugo (ordens de retrabalho).doc; 2012-07-04 15:50:32.962000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\AREA DE TRABALHO (02.08)\LIXO:
+Acompanhamento e Controle da Produção.doc; 2012-06-22 09:11:26.939000
+Ficha de inscrição ORIGINAL.doc; 2012-09-25 12:57:28.763000
+Ficha de inscrição ORIGINAL2.doc; 2012-11-09 16:08:43.103000
+HORÁRIO CARTÕES E FICHAS.doc; 2012-08-27 08:41:54.950000
+IRF - Ordem de Produção.doc; 2012-10-05 07:51:03.972000
+TESTE DARLICE.doc; 2012-11-09 08:39:42.823000
+Top 5 PCP - Materiais com depositos errados na lista tecnica.doc; 2012-01-18 14:46:27.873000
+TSQ-1102.doc; 2012-12-05 07:20:56.545000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\AREA DE TRABALHO (02.08)\Maio 2013:
+manual de DDS.doc; 2013-03-20 17:13:19.223000
+Programação Puxada WM.doc; 2013-04-03 08:26:15.427000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de Trabalho - Novembro 2015:
+Receitas de Churrasco.doc; 2015-05-04 09:23:03.825000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020:
+0679_Modelo - Lista de Presença.doc; 2018-06-15 11:08:32.815000
+CI - Modelo.doc; 2018-02-12 11:45:51.264000
+CI para envio de material (1030201821).doc; 2018-06-11 16:10:53.321000
+CI para envio de material (1030413950).doc; 2018-06-11 16:10:20.371000
+Operador de Empilhadeira  terceirizado WEN Valmir Junckes.doc; 2017-12-12 09:47:12.812000
+ORDEM DE SERVIÇO Transporte da plataforma.doc; 2018-07-18 15:25:48.465000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Area de Trabalho 2015:
+173A-13 - Definições para comprar os materiais isolantes dos estatores da linha G da WMO.doc; 2013-11-13 07:35:36.525000
+ATA Materiais da Usinagem.doc; 2014-03-04 12:45:36.826000
+CI - Modelo 02 (2).doc; 2014-12-11 08:09:38.327000
+Disponibilidade para Mudar de Turno.doc; 2014-05-30 12:27:11.973000
+Materiais do GTA -09.01.doc; 2014-01-10 07:20:13.082000
+Material 120 dias no estoque.doc; 2014-12-10 15:38:15.923000
+ORDEM DE SERVIÇO PADRÃO.doc; 2014-11-11 15:16:38.302000
+PROBLEMAS - EMPILHADEIRAS.doc; 2014-09-18 07:56:18.633000
+TLT -2015.doc; 2015-02-02 12:41:09.579000
+TREINAMENTO COLETIVO.doc; 2013-08-22 07:54:59.653000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Area de Trabalho 2015\expedição:
+Apontamento de Máquina Mercado Externo1.doc; 2015-02-16 13:51:02.860000
+Apontamento de Máquinas - PROCEDIMENTO.doc; 2015-02-16 13:48:02.163000
+Faturamento - Picking - Mercado Interno - PROCEDIMENTO.doc; 2015-02-16 13:49:00.868000
+HU - Mapa Transferência - Expedição Mercado Externo.doc; 2015-02-16 13:52:01.038000
+PICKING EXPEDIÇÃO DE GERADORES.doc; 2015-02-16 13:49:26.702000
+Procedimento_Apontamento_Mercado Interno_Coletor.doc; 2015-02-16 13:51:26.401000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Arquivos Word:
+023A - 14 - Área Externa.doc; 2015-09-25 11:40:50.290000
+Apontamento de Máquinas - PROCEDIMENTO.doc; 2016-11-25 09:02:07.522000
+APT Transporte de materiais diversos na fabrica - REV 01.doc; 2017-04-13 12:17:01.571000
+ATA Motivos dos Inventarios WEN.doc; 2015-03-25 16:49:44.306000
+DESCRIÇÕES DE CARGO.doc; 2015-09-01 10:43:41.005000
+Encerrar operações de fábrica.doc; 2016-11-25 09:03:00.757000
+Instrução de trabalho - Contagem de Estoque por Meio de Inventario Rotativo WEN.doc; 2016-02-17 12:40:15.298000
+Materiais Área de Serviços.doc; 2017-07-14 08:52:21.707000
+RI 61305 Operador de Empilhadeira WEN.doc; 2018-02-15 09:31:41.776000
+Suspeita 2016_15_04.doc; 2016-04-29 16:40:55.080000
+TREINAMENTO COLETIVO.doc; 2019-02-22 12:37:11.830000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\ATAS:
+000A-13 -  Modelo da Ata.doc; 2019-11-01 16:17:00.623000
+ATA - Documentos Impressos (20.09).doc; 2012-09-24 16:30:16.432000
+ATA - Pre Kaizen Logistica.doc; 2013-11-01 13:20:02.395000
+ATA GATILHO CHUMBADOR  PLACA.doc; 2012-10-24 13:35:54.603000
+ATA GATILHO CHUMBADOR , PLACA.doc; 2012-05-17 15:22:03.077000
+ATA ISOLANTES GTA -001.doc; 2013-11-13 07:18:29.684000
+ATA ISOLANTES GTA -002.doc; 2013-11-13 07:29:39.300000
+ATA Notas fiscais.doc; 2012-10-05 15:23:06.546000
+ATA para transferencia de tintas pela CO27.doc; 2012-06-26 17:04:59.047000
+ATA Programadores 09.05.2012.doc; 2012-05-11 12:22:14.074000
+ATA recebimento de ECM.doc; 2012-11-13 09:28:59.557000
+ata reuniao CPA.doc; 2012-03-22 08:28:25.149000
+ATA- 2º turno.doc; 2013-10-11 13:10:02.124000
+ATA.doc; 2013-10-11 13:08:10.221000
+Gatilho Peças Grandes Caldeiraria.doc; 2012-09-20 08:46:24.496000
+Modelo de ATA.doc; 2012-09-21 14:50:46.050000
+Processo de Refugo (ordens de retrabalho).doc; 2012-08-14 12:26:05.603000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Backup Sharepoint\Ata 2010:
+20100510_Ata gerenciamento de materiais em fabrica.doc; 2011-06-13 15:04:01
+Ata 01 Deposito 08.10.09.doc; 2011-06-13 15:04:01
+ATA DE REUNIAO PCP 09.10.09.doc; 2011-06-13 15:04:01
+ATA DE REUNIÃO (Mensal 18.03).doc; 2011-06-13 15:04:01
+ATA Organização da Programação da Calderaria.doc; 2011-06-13 15:04:01
+ATA PCP Controle Fluxograma.doc; 2011-06-13 15:04:01
+ATA Perturbações.doc; 2011-06-13 15:04:01
+ATA reunião 19_10.doc; 2011-06-13 15:04:02
+ATA REUNIÃO CCQ- 04-20061.doc; 2011-06-13 15:04:02
+ATA reunião trasnferencia entre WM e WSB.doc; 2011-06-13 15:04:02
+ATA_ Roteiro _ Alternativo.doc; 2011-06-13 15:04:02
+ATA_Carga_Maquina_29_09.doc; 2011-06-13 15:04:02
+ATA_Criação _roteiro _espessura.doc; 2011-06-13 15:04:02
+ATA_Identificação_materiais_Caldeiraria.doc; 2011-06-13 15:04:03
+ATA_Manutenção_14_01_2011.doc; 2011-06-13 15:04:03
+ATA_Retrabalho_14_01_2011.doc; 2011-06-13 15:04:03
+Ata_Reunião(deposito-02.12).doc; 2011-06-13 15:04:03
+Ata_reunião_Claim_Modificação_ 03.11.doc; 2011-06-13 15:04:03
+Ata_Reunião_Motivos Atrasos .doc; 2011-06-13 15:04:03
+Ata_Reunião_PCP_Compras(fluxo do claim).doc; 2011-06-13 15:04:03
+Ata_Reunião_PCP_CPA( fluxo claim).doc; 2011-06-13 15:04:03
+Ata_Reunião_Recuperação.doc; 2011-06-13 15:04:04
+Ata_Reunião_Sucata(serra).doc; 2011-06-13 15:04:04
+Ata_Reunião_Workflow_26.10.doc; 2011-06-13 15:04:04
+ATA_Roteiros_por_Espessura.doc; 2011-06-13 15:04:04
+Situação problemática top 5  Jonas.doc; 2011-06-13 15:04:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Backup Sharepoint\Ata 2011:
+ATA - ESTUDO CRP USINAGEM 13.06.doc; 2011-06-17 09:46:08
+ATA - Ordens para Montagem 16-05-2011.doc; 2011-06-13 15:06:29
+ATA 19.07.2011.doc; 2011-08-10 13:15:50
+ATA 1ª Reunião 04_02 depósito.doc; 2011-06-13 15:06:29
+ATA 2ª Reunião 22_02 depósito.doc; 2011-06-13 15:06:29
+Ata de Reunião (materias sem movimentação 120dd).doc; 2011-07-05 13:31:42
+ATA ESTUDO CRP USINAGEM 23-02-2011.doc; 2011-06-13 15:06:30
+ATA MATERIAIS OLEO E GRAXA RS05 19 07 2011.doc; 2011-07-21 12:40:09
+ATA Planejamento na solicitaçao de pastas_ Montagem 18.08.11.doc; 2011-08-18 15:24:01
+ata reuniao CPA.doc; 2011-06-13 15:06:30
+ATA Reunião 17_01_mix_produção.doc; 2011-06-13 15:06:30
+ATA_Manutenção_14_01_2011.doc; 2011-06-13 15:06:30
+ATA_Perturbações.doc; 2011-06-13 15:06:30
+ATA_Retrabalho_14_01_2011.doc; 2011-06-13 15:06:30
+ESTUDO CRP USINAGEM 08-02-2011.doc; 2011-06-13 15:06:30
+ESTUDO CRP USINAGEM.doc; 2011-06-13 15:06:30
+Perturbações WSB - exemplo1.doc; 2011-06-13 15:06:31
+Relp 8811 WEN-JAR - Estoques de Produto Acabado - BMFM.doc; 2011-11-28 16:13:08
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\METAS SEÇÃO:
+PCP META 19   PDCA.doc; 2015-04-01 15:20:35.797000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\NORMAS 2012:
+Modelo de Norma de Sistema de Gestão - Processo.doc; 2012-06-28 14:05:12.574000
+Modificação de Documentos e Listas Tecnicas das Ordens de Produção(NOVA).doc; 2012-10-16 09:09:12.682000
+Modificação de Documentos e Listas Tecnicas das Ordens de Produção.doc; 2012-06-28 11:08:42.175000
+Programação e Controle da Produção(NOVA).doc; 2012-07-03 09:00:09.896000
+Programação e Controle da Produção.doc; 2012-06-28 11:16:28.650000
+TOP-0022 - REVISÃO PARA O PCP.doc; 2012-07-03 09:28:47.296000
+TOP-0022.doc; 2012-07-03 09:17:48.313195
+TSQ-0207-POR - Darana.doc; 2012-06-28 10:40:45.836000
+TSQ-0580_10.doc; 2012-06-28 10:41:04.775000
+TSQ-1367-POR.doc; 2013-01-09 07:19:23.343544
+TSQ-1368-POR.doc; 2013-01-09 07:17:10.619674
+~$Q-1368-POR.doc; 2015-11-10 13:13:33.523326
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\NORMAS 2012\Normas:
+BAIXA DE MATERIAIS NO SAP.doc; 2009-04-09 12:01:24.612000
+TLT1.1.doc; 2010-01-14 07:21:39.915000
+TLT2.2.doc; 2010-01-14 07:31:26.192000
+TLT3.3.doc; 2010-01-14 07:42:32.504000
+TSQ-0574_10.doc; 2009-04-15 17:22:01.411000
+TSQ-0580_10.doc; 2009-04-15 17:19:42.528000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\NORMAS 2012\Normas\TLT 2012:
+TLT1.1.doc; 2012-04-02 09:08:48.104000
+TLT2.2.doc; 2012-04-02 08:58:36.876000
+TLT3.3.doc; 2012-04-02 09:03:38.892000
+TLT4.4.doc; 2012-04-02 09:14:54.133000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\PAC - Atendimento ao Kanban:
+004R - 15 - Regras dos Buffers_final.doc; 2018-03-09 11:14:21.393000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\Segurança:
+Plano de Ação - PCP 1.doc; 2014-09-16 10:22:18.662000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\SIPAT 2016\Semana SIPAT 2015:
+Atividade Diálogo de Segurança_Feedback.doc; 2015-10-02 17:59:48.987998
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho 2020\TLT 2015:
+TLT2 2015.doc; 2015-09-23 10:40:38.656000
+TLT3 2015.doc; 2015-09-23 10:41:00.156000
+TLT4 2015.doc; 2015-09-23 10:41:22.999000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho Abril:
+Declaração referente ao cancelamento da Contribuição Sindical 2015.doc; 2015-02-26 12:29:33.080000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area De Trabalho Agosto:
+plano_de_estagio_obrigatorio UDESC atualizado - Isabela Rocha Cardoso.doc; 2015-02-16 07:06:38.537000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area De Trabalho Agosto\Arquivos Agosto 2014:
+CV Adriana Ap  Kons 2014 Novo (2).doc; 2014-04-28 16:36:46.457000
+Relatórios das Ocorrências- Ferias.doc; 2014-01-23 10:13:23.185000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area De Trabalho Agosto\SIPAT:
+2013_06_01_Falta de Cuidade como Causa de Acidente.doc; 2014-07-07 09:38:05.105000
+2013_07_Empilhadeiras.doc; 2014-07-07 09:36:12.283000
+2013_10_Circulação de Pedestres.doc; 2014-07-07 09:37:24.338000
+2013_10_Circulação Interna - Corredores, Calçadas e avenidas.doc; 2014-07-07 09:38:59.452000
+2013_11_CUIDADOS TRÂNSITO.doc; 2014-07-07 09:39:30.790000
+2014_05_Empilhadeiras.doc; 2014-07-07 09:40:10.620000
+2014_06_Primeiros socorros-Comunicação dos Acidentes.doc; 2014-07-07 09:40:36.906000
+Empilhadeira.doc; 2014-07-07 09:45:35.302000
+Momento de Segurança Nº 1 - Acidente do Trabalho.doc; 2014-07-07 09:42:14.419000
+Momento de Segurança Nº 11 - Segurança para Motociclista.doc; 2014-07-07 09:44:06.191000
+Momento de segurança Nº 62 -Segurança no trabalho.doc; 2014-07-07 09:43:19.788000
+PREVENÇÃO SEGURANÇA E SAÚDE_SEMANA 01.doc; 2014-07-07 09:36:30.738000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area Trabalho Julho 2015:
+RI 57097 Operador de Empilhadeira WEN Valmir Junckes.doc; 2015-05-07 08:58:01.160000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\Arquivos:
+071A-11 - Sincronização de suprimentos com serra - 2º pré.doc; 2011-12-14 08:28:55.303000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\ARQUIVOS ANTIGOS (ANTES INDIA):
+ATA - Ordens para Montagem 16-05-2011.doc; 2011-05-19 08:58:10.902000
+ATA REUNIÃO MENSAL 28_04.doc; 2011-05-10 07:45:25.570000
+Fluxograma 1 .doc; 2011-07-04 13:39:46.637000
+Indicador Carga Maquina.doc; 2011-02-14 15:41:49.165000
+Indice +10 e - 10 dias.doc; 2011-05-27 09:03:34.141000
+Levantamento para Reuniao com o DSI.doc; 2010-11-24 13:19:37.752263
+Metas 2011.doc; 2010-12-08 08:49:33.080241
+Norma de Fluxos - PCP Controle.doc; 2011-01-20 08:13:45.654000
+PAD_VALMIR_Weg.doc; 2011-05-20 10:10:26.309306
+Percentual de refugo (barras).doc; 2010-10-06 16:41:48.477738
+PROCEDIMENTO DE ORDENS DE MONTAGEM IMPRESSA.doc; 2011-05-19 09:04:58.512000
+Reunião Carga Maquina 06.06.doc; 2011-06-06 13:33:28.704000
+sharepoint.doc; 2011-03-29 09:19:56.771000
+Top 5 - Método de programação puxada para trocadores.doc; 2011-06-30 14:44:20.591000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\ARQUIVOS ANTIGOS (ANTES INDIA)\Atas  Reuniões:
+28042010_Reunião_Estudo do MES.doc; 2010-05-10 13:54:24.630000
+ATA TOP 5 03 - Atraso na entrega.doc; 2010-05-24 15:10:34.685000
+ATA TOP _ PCP.doc; 2010-05-25 08:28:52.938000
+ATA_ Roteiro _ Alternativo.doc; 2010-09-20 16:49:12.688000
+ATA_Carga_Maquina_29_09.doc; 2010-09-29 10:22:52.881076
+ATA_CCQ- Barras de eixos .doc; 2010-10-26 14:31:22.590000
+ATA_Criação _roteiro _espessura.doc; 2010-09-20 16:09:10.013000
+ATA_REGRAS C.T. ALTERNATIVOS.doc; 2010-09-27 14:26:22.918299
+ATA_REUNIÃO MENSAL PCP-30.03.doc; 2011-04-06 09:15:25.340000
+Ata_Reunião.doc; 2010-02-18 07:05:52.459675
+Ata_Reunião_Motivos Atrasos .doc; 2011-01-21 06:56:53.887000
+Ata_Reunião_PCP_Compras(fluxo do claim).doc; 2010-02-19 13:56:56.905210
+CCQ.doc; 2010-07-13 13:41:59.811648
+Formulario - 0493-A.doc; 2010-06-02 15:52:33.187608
+Mod0022.doc; 2010-12-14 12:37:27.987000
+Modelo Analise de falhas.doc; 2010-04-19 08:56:11.168000
+Modelo ATA.doc; 2012-05-09 14:03:41.878000
+Modelo_ata_-_02[2].doc; 2010-02-22 15:31:43.208819
+Modelo_de_acompanhamento,_ata_de_trabalho_de_CCQ[3].doc; 2010-02-22 14:52:09.507429
+MRP_ERP.doc; 2010-05-27 12:55:11.858000
+Norma.doc; 2010-09-13 15:39:40.900000
+Processo de Refugo (ordens de retrabalho).doc; 2012-07-04 14:47:58.645000
+Relatorio Analise de falhas.doc; 2010-07-08 08:16:59.297532
+TCC _ Marlene.doc; 2010-09-24 07:55:59.304313
+TCC_Marlene.doc; 2010-08-09 11:11:10.007000
+Top 5 IMPLANTAÇÃO_WM.doc; 2010-06-24 16:18:54.557000
+Top 5 Lista tecnica .doc; 2010-11-25 11:56:20.101427
+Top 5 PCP.doc; 2010-10-22 13:12:14.207000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\ARQUIVOS ANTIGOS (ANTES INDIA)\PLANILHAS_VALMIR:
+095A-09 - Definir Procedimento para Analise Claim ZZ e ZR.doc; 2009-08-17 12:18:15.194000
+ATA - Sucateamento de materiais segregados (2).doc; 2010-01-19 13:53:07.960000
+Ata_reunião 03.11.doc; 2009-11-10 12:05:29.631000
+Ata_Reunião-2ºturno_17.08.doc; 2009-08-19 10:31:07.467000
+Ata_Reunião_17.08.doc; 2009-08-18 17:40:01.197000
+Ata_Reunião_26.10.doc; 2009-10-26 12:51:17.026548
+Ata_Reunião_PCP_CPA( fluxo claim).doc; 2010-09-01 10:14:55.767000
+Ata_Reunião_Sucata(serra).doc; 2009-11-05 10:13:23.283722
+Dados Reunião.doc; 2010-11-25 12:54:22.946538
+mod0011.doc; 2008-03-20 09:21:41.684000
+MU_TR16729_CO08_CRIAR ORDEM DE PROJETO.doc; 2007-08-23 16:33:27.166000
+Procedimento para Consulta de  Clains.doc; 2010-01-19 06:32:12.539113
+Procedimentos para ordem de retrabalho.doc; 2009-08-03 16:12:02.722000
+Rotina de um Programador.doc; 2009-01-12 09:56:46.746000
+Usinagem_wm_2008.doc; 2009-04-02 13:57:16.010000
+Vida e Saúde.doc; 2010-01-25 06:49:47.071000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\ARQUIVOS ANTIGOS (ANTES INDIA)\Trabalhos Elaine:
+Consulta da Data Real na MD04.doc; 2010-09-01 10:08:16.937000
+Etiquetas ( IS99 ) .doc; 2010-10-22 10:17:51.844000
+Metas abril 2010.doc; 2010-05-07 15:30:50.994000
+Proce_ORdens_Atraso .doc; 2010-10-27 16:22:50.749000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\ARQUIVOS GERAIS\ARQUIVOS DE MARÇO:
+ata reuniao CPA.doc; 2012-02-06 12:09:48.237000
+manual_eng_processos (3).doc; 2012-02-08 12:30:35.833000
+Modelo ATA.doc; 2012-02-06 14:26:39.772000
+Programação e Controle ( atividades).doc; 2012-02-07 10:15:24.793000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Arquivos MARÇO 2013:
+Declaração referente ao cancelamento da Contribuição Sindical2013 (2).doc; 2013-02-27 14:59:38.325000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Arquivos Outubro 2014:
+RI 53820 Operador de Empilhadeira WEN Valmir Junckes.doc; 2014-07-11 16:51:52.976000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\LIXO\Lixo 2015:
+RI 55491 Distribuidor de Materiais WEN Valmir.doc; 2014-12-04 09:28:13.236000
+RI 55508 Programador de Produção WEN Valmir.doc; 2014-12-04 09:44:02.647000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Procedimentos Seção Programação e Controle:
+Apontamento de Máquinas - PROCEDIMENTO.doc; 2014-09-23 10:51:03.737000
+Liberação das ordens de produção.doc; 2014-09-13 08:01:51.918000
+liberação ordens de produção de  materiais sem roteiro.doc; 2014-09-13 08:02:23.056000
+Liberação ordens de produção para verificar o atraso.doc; 2014-09-13 08:02:40.472000
+MD06.doc; 2014-09-13 07:32:36.782000
+Procedimento de apontamento Bobinagem - Montagem - Alternadores.doc; 2014-09-13 05:55:09.799000
+Procedimento de reprogramação (MD06).doc; 2014-09-13 07:55:50.305000
+Procedimento Liberação de Ordens de Produção.doc; 2014-09-13 07:56:53.432000
+Procedimento para  inclusão nas ordens de produção liberada.doc; 2014-09-13 07:57:30.965000
+Procedimento para Abrir QM e Baixar o Material Pela QM.doc; 2014-09-13 07:59:41.413000
+Procedimento para consultas de materiais em estoque livre.doc; 2014-09-13 08:05:29.652000
+Procedimento para gerar relatório para Contagem dos Depósitos da fabrica.doc; 2014-09-13 08:00:14.233000
+Procedimento para Impressões de Desenhos.doc; 2014-09-13 08:03:20.707000
+Procedimentos - Inventarios.doc; 2014-09-13 08:06:05.890000
+Procedimentos para criação de reservas avulsas.doc; 2014-09-13 08:00:45.052000
+Transferências de Projeto e depósito.doc; 2014-09-23 10:52:44.715000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Procedimentos Seção Programação e Controle\PROCEDIMENTOS:
+0493-A.doc; 2012-03-23 14:08:50.871000
+INVENTARIO.doc; 2012-10-16 16:28:14.594000
+Procedimento Indice.doc; 2012-08-24 10:18:16.340000
+PROCEDIMENTO PARA ANÁLISE ATRASO DE COMPONENTES EM PROJETOS.doc; 2012-09-24 10:59:42.256000
+SUCATEAMENTO.doc; 2012-10-16 16:15:46.209000
+TSQ-1194.doc; 2012-06-27 16:03:03.058078
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Procedimentos Seção Programação e Controle\PROCEDIMENTOS\Procedimentos PS:
+Apontamento de Máquinas - PROCEDIMENTO.doc; 2013-12-19 06:56:31.329000
+Inventario GTA.doc; 2013-01-21 09:37:39.853000
+Procedimento BI_Rlatorios.doc; 2013-01-09 15:09:15.064000
+Relação de Jobs.doc; 2015-01-19 13:40:59.309000
+Síntese de Jobs.doc; 2013-07-05 10:40:59.182000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Procedimentos Seção Programação e Controle\PROCEDIMENTOS\Procedimentos PS\Procedimentos:
+Centros de Trabalho Eng Novos 2011.doc; 2011-04-01 17:00:32.976000
+Criação de template do inicio.doc; 2012-02-27 16:33:08.748000
+Dados do Marco.doc; 2012-02-23 15:48:10.318000
+Diagramas de Rede Standard.doc; 2012-08-20 17:13:04.984000
+Ligaçoes das Tarefas ABS.doc; 2010-03-24 17:20:23.259000
+Manual do Usuario PCP Planejamento Mestre.doc; 2008-11-11 14:45:11.141000
+Novos_CT_Engenharia.doc; 2011-05-12 13:46:46.467000
+Pendências do PS.doc; 2010-10-22 15:54:51.807000
+Procedimento AM.DOC; 2009-04-08 12:03:29.789000
+Procedimento Anexar Claim no Projeto.doc; 2010-03-08 08:05:36.026000
+Procedimento Atualizar Projetos Novo Modelo.doc; 2011-03-14 11:08:48.903000
+Procedimento Auditoria Encerramento de Projetos.doc; 2011-09-29 15:53:50.283000
+Procedimento BI_Rlatorios.doc; 2012-08-08 11:07:54.560000
+Procedimento Cancelamento.doc; 2009-01-20 07:39:44.691000
+Procedimento CJ20N_Painel_de_Planejamento.doc; 2010-10-22 07:09:45.647000
+Procedimento CJI3.doc; 2012-04-23 16:17:02.594000
+Procedimento CM01.doc; 2009-09-16 17:13:28.292000
+Procedimento CM01_Vendas.doc; 2010-11-09 15:23:21.046000
+Procedimento CM07 Novo.doc; 2012-08-02 10:19:23.058000
+Procedimento CM07.doc; 2010-03-17 08:31:48.227000
+Procedimento CN25.doc; 2009-09-16 17:08:06.786000
+Procedimento CN29 Estornar Status de CONF para LIB no PS.doc; 2010-07-12 11:49:28.552000
+Procedimento CN41 Gravar Variente.doc; 2011-03-29 11:57:05.449000
+Procedimento CN41 Visualizar Versão Projeto.doc; 2010-09-20 14:28:50.864000
+Procedimento CN47N Tarefas Pendentes PS por Requerente.doc; 2010-09-16 15:38:16.547000
+Procedimento CN72 Criar Versão de Cronograma no Projeto.doc; 2010-09-20 14:19:29.489000
+Procedimento CNR1.doc; 2010-07-23 07:55:40.196000
+Procedimento Consultar Ordem de Produção Arquivada.doc; 2010-05-07 15:27:11.277000
+Procedimento CR21 Criar Hierarquias de Centros de Trabalho.doc; 2011-12-08 10:40:24.668000
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN PCP.doc; 2010-03-02 11:59:14.628000
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN.doc; 2010-03-17 16:59:14.784000
+Procedimento CV01N Criar Documento ZAC.doc; 2010-03-05 15:47:17.901000
+Procedimento CV01N Criar Documento ZIM.doc; 2011-06-03 13:11:55.523000
+Procedimento CV02N Revisar Documento ZAC.doc; 2009-09-16 15:18:42.416000
+Procedimento Fluxo Claim Padrao.doc; 2009-03-10 08:40:54.382000
+Procedimento Inclusão de Atividades no PS conforme norma ABS.doc; 2010-04-19 16:41:02.374000
+Procedimento Inclusão de Marco Financeiro no PS.doc; 2009-10-22 13:28:21.555000
+Procedimento intracompany.doc; 2009-04-25 06:45:42.357000
+Procedimento IW21 Abrir chamado manutenção.doc; 2013-01-09 16:23:54.352000
+Procedimento LB10 - Modification Order.doc; 2012-12-07 15:18:53.042000
+Procedimento MB1A Baixar Material Contra Projeto.doc; 2010-01-22 14:06:21.477000
+Procedimento MD74 (Deletar Necessidade Preliminar).doc; 2010-09-13 10:59:37.767000
+Procedimento Meta PCP - Eliminar Arquivo.doc; 2012-05-17 14:24:51.508000
+Procedimento OpenPS For MS Project.doc; 2010-09-20 15:15:21.930000
+Procedimento para atualizar Template.doc; 2009-03-31 10:12:34.503000
+Procedimento para criação e programação de sobressalentes.doc; 2010-10-25 09:07:48.181000
+Procedimento para Encerramento de Projetos (Jurandir em 22-04-09).doc; 2009-04-24 14:08:16.271000
+Procedimento para Fabricar Partes e Peças do Brasil na Weg Índia.doc; 2011-11-17 10:55:41.963000
+Procedimento para fazer os encerramentos dos Projetos 01.doc; 2010-03-01 13:11:14.048000
+Procedimento para fazer os encerramentos dos Projetos.doc; 2008-10-07 07:58:56.797000
+Procedimento para receber mercadoria do centro 1320.doc; 2012-02-22 08:56:35.580000
+Procedimento Programar Sobressalentes.doc; 2012-05-07 11:53:22.400000
+Procedimento Programação Pedido em Aprovação.doc; 2010-04-20 13:40:59.495000
+PROCEDIMENTO PROJETOS NOVO MODELO.doc; 2009-10-22 10:12:21.948000
+Procedimento Projetos transferidos para a WNT.doc; 2009-05-13 08:05:44.250000
+Procedimento SAP Novo.doc; 2011-07-28 13:27:43.248000
+Procedimento SAP.doc; 2008-12-18 14:38:43.929000
+Procedimento Transferir Datas Base para Previsao CJ20N.doc; 2012-11-01 15:22:25.013000
+Procedimento_1-QM_QM01_CRIAR_NOTA_QC.doc; 2010-11-22 10:49:56.536000
+Procedimento_Processar_Encerramento_do_Projeto_ver_1.doc; 2012-10-05 16:22:11.977000
+Procedimento_Reprogramacao_PS.doc; 2011-02-28 16:43:20.139000
+Procedimento_Vendas_Internacionais_WM.doc; 2011-03-01 14:09:05.676000
+Procedimento_WorkflowPS.doc; 2011-05-18 12:06:46.011000
+Procedure to program Spare Parts in Sales orders.doc; 2012-07-03 08:41:07.044000
+Proposta para planejar a Engenharia no prazo certo.doc; 2010-03-22 17:11:51.590000
+Proposta_Encerramento_Projetos_WM.doc; 2010-05-12 16:48:11.772000
+Proposta_Pedidos_em_aprovacao.doc; 2010-04-20 13:36:43.359000
+Reprogramacao_Ordens.doc; 2010-07-14 08:27:06.398962
+Responsáveis que deverão ser preenchidos no PEPs.doc; 2010-07-23 17:00:05.616000
+Síntese de Jobs.doc; 2012-12-18 12:54:18.918000
+Trabalho Padronizado OPT  CMT - IMPLANTAÇÃO DE OV PARA FABRICAÇÃO NA WNT - Rev00 18_03_2010.doc; 2010-04-14 07:47:25.014000
+~$ntese de Jobs.doc; 2012-02-06 16:34:30.271667
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Procedimentos Seção Programação e Controle\PROCEDIMENTOS\Procedimentos PS\Procedimentos\Procedimentos Feitos no Instant Producer:
+Procedimento Configurar Painel Planejamento CJ20N.doc; 2012-10-31 10:50:23.171000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Proposta Carreta 40 Ton:
+052R-20 - Trator de Solda Oscilante.doc; 2020-11-17 14:13:36.779000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\Proposta Operador de Empilhadeira:
+Proposta Aumento de Quadro Mão de Obra Temporária.doc; 2020-12-01 12:42:22.330000
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011:
+Cronograma_Carga_Maquina .doc; 2010-09-10 12:55:11
+Top 5 PCP.doc; 2011-08-17 09:43:09
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\area de trabalho:
+ATA REUNIÃO MENSAL 28_04.doc; 2011-05-10 07:45:25
+Fluxograma 1 .doc; 2011-07-04 13:39:46
+Indicador Carga Maquina.doc; 2011-02-14 15:41:49
+Indice +10 e - 10 dias.doc; 2011-05-27 09:03:34
+Levantamento para Reuniao com o DSI.doc; 2010-11-24 13:19:37
+Metas 2011.doc; 2010-12-08 08:49:33
+Modelo PAD EM BRANCO Weg.doc; 2023-02-15 13:10:47.008000
+Norma de Fluxos - PCP Controle.doc; 2011-01-20 08:13:45
+PAD_VALMIR_Weg.doc; 2011-05-20 10:10:26
+Percentual de refugo (barras).doc; 2010-10-06 16:41:48
+PROCEDIMENTO DE ORDENS DE MONTAGEM IMPRESSA.doc; 2011-05-19 09:04:58
+Reunião Carga Maquina 06.06.doc; 2011-06-06 13:33:28
+sharepoint.doc; 2011-03-29 09:19:56
+Top 5 - Método de programação puxada para trocadores.doc; 2011-06-30 14:44:20
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Arquivos Antigos:
+Procedimentos para ordem de retrabalho.doc; 2011-02-15 12:53:24
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Backup:
+Dados Reunião.doc; 2010-11-25 12:54:22
+Levantamento para Reuniao com o DSI.doc; 2010-11-24 13:19:37
+Metas 2011.doc; 2010-12-08 08:49:33
+Percentual de refugo (barras).doc; 2010-10-06 16:41:48
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Dados para Apresentação da Reunião Agosto:
+Quando você precisa de máquinas.doc; 2011-08-12 15:51:37
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Dados para Apresentação da Reunião Agosto\Apresentação WEG\apresentação:
+India.doc; 2011-02-15 19:21:56
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Ingles\Weg Dictionary:
+factory tools.doc; 2011-08-17 21:16:08
+~$ctory tools.doc; 2010-07-27 19:40:14
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Ingles\Weg Dictionary\technical dictionary:
+a-d.doc; 2011-08-22 14:38:05
+e-h.doc; 2010-11-09 17:39:20
+Geral.doc; 2011-08-22 14:38:39
+i-l.doc; 2010-05-27 23:46:28
+m-p.doc; 2011-08-17 14:44:24
+q-t.doc; 2010-11-09 17:42:44
+u-z.doc; 2010-11-09 17:29:06
+~$a-d.doc; 2009-05-01 04:47:32
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\Norma:
+TSQ - Pendencias.doc; 2011-05-11 08:03:32
+TSQ- Almoxarifado (1).doc; 2011-07-26 07:28:12
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\PROCEDIMENTO PARA WEG INDIA\Manuais Treinamento:
+Apontamento .doc; 2010-08-17 07:58:45
+Consulta da Carga Maquina.doc; 2011-03-21 10:32:15
+Modificação de Documentos e Lista Técnicas.doc; 2010-09-13 13:03:16
+Opções_Antecipacao_Rotor.doc; 2010-08-31 16:54:39
+Opções_Antecipacao_Rotor_Weg.doc; 2010-08-31 17:15:40
+Ordens.doc; 2011-01-31 15:18:56
+Passo  a Passo.doc; 2011-01-24 08:07:33
+PROCEDIMENTO CO27.doc; 2011-03-18 10:51:12
+PROCEDIMENTO DE ORDENS DE RETRABALHO.doc; 2011-02-03 14:05:07
+PROCEDIMENTO PARA VERIFICAR A CARGA DOS CENTROS DE TRABALHOS.doc; 2011-03-16 09:32:49
+Transferência_para_Weg_Motores.doc; 2011-03-18 14:54:35
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\PROCEDIMENTO PARA WEG INDIA\Procedimentos- Alcidio:
+Centros de Trabalho Eng Novos 2011.doc; 2011-04-01 17:00:32
+Diagramas de Rede Standard.doc; 2011-04-15 13:22:47
+Manual do Usuario PCP Planejamento Mestre.doc; 2008-11-11 14:45:11
+Novos_CT_Engenharia.doc; 2011-05-12 13:46:46
+Pendências do PS.doc; 2010-10-22 15:54:51
+Procedimento AM.DOC; 2009-04-08 12:03:29
+Procedimento Anexar Claim no Projeto.doc; 2010-03-08 08:05:36
+Procedimento Atualizar Projetos Novo Modelo.doc; 2011-03-14 11:08:48
+Procedimento Auditoria Encerramento de Projetos.doc; 2010-09-13 15:33:12
+Procedimento Cancelamento.doc; 2009-01-20 07:39:44
+Procedimento CJ20N_Painel_de_Planejamento.doc; 2010-10-22 07:09:45
+Procedimento CM01.doc; 2009-09-16 17:13:28
+Procedimento CM01_Vendas.doc; 2010-11-09 15:23:21
+Procedimento CM07.doc; 2010-03-17 08:31:48
+Procedimento CN25.doc; 2009-09-16 17:08:06
+Procedimento CN29 Estornar Status de CONF para LIB no PS.doc; 2010-07-12 11:49:28
+Procedimento CN41 Gravar Variente.doc; 2011-03-29 11:57:05
+Procedimento CN41 Visualizar Versão Projeto.doc; 2010-09-20 14:28:50
+Procedimento CN47N Tarefas Pendentes PS por Requerente.doc; 2010-09-16 15:38:16
+Procedimento CN72 Criar Versão de Cronograma no Projeto.doc; 2010-09-20 14:19:29
+Procedimento CNR1.doc; 2010-07-23 07:55:40
+Procedimento Consultar Ordem de Produção Arquivada.doc; 2010-05-07 15:27:11
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN PCP.doc; 2010-03-02 11:59:14
+PROCEDIMENTO CRIAÇÃO DE PROJETOS WEN.doc; 2010-03-17 16:59:14
+Procedimento CV01N Criar Documento ZAC.doc; 2010-03-05 15:47:17
+Procedimento CV01N Criar Documento ZIM.doc; 2011-06-03 13:11:55
+Procedimento CV02N Revisar Documento ZAC.doc; 2009-09-16 15:18:42
+Procedimento Fluxo Claim Padrao.doc; 2009-03-10 08:40:54
+Procedimento Inclusão de Atividades no PS conforme norma ABS.doc; 2010-04-19 16:41:02
+Procedimento Inclusão de Marco Financeiro no PS.doc; 2009-10-22 13:28:21
+Procedimento intracompany.doc; 2009-04-25 06:45:42
+Procedimento IW21 Abrir chamado manutenção.doc; 2010-03-02 11:06:56
+Procedimento MB1A Baixar Material Contra Projeto.doc; 2010-01-22 14:06:21
+Procedimento MD74 (Deletar Necessidade Preliminar).doc; 2010-09-13 10:59:37
+Procedimento OpenPS For MS Project.doc; 2010-09-20 15:15:21
+Procedimento para atualizar Template.doc; 2009-03-31 10:12:34
+Procedimento para criação e programação de sobressalentes.doc; 2010-10-25 09:07:48
+Procedimento para Encerramento de Projetos (Jurandir em 22-04-09).doc; 2009-04-24 14:08:16
+Procedimento para fazer os encerramentos dos Projetos 01.doc; 2010-03-01 13:11:14
+Procedimento para fazer os encerramentos dos Projetos.doc; 2008-10-07 07:58:56
+Procedimento Programar Sobressalentes.doc; 2011-08-01 11:58:33
+Procedimento Programação Pedido em Aprovação.doc; 2010-04-20 13:40:59
+PROCEDIMENTO PROJETOS NOVO MODELO.doc; 2009-10-22 10:12:21
+Procedimento Projetos transferidos para a WNT.doc; 2009-05-13 08:05:44
+Procedimento SAP Novo.doc; 2011-07-28 13:27:43
+Procedimento SAP.doc; 2008-12-18 14:38:43
+Procedimento_1-QM_QM01_CRIAR_NOTA_QC.doc; 2010-11-22 10:49:56
+Procedimento_Reprogramacao_PS.doc; 2011-02-28 16:43:20
+Procedimento_Vendas_Internacionais_WM.doc; 2011-03-01 14:09:05
+Procedimento_WorkflowPS.doc; 2011-05-18 12:06:46
+Proposta para planejar a Engenharia no prazo certo.doc; 2010-03-22 17:11:51
+Proposta_Encerramento_Projetos_WM.doc; 2010-05-12 16:48:11
+Proposta_Pedidos_em_aprovacao.doc; 2010-04-20 13:36:43
+Reprogramacao_Ordens.doc; 2010-07-14 08:27:06
+Responsáveis que deverão ser preenchidos no PEPs.doc; 2010-07-23 17:00:05
+Síntese de Jobs.doc; 2011-08-01 09:17:01
+Trabalho Padronizado OPT  CMT - IMPLANTAÇÃO DE OV PARA FABRICAÇÃO NA WNT - Rev00 18_03_2010.doc; 2010-04-14 07:47:25
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Arquivos antes de 2011\PROCEDIMENTO PARA WEG INDIA\TREINAMENTO- MARGUIT:
+711-017 Manual Validações automáticas nas visões criação material.doc; 2010-09-09 09:22:36
+AJUDA_ORDEM_PRODUCAO_MAPS.doc; 2008-10-22 10:06:34
+APONTAMENTO DE HORAS.doc; 2008-06-06 07:57:35
+Buscar CTs ligados a um Calendário.doc; 2010-12-03 12:53:50
+Central_Impressao_India.doc; 2011-02-25 17:11:35
+Configuração para acesso remoto.doc; 2007-11-28 13:55:50
+Criar centros de trabalho de Projetos.doc; 2008-06-12 13:47:19
+GLOBAL_EN_Planning and Production Control.doc; 2010-07-28 08:04:11
+Global_EN_Purchase Requisiton and reservation.doc; 2010-07-28 08:04:47
+GLOBAL_PT_Planejamento e Programa da Produção.DOC.doc; 2010-09-17 14:36:19
+Impressão de Desenhos.doc; 2011-04-04 09:52:34
+India_EN_Inventory Procedures - Cycle Counting.doc; 2010-07-28 08:05:15
+India_EN_Routing Creation - User Manual.doc; 2011-04-14 13:28:33
+India_EN_Warehouse Procedures.doc; 2010-07-28 08:05:36
+India_EN_Work Center Creation - User Manual.doc; 2010-07-28 08:06:26
+Manual para Cadastro de Regras do Workflow.doc; 2010-09-01 10:51:12
+MANUAL _ EMBALAR _ HU_Centro_1200.doc; 2011-06-15 15:43:48
+Manutenção de Feriados Móveis (2).doc; 2010-12-03 12:55:25
+Modificação dos calendários Móveis da Weg India.doc; 2011-01-11 14:34:57
+Modificação dos calendários para incluir férias coletivas.doc; 2009-03-11 15:27:30
+Parametrizacao_Avaliacao_Capacidade_OV_GAP_913-004_MPS.doc; 2011-05-30 13:35:45
+PP_ZTPP036_RELATORIO_DE_AVALIACAO_DE_ENTREGAS.doc; 2008-10-22 10:08:11
+procedimento - inspeção da qualidade.doc; 2011-05-03 07:54:40
+Procedimento para verificar mais de uma alteração de componente da lista técnica no mesmo ECM.doc; 2010-05-13 09:05:25
+Procedimentos para ordem de retrabalho.doc; 2011-02-16 00:10:02
+regras_campos_pcp_mestre_materiais.doc; 2010-05-24 08:15:40
+Separação de Ordens.doc; 2011-04-04 09:53:31
+~$iar centros de trabalho de Projetos.doc; 2016-03-29 08:10:40
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\Procedimento Indices:
+Passo a Passo - indicador de ordens diario.doc; 2012-07-27 12:59:32
+~$sso a Passo - indicador de ordens diario.doc; 2012-05-28 09:18:58
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos Antigos\TLT 2012:
+TLT.- Branco.doc; 2012-10-19 08:00:19
+TLT1.1.doc; 2015-09-23 10:15:55
+TLT2.2.doc; 2015-09-23 10:17:15
+TLT3.3.doc; 2015-09-23 10:17:44
+TLT4.4.doc; 2015-09-23 10:16:38
+~$TLT4.4.doc; 2013-08-07 08:20:43
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\PAC - Atendimento ao Kanban:
+004R - 15 - Regras dos Buffers_final.doc; 2018-03-09 11:14:21
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Reuniao de Seçao:
+Assuntos para passar na reunião de seção.doc; 2013-05-16 12:51:02
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Reuniao de Seçao\2018\Setembro:
+Guia Reunião Mensal_Pesquisa de Clima WEG_Jgua do Sul_Setembro_2018.doc; 2018-09-14 16:16:39
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Reuniao de Seçao\Recliclagem PAE:
+mod0679 lista de presença.doc; 2013-03-28 10:52:28
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\SIPAT:
+2013_06_01_Falta de Cuidade como Causa de Acidente.doc; 2014-07-07 09:38:05
+2013_07_Empilhadeiras.doc; 2014-07-07 09:36:12
+2013_10_Circulação de Pedestres.doc; 2014-07-07 09:37:24
+2013_10_Circulação Interna - Corredores, Calçadas e avenidas.doc; 2014-07-07 09:38:59
+2013_11_CUIDADOS TRÂNSITO.doc; 2014-07-07 09:39:30
+2014_05_Empilhadeiras.doc; 2014-07-07 09:40:10
+2014_06_Primeiros socorros-Comunicação dos Acidentes.doc; 2014-07-07 09:40:36
+Empilhadeira.doc; 2014-07-07 09:45:35
+Momento de Segurança Nº 1 - Acidente do Trabalho.doc; 2014-07-07 09:42:14
+Momento de Segurança Nº 11 - Segurança para Motociclista.doc; 2014-07-07 09:44:06
+Momento de segurança Nº 62 -Segurança no trabalho.doc; 2014-07-07 09:43:19
+PREVENÇÃO SEGURANÇA E SAÚDE_SEMANA 01.doc; 2014-07-07 09:36:30

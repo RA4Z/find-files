@@ -1,0 +1,148 @@
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP:
+compras.xlsb; 2022-03-14 16:49:54.552852
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ana Cristina\Caldeiraria:
+2023.06.14-MONTexport.xlsb; 2023-06-14 10:07:05.538515
+2023.06.14export.xlsb; 2023-06-14 10:03:25.190407
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\Alternadores\Produção 65dia:
+BASE DE DADOS WEN 2022.xlsb; 2022-08-08 10:26:20.666220
+Cópia de BASE DE DADOS WEN.xlsb; 2022-08-08 10:23:10.932619
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Andersonpl\Area de trabalho:
+compras.xlsb; 2021-12-17 16:29:11.393945
+Eólico 2.xlsm.xlsb; 2021-10-08 17:12:17.105264
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester:
+EFFICIENCY MAN HOUR - 2022- WII-01.xlsb; 2022-06-08 11:23:22.495806
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Giro de estoque SMI\2023\PASTA PADRÃO\04 - Situação Comprados\Unificado Compras:
+compras.xlsb; 2021-09-30 07:39:35.677662
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\2 - CALDERARIA:
+Calculo de tempo de soldagem.xlsb; 2015-12-02 14:48:49
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Evotec\Eng_Manufatura\Jefferson\6 - DOCUMENTOS TÉCNICOS:
+Calculo de tempo de soldagem.xlsb; 2015-09-18 11:27:44
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Caldeiraria:
+02011861.xlsb; 2023-06-01 21:21:59.187118
+Cópia de VL10D USINAGEM 25.08.xlsb; 2023-08-11 14:34:04.277106
+VL10D DIA 09.06.xlsb; 2023-06-01 14:54:03.280138
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Diversos:
+ca03.xlsb; 2023-04-27 07:39:51.966875
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\S&OP\Ordens planejadas:
+Cópia de TEMPLATE_WEG_REPORTS (25).xlsb; 2023-12-08 14:00:52.235037
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Solicitações Thiago\Orçamento 2024:
+Cópia de TEMPLATE_WEG_REPORTS - 2023-08-22T143105.884.xlsb; 2023-08-22 14:34:06.366303
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\FACILITADOR\2024:
+WFR-27128.xlsb; 2024-02-09 10:22:38.212931
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\FACILITADOR\2024\5'S:
+Auditoria sistemica PCP.xlsb; 2024-02-22 09:46:05.347703
+WFR-27128.xlsb; 2024-02-06 11:39:17.576233
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\FACILITADOR\5S:
+Auditoria01022024 - PCP.xlsb; 2024-02-20 16:16:31.840687
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Franciele\PLANILHA:
+EFFICIENCY MAN HOUR - 2023- WII.xlsb; 2023-09-11 13:32:32.710358
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco:
+compras.xlsb; 2023-08-23 07:01:57.833208
+compras_.xlsb; 2022-01-12 06:59:51.785977
+compras_nao_aparece_no_quadro.xlsb; 2023-05-09 16:01:58.595660
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Beatriz:
+compras.xlsb; 2023-08-24 07:16:45.895621
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Compras_centros\Base de dados:
+Base_de_dados_2022.xlsb; 2022-04-05 15:53:40.413775
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Impacto dolar:
+TEMPLATE_WEG_REPORTS - 2022-04-14T092116.937.xlsb; 2022-04-14 09:26:33.795032
+TEMPLATE_WEG_REPORTS.xlsb; 2022-04-14 08:00:13.275079
+TEMPLATE_WEG_REPORTS_ROL.xlsb; 2022-04-19 10:58:43.681980
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Francisco\Sharepoint:
+compras.xlsb; 2022-09-13 07:38:35.742546
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Guilherme\Avaliação preliminar:
+W60.xlsb; 2024-04-25 14:45:29.470800
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ivanrl\Backup\Area de trabalho\Planilhas:
+Calculo de tempo de soldagem.xlsb; 2016-03-11 13:35:02.616278
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Juliano\Faturamento x carteira:
+Cópia de ZTEMPLATE_AD_HOC_WT002-3.xlsb; 2018-06-07 10:42:14
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\WMS 2023\Mapeamento:
+Cost Deployment Office_PCP.xlsb; 2022-11-18 13:39:02.600049
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Orçamento\Orçamento 2024:
+Cópia de TEMPLATE_WEG_REPORTS - 2023-08-22T143105.884.xlsb; 2023-08-22 14:34:06.366303
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Unificado Compras:
+compras.xlsb; 2024-05-20 08:17:24.346980
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Unificado Compras\Backup:
+09-05 não salvaram.xlsb; 2024-05-08 16:25:40.278827
+19-04.xlsb; 2024-04-19 07:16:42.367676
+compras não salvaram.xlsb; 2024-04-22 16:52:38.706889
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Unificado Compras\temporario:
+compras.xlsb; 2022-10-10 07:53:57.980371
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\89 - Quadro de compras 2.0:
+Base de dados Fornecedores.xlsb; 2023-07-10 09:55:27.993943
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A048 - Relatorio suprimentos PCR:
+compras.xlsb; 2023-08-07 16:21:10.479518
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques\backup:
+planilhaRol.xlsb; 2022-06-08 09:15:02.378539
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques\Planilhas:
+planilhaRol.xlsb; 2022-08-11 09:04:04.557272
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques\Planilhas\Dados:
+planilhaRol.xlsb; 2022-06-06 07:24:49.565824
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques\ROL:
+planilhaRol.xlsb; 2022-08-11 09:04:04.557272
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários:
+APROVEITAMENTO HORA HOMEM.xlsb; 2023-01-12 10:08:07.298477
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rogerio:
+VL10D ATÉ 18.08.XLS (002).xlsb; 2023-08-02 16:44:08.022028
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\S&OP\Reestruturação S&OP\Dados 1º ciclo:
+TEMPLATE_WEG_REPORTS (57).xlsb; 2024-04-19 13:46:32.254556
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Suely\Indicadores Diretoria Industrial\PASTA PADRÃO\04 - Situação Comprados\Unificado Compras:
+compras.xlsb; 2021-09-30 07:39:35.677662
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\AREA DE TRABALHO (02.08)\Maio 2013:
+Cópia de Ordens de Vendas (18 03 ).xlsb; 2013-03-25 09:19:22.937254
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Valmir\Arquivos 2020\PASTAS ANTIGAS\Area de trabalho Abril:
+05 - Acompanhamento Semanal - MD06.xlsb; 2015-03-17 15:58:27.161146
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2020\2020\WMS Office:
+Diário de Bordo - exemplo.xlsb; 2020-08-25 13:25:37.227618
+Saneamento Banco de dados.xlsb; 2020-08-25 12:50:20.805730
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2021\Office e Fábrica - 2021\WMS Office 2021:
+Cost Deployment 21 - PCP.xlsb; 2021-04-14 09:58:06.267690
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2022\SBC\Dados cost deployment:
+OFFICE - Cost Deployment_PCP SBC.XLSB; 2022-01-20 12:48:23.777867
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2023\Mapeamento:
+Cost Deployment Office_PCP.xlsb; 2023-12-20 12:57:42.811942
