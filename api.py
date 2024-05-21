@@ -1,9 +1,8 @@
 import google.generativeai as genai
+import os
 
-genai.configure(api_key="AIzaSyBUQf8VqIlaSaOxRphJQYTWK8UprC2LboY")
+genai.configure(api_key=os.environ['GEMINI_API_KEY'])
 
-# Create the model
-# See https://ai.google.dev/api/python/google/generativeai/GenerativeModel
 generation_config = {
   "temperature": 0,
   "top_p": 0.95,
@@ -11,6 +10,7 @@ generation_config = {
   "max_output_tokens": 8192,
   "response_mime_type": "text/plain",
 }
+
 safety_settings = [
   {
     "category": "HARM_CATEGORY_HARASSMENT",
@@ -36,19 +36,29 @@ model = genai.GenerativeModel(
   generation_config=generation_config,
 )
 
-chat_session = model.start_chat(history=[])
+chat_session = model.start_chat(history=[
+    {
+      "role": "user",
+      "parts": [
+        "Quais as pastas principais do PCP?",
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        """Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central
+          Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização
+          Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados
+          Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada
+          Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert
+        """]
+    },
+])
 
 arquivos = open('database/all.txt', 'r', encoding="utf-8").read()
 descricao = 'Lista de materiais pendentes da EM'
 
 message = f"""{arquivos}
-\n\nLista de pastas principais do PCP: 
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert
-
 Ordene os tópicos de acordo com o número de seu Score, de maior para menor;
 Faça essa análise se baseando na descrição a seguir: {descricao};
 Analisando todos os arquivos acima quero que crie um ranking dos 10 arquivos que mais tem relação com a descrição desejada;
