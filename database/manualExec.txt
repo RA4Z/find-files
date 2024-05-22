@@ -1,0 +1,1140 @@
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão:
+03-encerramento_ordens.xlsm; 2024-04-24 14:59:22.146874
+Data_Default.xlsm; 2024-03-28 14:00:10.472492
+Teste.xlsm; 2024-04-09 10:39:27.465241
+v1.6_Default.xlsm; 2024-03-05 09:23:46.425345
+VERIFICAR BIQ UTI.xlsm; 2024-05-16 08:18:43.672912
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.07.26:
+Default.xlsm; 2023-07-26 11:05:27.323843
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.07.28 - v1.0:
+v1.0_Default.xlsm; 2023-08-02 16:47:31.506855
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.07.31 - v1.1:
+v1.1_Default.xlsm; 2023-07-31 14:20:10.447387
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.08.01 - v1.1:
+v1.1_Default.xlsm; 2023-08-01 14:18:57.660253
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.08.03 - v1.2:
+v1.2_Default.xlsm; 2023-08-03 13:17:58.511359
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.08.04 - v1.2:
+v1.2_Default.xlsm; 2023-08-04 16:15:00.115299
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.08.29 - v1.2:
+v1.2_Default.xlsm; 2023-08-28 15:11:53.802169
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.09.06 - v1.2:
+v1.2_Default.xlsm; 2023-09-06 07:23:11.517415
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.09.06 - v1.3:
+v1.3_Default.xlsm; 2023-09-06 10:57:40.190736
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.09.27 - v1.3:
+v1.3_Default.xlsm; 2023-09-20 16:47:11.209587
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.09.28 - v1.4:
+v1.4_Default.xlsm; 2023-09-28 08:48:21.487104
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.10.09 - v1.4:
+v1.4_Default.xlsm; 2023-10-06 15:02:49.586712
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.10.17 - v1.5:
+v1.5_Default.xlsm; 2023-10-17 14:08:56.429496
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backups_Default\2023.10.26 - v1.5:
+v1.5_Default.xlsm; 2023-10-26 12:44:09.236507
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec:
+Macro_Ordem_BIQ.xlsm; 2023-10-10 15:15:12.407649
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\andersonpl:
+Alterar.xlsm; 2023-05-08 21:47:34.444658
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\caiofontoura:
+Alterar componentes.xlsm; 2023-07-24 10:55:57.085818
+Deposito.xlsm; 2023-07-18 15:52:16.480294
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\Cristianew:
+Adicionar_v2.xlsm; 2023-10-11 10:29:29.977801
+Alterar.xlsm; 2023-06-06 15:17:40.076306
+Alterar_CT.xlsm; 2023-10-09 13:53:08.078247
+Deposito.xlsm; 2023-10-09 10:07:28.071232
+Desflegar (1).xlsm; 2023-10-30 15:09:43.887496
+Desflegar.xlsm; 2023-10-31 12:08:02.592391
+Eliminar.xlsm; 2023-10-26 09:13:43.103371
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\fglasenapp:
+Eliminar.xlsm; 2023-11-28 09:45:24.229438
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\giseli:
+Alterar componentes.xlsm; 2023-06-16 13:13:55.892132
+Alterar.xlsm; 2023-04-26 13:25:19.042084
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\guadalupea:
+CN33 com ECM.xlsm; 2023-07-17 15:08:20.306295
+Remover BE_Padrão.xlsm; 2023-07-10 15:58:26.732148
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\ivanrl:
+CN33 com ECM.xlsm; 2024-03-18 16:27:25.879487
+Cobrança WF - 1220.xlsm; 2023-11-11 10:55:01.371675
+Desflegar_DiagramaRede.xlsm; 2023-05-03 07:58:44.896363
+Executa Re-estagiamento de material específico-CN33.xlsm; 2024-02-26 16:43:00.218225
+Executar CN33 com ECM.xlsm; 2024-04-08 10:53:09.730344
+Modificar_Template.xlsm; 2024-05-16 16:46:22.120950
+Refazer CN33.xlsm; 2023-10-10 09:12:07.443890
+Remover BE_v1.xlsm; 2024-01-30 07:13:31.528436
+Revisão_ZR.xlsm; 2023-12-01 12:49:24.507780
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\josefj:
+Default.xlsm; 2023-05-09 08:25:54.194112
+Estornar_o_estorno.xlsm; 2023-05-11 12:48:03.153789
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\karolinel:
+Default.xlsm; 2023-05-08 21:08:09.123406
+Eliminar.xlsm; 2023-04-28 14:06:48.056440
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\raquelmr:
+Desflegar_OrdemProducao.xlsm; 2024-05-14 11:25:27.066947
+Informações.xlsm; 2024-04-22 14:11:23.168926
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\robertn:
+Alterar.xlsm; 2023-05-08 09:56:02.128936
+Alterar_CT.xlsm; 2023-10-10 15:43:54.675907
+Default.xlsm; 2023-07-24 14:23:41.112247
+Deposito.xlsm; 2023-04-03 15:42:45.130607
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Backup_Exec\valmirj:
+Desflegar (1).xlsm; 2023-10-30 15:54:26.009727
+Hierarquia.xlsm; 2023-04-11 13:06:28.887870
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Documentação:
+v1.0_Funcionalidades_Macros.pdf; 2023-07-28 12:45:04.999982
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Exports\robertn:
+Ordens_Central_Default.xls; 2023-05-12 10:24:20.262375
+Ordens_Central_Default_2023.05.12_10.34.xls; 2023-05-12 10:35:25.307655
+W_BloqDesbloq_Central_Programação_2023.05.16_15.18.xls; 2023-05-16 15:18:46.652960
+W_BloqDesbloq_Central_Programação_2023.05.16_15.19.xls; 2023-05-16 15:19:07.312922
+W_BloqDesbloq_Central_Programação_2023.05.16_16.41.xls; 2023-05-16 16:41:51.124727
+W_Ordens_Central_Default_2023.05.16_10.33.xls; 2023-05-16 10:33:58.678686
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\01-Alterar_Centro_de_Trabalho:
+Alterar_CT.xlsm; 2023-09-08 10:24:11.247939
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\02-Desflegar_BE:
+Desflegar_DiagramaRede.xlsm; 2023-04-24 15:26:04.666672
+Desflegar_OrdemProducao.xlsm; 2023-09-08 10:22:54.183986
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\03-Eliminar_Materiais:
+Eliminar.xlsm; 2023-11-22 07:49:52.633879
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\04-Inserir_Deposito:
+Deposito.xlsm; 2023-04-05 16:25:40.016376
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\05-Criar_Hierarquia:
+Hierarquia.xlsm; 2023-04-11 13:14:51.278214
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\06-Apagar_Remessa:
+Apagar.xlsm; 2023-04-19 16:18:53.124420
+Transporte.xlsm; 2023-04-20 09:35:11.888424
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\07-Apontamentos:
+Apontamentos.xlsm; 2024-02-27 23:38:02.558276
+Apontamentos_CO11N_Mensagem.xlsm; 2024-02-29 15:36:50.656004
+Apontamento_Automatico.xlsm; 2024-05-07 09:01:51.565021
+Apontamento_Ordens.xlsm; 2024-03-07 10:48:27.327042
+Apontar_CO11N.xlsm; 2024-02-29 14:09:50.794276
+Central_Apontamentos.xlsm; 2023-05-25 09:26:34.608654
+PASSO A PASSO PARA APONTAMENTOS.pdf; 2023-06-27 10:40:45.437478
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\08-Alterar_Materiais:
+Alterar componentes.xlsm; 2023-06-13 15:19:12.025998
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\09-Criar_Serie:
+Criar.xlsm; 2023-04-25 16:39:39.278071
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\10-Alterar_Operacao:
+Alterar.xlsm; 2023-05-05 09:39:29.596503
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\11-Converter_Granel:
+Alterar.xlsm; 2023-05-08 16:57:11.192942
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\12-Transferencias_Estoque:
+GERAR HU - SBC.xlsm; 2023-07-11 16:20:36.178435
+GERAR HU.xlsm; 2023-06-02 13:47:41.261127
+KITS.xlsm; 2023-07-26 15:36:15.501804
+Transferencia_sem_MB1B.xlsm; 2023-05-25 14:47:29.100986
+Transferir.xlsm; 2023-05-23 10:51:43.894824
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\13-Estornar_Materiais_Apontados:
+estorno.xlsm; 2024-03-28 13:32:57.292389
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\14-Estornar_Estorno:
+Default.xlsm; 2023-05-09 07:59:06.968736
+Estornar_o_estorno.xlsm; 2023-05-11 12:35:43.479780
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\15-Pendencias_Alternadores:
+Pendencias.xlsm; 2023-05-17 11:20:53.812315
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\16-Alterar_Horas:
+Alterar.xlsm; 2023-05-11 12:57:16.316350
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\17-Desbloquear_Bloquear_Ordens:
+Bloq_Desb_Ord.xlsm; 2023-05-17 15:02:59.451855
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\18-AlterarDataOrdem:
+AlterarData.xlsm; 2023-05-26 16:06:21.494816
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores:
+Planilha_Fornecedores.xlsm; 2023-07-14 13:05:00.825660
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Backups\2023.07.14:
+Planilha_Fornecedores.xlsm; 2023-07-11 10:04:41.930808
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Macro_SBC:
+Base de dados compras.xlsx; 2023-05-31 14:15:01.879659
+FOLLOW UP EMAIL FORNECEDORES 2.xlsm; 2023-05-31 14:15:01.877440
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Macro_SBC\Backup\2023.06.02:
+Planilha_Fornecedores.xlsm; 2023-06-02 16:30:25.411834
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Macro_SBC\Backup\2023.06.13:
+Planilha_Fornecedores.xlsm; 2023-06-13 13:18:01.373686
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Macro_SBC\Backup\2023.06.16:
+Planilha_Fornecedores.xlsm; 2023-06-14 10:45:27.458615
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Respostas\2023.06.13:
+10-13-26_CobrançaFornecedor-12634.xlsx; 2023-06-13 10:13:25.873105
+12-56-24_CobrançaFornecedor-14255.xlsx; 2023-06-13 12:56:23.254834
+12-57-45_CobrançaFornecedor-14255.xlsx; 2023-06-13 12:57:44.084156
+13-00-49_CobrançaFornecedor-14255.xlsx; 2023-06-13 13:00:48.567528
+13-06-27_CobrançaFornecedor-14255.xlsx; 2023-06-13 13:06:25.925927
+13-08-33_CobrançaFornecedor-12039.xlsx; 2023-06-13 13:08:32.390373
+15-34-52_CobrançaFornecedor-12039.xlsx; 2023-06-13 15:34:51.215638
+15-36-09_CobrançaFornecedor-12039.xlsx; 2023-06-13 15:36:08.697260
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\19-CobrarFornecedores\Respostas\2023.07.12:
+09-27-02_CobrançaFornecedor-13210.xlsx; 2023-07-12 09:27:01.742707
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\20-Adicionar_Materiais:
+Adicionar.xlsm; 2023-09-12 08:30:32.348027
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\21-Buscar_ECM:
+Buscar_Numero_ECM.xlsm; 2023-07-11 10:10:02.413836
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\22-Buscar_Texto_MAP:
+Buscar.xlsm; 2023-07-19 15:04:20.302286
+MM03.xlsm; 2023-07-19 10:59:24.759473
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\23-Liberacao_Comprados:
+Lib_para_Montagem.xlsm; 2023-07-28 08:36:27.090661
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\24-Status_Documento:
+Status_Documento.xlsm; 2023-07-19 14:57:50.411015
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\25-Materiais_Alterados_BOM:
+Buscar_Materiais.xlsm; 2024-02-13 21:56:03.082923
+Macro buscar materiais alterados na BOM.docx; 2023-07-20 15:26:14.101886
+~$Default.xlsm; 2023-07-20 15:26:01.142265
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\26-Criar_Kits:
+ASTEC KIT_rev1.xlsm; 2023-07-28 10:28:58.039265
+Criar_Kit.xlsm; 2023-10-16 15:49:58.129755
+Macro.docx; 2023-07-28 13:39:52.759299
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\26-Criar_Kits\Backup\2023.09.04:
+Criar_Kit.xlsm; 2023-08-04 11:24:57.000292
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\27-Visao_Embalagens:
+Macro_Embalagens.xlsm; 2023-10-03 10:17:26.552605
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\28-Alterar_Opr:
+Alterar_Opr_Item.xlsm; 2023-08-10 12:31:54.161245
+Alterar_Opr_Opr.xlsm; 2024-04-26 12:30:33.785546
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\29-Create_Rework_Order:
+Rework_Order.xlsm; 2023-09-27 10:48:10.008803
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\30-Assistencia_Tecnica:
+Indicador_Astec.xlsm; 2023-09-22 14:10:06.675794
+Indicador_Astec_r07a.xlsm; 2024-02-06 16:06:18.852371
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\30-Assistencia_Tecnica\Arquivo Astec:
+Indicador_Astec.xlsm; 2023-10-13 12:57:53.426613
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\31-Sales_Order_Follow_Up:
+FollowUp_SalesOrder.xlsm; 2023-09-12 15:25:55.504428
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\32-Department_Delay:
+Department_Information.xlsm; 2024-02-09 09:29:42.755704
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\32-Department_Delay\Backup:
+Department_Information.xlsm; 2023-12-01 10:06:35.863139
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\33-Alterar_Data_Inicio_PS:
+Prensar_Carcaca.xlsm; 2024-02-06 15:56:44.302475
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\34-Mapa_Producao:
+Mapa_EM.xlsm; 2024-05-20 14:41:29.403414
+Mapa_JGS.xlsm; 2024-04-10 13:39:23.066663
+Mapa_WII.xlsm; 2024-04-01 07:40:10.341643
+Mapa_WSB.xlsm; 2024-04-01 07:53:49.172480
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\35-Macro-Rogerio:
+Info_Materiais_Ordem.xlsm; 2024-02-29 13:27:46.379199
+Info_Materiais_Ordem_1220.xlsm; 2024-02-29 15:50:37.779785
+Info_Materiais_Ordem_Livre.xlsm; 2024-02-29 15:52:11.825370
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\36-Requisicao_Pagamento:
+requisicao_de_pagamento.xlsm; 2024-05-03 12:57:36.776949
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\37-Planilha_Stocks:
+Stocks.xlsm; 2023-10-09 10:56:09.750199
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\37-Planilha_Stocks\Backup:
+Stocks.xlsm; 2023-09-27 13:15:51.747729
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\38-Collect_Supplies:
+Supplies_Collection.xlsm; 2023-09-27 11:19:55.720692
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\39-Liberacao_Ordens\Caldeiraria:
+Liberar_Caldeiraria.xlsm; 2023-11-10 12:49:06.703063
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\39-Liberacao_Ordens\Turbinas:
+Liberar_Turbinas.xlsm; 2023-10-30 11:07:24.159109
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\39-Liberacao_Ordens\Usinagem:
+Liberar_Usinagem.xlsm; 2023-10-23 15:25:25.918319
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\40-Liberacao_Diagrama:
+Tubosv2.xlsm; 2024-02-09 09:41:30.924529
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\41-Ordem_BIQ:
+Macro_Ordem_BIQ.xlsm; 2024-05-03 11:18:46.353963
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\41-Ordem_BIQ\Backup:
+Macro_Ordem_BIQ.xlsm; 2023-12-15 12:39:07.882638
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\42-Ponta_Fios:
+Gerador_Fios.xlsm; 2023-11-20 09:35:35.102762
+Macro Fios.docx; 2023-10-06 14:07:34.632809
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\43-Criar_Tarefa_PS:
+Criar_Tarefa.xlsm; 2023-10-13 13:02:56.846014
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\44-CO02_PP:
+Ler_Dados_PP.xlsm; 2023-10-18 14:34:57.520938
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\45-Alterar_Quantidade_co02:
+Alterar_Quantidade_Material.xlsm; 2023-10-19 15:08:42.623528
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\46-India_SBWP:
+Material_Consistencies.xlsm; 2024-02-20 13:16:33.770886
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\46-India_SBWP\Backup:
+Material_Consistencies.xlsm; 2023-10-26 13:59:19.238820
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\47-VL10D-Fabi:
+Passo a passo execução VL10D.docx; 2023-11-13 15:50:08.682161
+VL10D.xlsm; 2024-05-20 08:01:50.614485
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\48-India_ME11:
+ME11.docx; 2023-11-20 11:08:18.560324
+ME11.xlsm; 2023-11-20 14:58:22.087375
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\49-Apontamento_Pendente:
+Apontamento_Acabamento.xlsm; 2023-12-07 08:21:51.018586
+Apontamento_Montagem.xlsm; 2023-11-23 16:00:53.094871
+Documento2.docx; 2023-11-23 15:33:50.003501
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\51-FollowUp_SBC:
+FollowUp.xlsm; 2023-12-01 15:48:58.965080
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\52-India_CS01:
+BOM Extension 1.docx; 2023-12-05 10:23:21.064981
+BOM_Extension.xlsm; 2024-02-23 14:33:35.712382
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\53-Macro_Paulo:
+Acasalamento Atualizada.xlsm; 2023-12-07 14:32:42.306345
+Indicadores.xlsm; 2023-12-07 15:00:25.573662
+Roteiro.docx; 2023-12-07 12:32:02.583313
+Status_SAP-SBC_Vendas.xlsm; 2023-12-07 16:13:17.352511
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\54-Fios_Itajai:
+Relatorio_Fios.xlsm; 2024-05-06 17:23:52.064986
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\54-Fios_Itajai\Backup:
+Relatorio_Fios_Itajai_21Backup.xlsm; 2024-01-19 15:34:19.454259
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\55-Ampliar_Materiais:
+Ampliar materiais centro fornecedor.xlsm; 2024-01-26 14:34:26.048395
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\55-Ampliar_Materiais\Backup:
+Ampliar materiais centro fornecedor.xlsm; 2024-01-24 11:18:32.997846
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\56-Impressão_GTA:
+Imprimir_Documento.xlsm; 2024-01-26 10:46:21.145262
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\57-Reaproveitamento_Estoque:
+Reaproveitamento_GemeosV2.xlsm; 2024-03-07 14:10:09.795379
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\58-Verificar_Codigo:
+Procurar_Codigo_Diversos.xlsm; 2024-02-02 14:39:37.653533
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\59-Alterar_MRP_MD04:
+Alterar_Planejador_MRP.xlsm; 2024-02-02 09:04:15.329261
+Alterar_Quantidade.xlsm; 2024-04-19 14:23:32.185428
+Verificar_Ordem.xlsm; 2024-02-02 14:29:47.985233
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\60-Pendencias_Usinagem_Pesada:
+Pendencias_Usinagem_Pesada.xlsm; 2024-02-08 11:17:56.509938
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\60-Pendencias_Usinagem_Pesada\Pendências:
+Planejador_200.xlsx; 2024-02-08 10:39:19.255047
+Planejador_202.xlsx; 2024-02-08 10:39:19.801050
+Planejador_203.xlsx; 2024-02-08 10:39:21.349060
+Planejador_205.xlsx; 2024-02-08 10:39:18.661042
+Planejador_217.xlsx; 2024-02-07 14:06:31.070626
+Planejador_218.xlsx; 2024-02-08 10:39:20.846088
+Planejador_222.xlsx; 2024-02-08 10:39:22.335911
+Planejador_223.xlsx; 2024-02-08 10:39:20.340055
+Planejador_227.xlsx; 2024-02-08 10:39:21.867138
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\61-Multa_Fornecedor:
+Belmec.xlsm; 2024-02-08 15:18:04.820302
+Febral.xlsm; 2024-02-08 15:18:37.091468
+Hame.xlsm; 2024-02-08 15:21:51.089743
+Prensa.xlsm; 2024-02-08 15:19:04.779960
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\62-Imprimir_Ordens:
+Impressão de operação para células.docx; 2024-02-14 16:50:36.609597
+Relatorio_Imprimir_Ordens.xlsm; 2024-03-28 14:34:34.262823
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\62-Imprimir_Ordens\Antigo:
+Impressao_de_Ordens.xlsm; 2024-03-28 13:55:40.575263
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\63-Lista_Materiais_Alternadores:
+Lista_Alternadores.xlsm; 2024-04-23 16:08:15.372057
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\64-Comparar_Data_Ordem:
+Comparar_Ordem_PS.xlsm; 2024-03-11 15:37:21.185555
+Documento1.docx; 2024-03-06 09:27:14.255141
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\66-Pendencias_Aprovacao:
+Relatorio_Pendencias.xlsm; 2024-05-21 09:25:56.404848
+Requisições pendentes de aprovação.docx; 2024-03-19 09:07:50.062367
+~$Relatorio_Pendencias.xlsm; 2024-05-21 09:26:09.298520
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\67-Ordens_CNC_Caldeiraria:
+CNC Caldeiraria.docx; 2024-03-19 15:00:08.836265
+~$C Caldeiraria.docx; 2024-03-21 14:29:12.400249
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\68-WII_MD4C:
+NETWORK.docx; 2024-02-29 02:06:40.071876
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\69-Apontamentos_SFM:
+Base_de_Dados.xlsm; 2024-04-05 08:01:31.843699
+SFM.xlsm; 2024-04-05 08:01:31.656167
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\70-Reaproveitamento_Materiais:
+Reaproveitamento.xlsm; 2024-04-25 15:56:30.686460
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\73-Retorno_NF:
+ACOMPANHAMENTO DE RETORNO DAS NF.xlsx; 2024-04-18 14:53:03.254640
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\73-Retorno_NF\Backup:
+ACOMPANHAMENTO DE RETORNO DAS NF.xlsx; 2024-04-18 12:11:50.670978
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\75-Encerramento_Ordens:
+Mensagens de Erro.xlsx; 2024-05-21 10:43:32.105796
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\76-Materiais_ECM:
+Dados Coletados.xlsx; 2024-05-21 06:48:03.017314
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\77-Doc_2P:
+Info_2P.xlsm; 2024-05-06 09:20:47.571637
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\78-Analise_AW10:
+Analise_AW10.xlsm; 2024-05-21 14:46:45.111063
+LP AW10.xlsx; 2024-05-21 13:59:16.175975
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\_Central\00-Planilha_Padrão:
+Central_Default.xlsm; 2023-05-19 14:11:39.693634
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\_Central\01-Programação:
+Central_Programação.xlsm; 2023-08-03 14:56:06.076167
+Detalhamento_macros_de_origem.xlsx; 2023-05-30 13:12:03.863068
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\01-relatorio_ordens_plan:
+main.exe; 2024-03-13 15:24:29.123545
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\01-relatorio_ordens_plan\config:
+firebase.py; 2024-03-13 10:13:30.356049
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\01-relatorio_ordens_plan\interface:
+frm_history.py; 2024-03-13 07:39:08.809540
+frm_main.py; 2024-03-13 07:30:39.406347
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\02-indicador_expedicao:
+executable.py; 2024-04-23 16:45:29.184653
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\02-indicador_expedicao\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-04-24 15:48:34.345879
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-24 15:50:50.681688
+statements.py; 2024-04-23 16:28:32.807298
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\02-indicador_expedicao\utils:
+work_functions.py; 2024-04-23 16:02:50.132795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\02-indicador_expedicao\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\03-encerramento_ordens:
+executable.py; 2024-04-26 09:06:31.300927
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\03-encerramento_ordens\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-04-24 14:38:15.901271
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-24 15:28:24.435985
+statements.py; 2024-04-24 13:52:11.260217
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\03-encerramento_ordens\utils:
+work_functions.py; 2024-04-25 10:52:48.072649
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\03-encerramento_ordens\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\04-materiais_ECM:
+executable.py; 2024-05-21 06:47:30.754894
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\04-materiais_ECM\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-04-24 14:38:15.901271
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-24 15:28:24.435985
+statements.py; 2024-04-24 13:52:11.260217
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\04-materiais_ECM\utils:
+work_functions.py; 2024-04-26 08:17:37.585998
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\04-materiais_ECM\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico:
+executable.py; 2024-05-10 08:01:39.116829
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-04-24 14:38:15.901271
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-24 15:28:24.435985
+statements.py; 2024-04-24 13:52:11.260217
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico\utils:
+work_functions.py; 2024-05-08 10:55:40.164027
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\06-find_fles:
+api.py; 2024-05-21 15:35:49.784773
+functions.py; 2024-05-20 14:43:51.506862
+history.py; 2024-05-21 15:40:56.701399
+update.py; 2024-05-20 15:05:45.865370
+_manual.py; 2024-05-21 16:09:36.216500
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\automation-server:
+app.py; 2024-04-30 14:57:24.425633
+schedules.py; 2024-05-08 12:38:37.469339
+teste.py; 2024-04-30 14:57:24.472515
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\automation-server\routes:
+error_log.py; 2024-04-30 14:57:24.441260
+execution_history.py; 2024-04-30 14:57:24.441260
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\automation-server\services:
+functions.py; 2024-04-30 15:00:24.320278
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\__Solicitar:
+03-encerramento_ordens.xlsm; 2024-05-21 16:09:31.159602
+04-materiais_ECM.xlsm; 2024-05-21 07:17:38.725316
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta:
+main.exe; 2024-04-09 15:26:53.755543
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta\config:
+firebase.py; 2024-03-13 07:41:41.531265
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta\interface:
+frm_history.py; 2024-03-13 07:43:14.244591
+frm_main.py; 2024-03-13 07:45:09.856514
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup:
+main.exe; 2024-03-13 09:09:04.248085
+outlook.py; 2024-03-11 14:26:23.610996
+sap_functions.py; 2024-03-12 08:08:32.102204
+statements.py; 2024-03-13 11:04:02.722554
+work_functions.py; 2024-03-12 14:28:29.505816
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup\config:
+firebase.py; 2024-03-13 09:56:07.319628
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup\interface:
+frm_history.py; 2024-03-13 07:43:14.244591
+frm_main.py; 2024-03-13 07:45:09.856514
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta-backup\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao:
+executable.exe; 2024-03-22 10:03:11.114232
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\config:
+firebase.py; 2024-03-21 09:21:48.612935
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\interface:
+frm_history.py; 2024-03-15 14:21:04.429670
+frm_main.py; 2024-03-21 10:41:28.058361
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\services:
+excel.py; 2024-03-15 14:21:04.444669
+language_dict.py; 2024-03-15 14:21:04.446639
+outlook.py; 2024-03-15 14:21:04.447672
+sap_functions.py; 2024-03-21 10:03:27.134293
+statements.py; 2024-03-21 09:37:51.999234
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\utils:
+main.py; 2024-03-22 09:35:48.034303
+work_functions.py; 2024-03-22 09:58:35.535548
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\02-pendencias_aprovacao\web:
+browser_selenium.py; 2024-03-15 14:21:04.460671
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria:
+CNC_Caldeiraria.xlsm; 2024-03-27 11:42:58.843052
+executable.exe; 2024-03-25 12:42:45.980973
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\config:
+firebase.py; 2024-03-21 09:21:48.612935
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\interface:
+frm_history.py; 2024-03-15 14:21:04.429670
+frm_main.py; 2024-03-21 10:42:43.836859
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\services:
+excel.py; 2024-03-21 13:07:32.213621
+language_dict.py; 2024-03-15 14:21:04.446639
+outlook.py; 2024-03-15 14:21:04.447672
+sap_functions.py; 2024-03-20 16:06:35.896513
+statements.py; 2024-03-25 10:53:10.525409
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\utils:
+main.py; 2024-03-25 10:59:27.185115
+work_functions.py; 2024-03-25 11:22:30.198415
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\03-cnc_caldeiraria\web:
+browser_selenium.py; 2024-03-15 14:21:04.460671
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii:
+RIPA_Report.exe; 2024-03-26 08:22:37.260034
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\config:
+firebase.py; 2024-03-21 09:21:48.612935
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\data:
+450795830.xls; 2024-03-26 08:54:01.720816
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\interface:
+frm_history.py; 2024-03-15 14:21:04.429670
+frm_main.py; 2024-03-21 10:42:43.836859
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\services:
+excel.py; 2024-03-15 14:21:04.444669
+language_dict.py; 2024-03-15 14:21:04.446639
+outlook.py; 2024-03-15 14:21:04.447672
+sap_functions.py; 2024-03-25 14:20:54.358377
+statements.py; 2024-03-26 08:09:43.156969
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\utils:
+main.py; 2024-03-26 08:16:52.377279
+work_functions.py; 2024-03-25 14:35:18.559136
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\04-md4c_report_wii\web:
+browser_selenium.py; 2024-03-15 14:21:04.460671
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens:
+Imprimir_Ordens.exe; 2024-03-28 14:53:03.141750
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\services:
+excel.py; 2024-03-28 14:09:46.534404
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-03-28 14:47:44.208524
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\utils:
+main.py; 2024-03-28 14:48:34.328412
+work_functions.py; 2024-03-28 14:30:10.337741
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\06-imprimir_ordens\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais:
+2024.04.24.exe; 2024-04-16 15:51:54.169577
+Reaproveitamento.exe; 2024-04-24 13:45:29.831344
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-04-16 15:43:14.712595
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\services:
+excel.py; 2024-03-28 14:10:16.818951
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-04-16 14:01:23.814322
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\utils:
+main.py; 2024-04-16 15:48:44.522703
+work_functions.py; 2024-04-16 15:46:31.383044
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\07-reaproveitamento_materiais\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release:
+Orders.xlsm; 2024-04-11 11:15:28.165556
+Production Order Release.exe; 2024-04-12 08:40:37.879842
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-04-12 08:27:17.299508
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\utils:
+main.py; 2024-04-12 08:25:24.224689
+work_functions.py; 2024-04-11 10:38:11.014204
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\08-production_order_release\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes:
+Componentes Pendentes.exe; 2024-04-24 09:13:34.807768
+Componentes.xlsx; 2024-04-23 11:00:04.370656
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\services:
+excel.py; 2024-04-11 14:56:48.363253
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-11 14:31:14.530467
+statements.py; 2024-04-18 07:31:04.827818
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\utils:
+main.py; 2024-04-18 07:16:41.853626
+work_functions.py; 2024-04-18 07:16:34.440195
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\09-componentes_pendentes\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais:
+Imprimir Materiais.exe; 2024-04-19 15:09:40.585128
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-04-15 14:33:57.548669
+statements.py; 2024-04-19 13:43:42.494828
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\utils:
+main.py; 2024-04-15 16:01:23.506040
+work_functions.py; 2024-04-15 15:03:22.677248
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\10-imprimir_materiais\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf:
+executable.exe; 2024-04-19 09:50:05.734492
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\services:
+excel.py; 2024-04-19 09:22:55.882216
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-04-19 09:43:19.439066
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\utils:
+main.py; 2024-04-18 16:30:57.309731
+work_functions.py; 2024-04-19 09:23:11.442110
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\11-cobrar_nf\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens:
+Encerramento de Ordens.exe; 2024-04-24 11:12:36.036760
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-04-23 14:01:51.521203
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\utils:
+main.py; 2024-04-23 14:25:57.616456
+work_functions.py; 2024-04-24 08:34:52.771286
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\13-encerramento_ordens\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation:
+executable.exe; 2024-05-09 14:48:43.085581
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\config:
+firebase.py; 2024-03-26 10:44:42.589092
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\interface:
+frm_history.py; 2024-03-26 10:40:18.940861
+frm_main.py; 2024-03-26 10:40:18.942892
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\IPython\extensions:
+autoreload.py; 2022-04-01 09:48:04
+storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\IPython\extensions\tests:
+test_autoreload.py; 2022-04-01 09:48:04
+test_storemagic.py; 2022-04-01 09:48:04
+__init__.py; 2022-04-01 09:48:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\matplotlib\mpl-data\images:
+back.pdf; 2022-03-16 06:45:04
+filesave.pdf; 2022-03-16 06:45:04
+forward.pdf; 2022-03-16 06:45:04
+hand.pdf; 2022-03-16 06:45:04
+help.pdf; 2022-03-16 06:45:04
+home.pdf; 2022-03-16 06:45:04
+matplotlib.pdf; 2022-03-16 06:45:04
+move.pdf; 2022-03-16 06:45:04
+qt4_editor_options.pdf; 2022-03-16 06:45:04
+subplots.pdf; 2022-03-16 06:45:04
+zoom_to_rect.pdf; 2022-03-16 06:45:04
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\selenium\webdriver\common\windows:
+selenium-manager.exe; 2023-07-17 10:38:23.776795
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\services:
+excel.py; 2024-04-09 12:42:45.191979
+language_dict.py; 2024-03-26 10:40:18.956862
+outlook.py; 2024-03-26 10:40:18.957861
+sap_functions.py; 2024-03-27 16:45:00.980124
+statements.py; 2024-05-09 14:44:01.964721
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\utils:
+main.py; 2024-05-09 14:16:47.778631
+work_functions.py; 2024-05-09 14:12:39.140872
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\14-vsm_preparation\web:
+browser_selenium.py; 2024-03-26 10:40:18.969862
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Icones:
+01-cobrar_wmo_gta.ico; 2024-03-13 09:21:57.712435
+02-pendencias_aprovacao.ico; 2024-03-21 10:54:11.490292
+03-cnc_caldeiraria.ico; 2024-03-25 12:48:25.153413
+04-md4c_report_wii.ico; 2024-03-25 15:09:15.883869
+06-imprimir_ordens.ico; 2024-03-28 14:56:38.236785
+07-reaproveitamento_materiais.ico; 2024-04-09 08:42:45.882206
+08-production_order_release.ico; 2024-04-12 08:36:38.501010
+09-componentes_pendentes.ico; 2024-04-11 16:36:04.144408
+10-imprimir_materiais.ico; 2024-04-19 13:58:00.075259
+11-cobrar_nf.ico; 2024-04-18 16:39:10.415081
+13-encerramento_ordens.ico; 2024-04-24 08:49:19.195410
+apontamentos_pcp.ico; 2024-05-07 08:19:01.809683

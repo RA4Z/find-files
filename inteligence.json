@@ -1,0 +1,22 @@
+[
+    {
+        "Question": "Macro Default, planilha utilizada como modelo padr\u00e3o para o desenvolvimento de macros",
+        "Answer": "1. Q:\\GROUPS\\BR_SC_JGS_WM_LOGISTICA\\PCP\\Central\\00-Planilha_Padr\u00e3o\\v1.6_Default.xlsm"
+    },
+    {
+        "Question": "Lista de materiais pendentes de jaragu\u00e1 do sul",
+        "Answer": "5. Q:\\GROUPS\\BR_SC_JGS_WM_LOGISTICA\\PCP\\Processos com Automa\u00e7\u00e3o\\04 - Situa\u00e7\u00e3o Comprados\\Lista_de_Materiais_Pendentes.xlsm"
+    },
+    {
+        "Question": "Lista de materiais pendentes de Jaragu\u00e1 do sul",
+        "Answer": "3. Q:\\GROUPS\\BR_SC_JGS_WM_LOGISTICA\\PCP\\Processos com Automa\u00e7\u00e3o\\04 - Situa\u00e7\u00e3o Comprados\\Lista_de_Materiais_Pendentes.xlsm"
+    },
+    {
+        "Question": "lista de materiais pendentes da EM",
+        "Answer": "1. Q:\\GROUPS\\BR_SC_JGS_WM_LOGISTICA\\PCP\\Processos com Automa\u00e7\u00e3o\\A022 - Lista de materiais pendentes EM\\Pending_materials.xlsm"
+    },
+    {
+        "Question": "lista de materiais de jgs",
+        "Answer": "4. Q:\\GROUPS\\BR_SC_JGS_WM_LOGISTICA\\PCP\\Processos com Automa\u00e7\u00e3o\\04 - Situa\u00e7\u00e3o Comprados\\Lista_de_Materiais_Pendentes.xlsm"
+    }
+]

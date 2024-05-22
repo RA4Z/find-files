@@ -1,4 +1,5 @@
 import os
+import json
 from tqdm import tqdm
 import datetime
 
@@ -54,3 +55,9 @@ def salvar_dados(desired_files:list, file_type:str, all=False):
               arquivo.write(f"\n{file}:\n")
               for data in desired_files[file]:
                 arquivo.write(f"{data}\n")
+
+
+def add_item(question:str, answer:str):
+  inteligence = json.load(open('inteligence.json', 'r', encoding='utf-8'))
+  inteligence.append({"Question": question, "Answer": answer})
+  json.dump(inteligence,open('inteligence.json', 'w', encoding='utf-8'))
