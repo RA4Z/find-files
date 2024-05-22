@@ -58,6 +58,12 @@ def salvar_dados(desired_files:list, file_type:str, all=False):
 
 
 def add_item(question:str, answer:str):
-  inteligence = json.load(open('inteligence.json', 'r', encoding='utf-8'))
-  inteligence.append({"Question": question, "Answer": answer})
-  json.dump(inteligence,open('inteligence.json', 'w', encoding='utf-8'))
+  try:
+    inteligence = json.load(open('inteligence.json', 'r', encoding='utf-8'))
+    inteligence.append({"Question": question, "Answer": answer})
+    json.dump(inteligence, open('inteligence.json', 'w', encoding='utf-8'), indent=4)
+    
+  except FileNotFoundError:
+    print("Arquivo inteligence.json não encontrado. Criando um novo arquivo.")
+    with open('inteligence.json', 'w', encoding='utf-8') as f:
+      json.dump([{"Question": question, "Answer": answer}], f, indent=4)

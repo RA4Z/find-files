@@ -13,20 +13,21 @@ Planilha exclusiva para rodar macro PS - MONT C.xlsm; 2024-02-22 07:39:45.299433
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acasalamento Montagem A, B, C\Acasalamento_Auto:
 BuscarAcasalamentoMacro.xlsm; 2024-05-06 08:29:14.761614
-DadosAcasalamentoA.xlsm; 2024-05-20 10:13:05.211190
-DadosAcasalamentoB.xlsm; 2024-05-20 10:13:00.290538
-DadosAcasalamentoC.xlsm; 2024-05-20 10:12:44.472621
-RodarMacroMontagemA.xlsm; 2024-05-20 07:26:13.350889
-RodarMacroMontagemB.xlsm; 2024-05-20 07:31:39.138198
-RodarMacroMontagemC.xlsm; 2024-05-20 07:33:45.604876
+DadosAcasalamentoA.xlsm; 2024-05-22 10:37:53.871737
+DadosAcasalamentoB.xlsm; 2024-05-22 10:10:45.685250
+DadosAcasalamentoC.xlsm; 2024-05-22 07:43:19.923602
+RodarMacroMontagemA.xlsm; 2024-05-22 04:03:11.745096
+RodarMacroMontagemB.xlsm; 2024-05-22 04:06:34.705430
+RodarMacroMontagemC.xlsm; 2024-05-22 04:08:06.032764
+~$DadosAcasalamentoB.xlsm; 2024-05-22 10:21:01.735094
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acasalamento Montagem A, B, C\Acasalamento_Auto\Dados:
-Dados MontagemA.txt; 2024-05-20 07:25:46.537116
-Dados MontagemB.txt; 2024-05-20 07:28:42.555741
-Dados MontagemC.txt; 2024-05-20 07:32:31.810730
-ZTPP107_A.txt; 2024-05-20 07:24:59.210987
-ZTPP107_B.txt; 2024-05-20 07:27:51.615149
-ZTPP107_C.txt; 2024-05-20 07:32:06.312607
+Dados MontagemA.txt; 2024-05-22 04:03:01.629521
+Dados MontagemB.txt; 2024-05-22 04:06:22.949872
+Dados MontagemC.txt; 2024-05-22 04:08:00.421932
+ZTPP107_A.txt; 2024-05-22 04:01:53.460321
+ZTPP107_B.txt; 2024-05-22 04:05:16.321784
+ZTPP107_C.txt; 2024-05-22 04:07:27.154839
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acasalamento Montagem A, B, C\BAIXACPD:
 Dados Montagem A.xlsm; 2023-08-18 11:27:46.680248
@@ -105,26 +106,26 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acasalamento Turbinas\Turbinas\Dispositivos
 120-2200203-4E_v1.xlsm; 2023-01-25 08:34:09.568963
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam:
-acompanhamento_diario_1200.xlsm; 2024-05-20 08:29:58.583904
-acompanhamento_diario_1201.xlsm; 2024-05-20 07:17:34.522372
+acompanhamento_diario_1200.xlsm; 2024-05-22 07:32:57.875742
+acompanhamento_diario_1201.xlsm; 2024-05-22 07:12:33.849667
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam\Dados 1200\CN41:
-DadosA.txt; 2024-05-20 07:56:05.821274
-DadosB.txt; 2024-05-20 07:57:16.296066
-DadosC.txt; 2024-05-20 07:57:43.711929
+DadosA.txt; 2024-05-22 01:09:55.343379
+DadosB.txt; 2024-05-22 01:11:06.650757
+DadosC.txt; 2024-05-22 01:11:34.609775
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam\Dados 1200\ZTPP107:
-dadosBob.txt; 2024-05-20 07:50:49.546668
-dadosEu.txt; 2024-05-20 07:51:00.100442
-dadosMaq.txt; 2024-05-20 07:55:02.725604
-dadosRot.txt; 2024-05-20 07:51:03.720418
-ZTPP107_MontagemA.txt; 2024-05-20 07:49:08.470931
-ZTPP107_MontagemB.txt; 2024-05-20 07:49:50.263770
-ZTPP107_MontagemC.txt; 2024-05-20 07:50:21.862942
+dadosBob.txt; 2024-05-22 01:04:25.817251
+dadosEu.txt; 2024-05-22 01:04:39.443720
+dadosMaq.txt; 2024-05-22 01:08:47.108912
+dadosRot.txt; 2024-05-22 01:04:44.851846
+ZTPP107_MontagemA.txt; 2024-05-22 01:02:38.691458
+ZTPP107_MontagemB.txt; 2024-05-22 01:03:22.236458
+ZTPP107_MontagemC.txt; 2024-05-22 01:03:55.303023
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam\Dados 1201:
-Dados Montagem.txt; 2024-05-20 07:17:01.479251
-ZTPP107.TXT; 2024-05-20 07:16:44.181306
+Dados Montagem.txt; 2024-05-22 01:01:18.342888
+ZTPP107.TXT; 2024-05-22 01:01:00.432809
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Diario Kanbam\Dados_Montagem:
 HOJE.xlsm; 2024-04-01 09:07:53.405158
@@ -141,7 +142,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Ban
 Grupos_de_Compradores.txt; 2024-02-07 11:33:36.484684
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados\103 - MD4C:
-Dados MD4C.xlsm; 2024-05-20 11:50:05.545002
+Dados MD4C.xlsm; 2024-05-22 09:48:37.653245
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados\104 - COOIS - Indexador:
 Dados COOIS_Index.xlsm; 2024-04-18 11:31:31.801456
@@ -178,18 +179,13 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Ban
 Dados_COHV_Operacoes.txt; 2022-09-29 15:55:33.134828
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados\106 - CN47N - Atividades:
-Dados CN47N.xlsm; 2024-05-20 11:49:24.321411
+Dados CN47N.xlsm; 2024-05-22 09:47:16.104482
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados\106 - CN47N - Atividades\Dados CN47N:
-Dados_09_05_2024.txt; 2024-05-09 17:18:21.012540
-Dados_10_05_2024.txt; 2024-05-10 15:20:05.634062
-Dados_13_05_2024.txt; 2024-05-13 08:25:29.211882
-Dados_14_05_2024.txt; 2024-05-14 09:08:28.925669
-Dados_15_05_2024.txt; 2024-05-15 16:01:16.894516
-Dados_17_05_2024.txt; 2024-05-17 15:21:27.126304
-Dados_20_05_2024.txt; 2024-05-20 11:48:42.481060
+Dados_21_05_2024.txt; 2024-05-21 13:19:31.509025
+Dados_22_05_2024.txt; 2024-05-22 09:46:38.846314
 Dados_31_08_2023.txt; 2023-08-31 18:04:13.590805
-Dados_CN47N.txt; 2024-05-20 11:48:43.621863
+Dados_CN47N.txt; 2024-05-22 09:46:40.096503
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados\107 - Centros de Trabalho:
 Leiame.txt; 2022-09-28 09:49:03.466053
@@ -210,7 +206,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Ban
 Grupos_de_Compradores.txt; 2022-11-25 08:59:03.710950
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados - Daniel\103 - MD4C:
-Dados MD4C.xlsm; 2024-05-17 13:27:58.254916
+Dados MD4C.xlsm; 2024-05-21 14:44:28.007285
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\001 - Banco de Dados - Daniel\104 - COOIS - Indexador:
 Dados COOIS_Index.xlsm; 2023-07-03 08:33:10.266704
@@ -816,9 +812,6 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\1000. Pro
 120-2200157-22 - 51428865 - MGW 800 - Parque das Baleias.pdf; 2022-10-14 07:48:23.257695
 120-2200157-23 - 51428865 - MGW 800 - Parque das Baleias.pdf; 2022-10-14 14:07:45.328171
 120-2200157-24 - 51428865 - MGW 800 - Parque das Baleias.pdf; 2022-10-14 14:18:50.130999
-
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\1000. Projetos Entregues\2200224 - OV51479301 - Equinor\01. CRONOGRAMA\22.05.23:
-22.05.23 - 2200224 - Equinor - R1.pdf; 2022-05-23 10:24:18.015936
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\1000. Projetos Entregues\2200224 - OV51479301 - Equinor\01. CRONOGRAMA\22.06.28:
 22.06.28 - 2200224 - Equinor.pdf; 2022-06-28 13:28:55.340495
@@ -2960,6 +2953,9 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300151 -
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300151 - OV52021935 - Siemens - PEMEX\01. CRONOGRAMA\2024.05.10:
 120-2300151 - 52021935 - Siemens - PEMEX.pdf; 2024-05-10 14:53:02.760803
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300151 - OV52021935 - Siemens - PEMEX\01. CRONOGRAMA\2024.05.21:
+120-2300151 - 52021935 - Siemens - PEMEX.pdf; 2024-05-22 09:42:27.059393
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300170 - OV52054018 - P82 LEWA Singapore\01. CRONOGRAMA\2023.03.13:
 120-2300170 - 52054018 - P82 - LEWA Singapore.pdf; 2024-03-13 12:52:33.040643
 
@@ -3236,8 +3232,11 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 -
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 - OV52179347 - CEDAE\01. CRONOGRAMA\2024.04.24:
 120-2300454 - 52179347 - CEDAE.pdf; 2024-04-24 14:02:44.949435
 
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 - OV52179347 - CEDAE\01. CRONOGRAMA\2025.05.14:
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 - OV52179347 - CEDAE\01. CRONOGRAMA\2024.05.14:
 120-2300454 - 52179347 - CEDAE.pdf; 2024-05-14 11:10:30.496922
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 - OV52179347 - CEDAE\01. CRONOGRAMA\2024.05.21:
+120-2300454 - 52179347 - CEDAE.pdf; 2024-05-21 10:03:43.151221
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300454 - OV52179347 - CEDAE\03. INF COMERCIAIS:
 ResConsTec_20231220_091715 - 1400.pdf; 2023-12-20 09:36:05.431556
@@ -3299,6 +3298,9 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300608 -
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300608 - OV52267362 - Air Liquide France\01. CRONOGRAMA\2024.03.26:
 120-2300608 - 52267362 - Air Liquide Woodside.pdf; 2024-03-26 17:09:07.254655
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300608 - OV52267362 - Air Liquide France\01. CRONOGRAMA\2024.05.22:
+Cronograma Air Liquide Woodside - 120-2300608 - 22-05-2024.pdf; 2024-05-22 09:55:09.046843
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300634 - OV52288764 - P80 - LEWA Singapore\01. CRONOGRAMA\2023.03.13:
 120-2300634 - 52288764 - P80 - LEWA Singapore.pdf; 2024-03-13 11:22:55.990493
 
@@ -3327,6 +3329,9 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300901 -
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300931 - OV52282210 - CELEROS MODEC RAIA FPSO\01. CRONOGRAMA\2024.05.07:
 120-2300931 - 52282210 - CELEROS MODEC RAIA FPSO.pdf; 2024-05-07 14:04:55.949869
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300931 - OV52282210 - CELEROS MODEC RAIA FPSO\01. CRONOGRAMA\2024.05.22:
+Cronograma CELEROS MODEC-RAIA FPSO - 120-2300931 - 22-05-2024.pdf; 2024-05-22 10:31:27.610483
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2300955 - OV52455235 - Whiptail\01. CRONOGRAMA\2023.03.22:
 120-2300955 - 52455235 - BH Whiptail.pdf; 2024-03-22 09:23:38.721034
@@ -3395,7 +3400,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2400105 -
 120-2400105 - 52543026 - TFMC.pdf; 2024-05-09 14:45:14.055860
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2400105 - OV52543026 - FMC\01. CRONOGRAMA\2024.05.20:
-120-2400105 - 52543026 - FMC.pdf; 2024-05-20 14:41:20.913643
+120-2400105 - 52543026 - FMC.pdf; 2024-05-20 16:56:16.876923
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Acompanhamento Projetos Especiais\2400105 - OV52543026 - FMC\03. INF COMERCIAIS:
 DU100333517_C.pdf; 2024-04-18 14:26:21.673715
@@ -4187,7 +4192,6 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\Programação\Comissão Empilhade
 PBK_WEN__PAYBACK - Aquisição de Empilhadeira Eletrica_Karoline Luciani.pdf; 2024-05-17 14:25:18.785852
 Relatório para comissão v2.docx; 2024-05-17 14:42:56.750485
 Relatório para comissão.docx; 2024-05-15 10:17:50.188127
-~$latório para comissão.docx; 2024-05-20 14:29:35.746911
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\Programação\Comissão Empilhadeira 2024\BYD:
 Proposta de Venda 1290 04.04.2024 WEG.pdf; 2024-04-22 10:39:19.495302
@@ -4234,6 +4238,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\Programação\Comissão paleteira
 Proposta Hangcha.pdf; 2024-04-05 11:09:35.067120
 Proposta Jungheinrich.pdf; 2024-05-17 10:50:56.589319
 Proposta YALE MS20X PRHE 022605-24HY WEG.pdf; 2024-02-28 08:49:47.128830
+Proposta YALE MS20X PRHE 052201-24HY WEG.pdf; 2024-05-22 09:02:44.910794
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Analistas\Programação\Empilhadeira na Caldeiraria:
 Solicitação de demanda - Caldeiraria.docx; 2023-09-04 08:49:46.951537
@@ -5299,9 +5304,8 @@ Ver Ordens de um projeto.docx; 2023-09-21 13:09:58.891726
 VL10D.docx; 2024-03-22 14:34:42.259226
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Beatriz\Manuais\Alternadores:
-Acompanhamento alternadores.docx; 2024-05-16 10:11:24.932146
+Acompanhamento alternadores.docx; 2024-05-21 08:21:48.241176
 Claim ZR.docx; 2024-05-17 15:19:53.285048
-~$ompanhamento alternadores.docx; 2024-05-20 09:16:28.069740
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Beatriz\PAD:
 Manual_PAD_2017.docx; 2024-01-05 10:05:26.838374
@@ -5310,7 +5314,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão:
 03-encerramento_ordens.xlsm; 2024-04-24 14:59:22.146874
 Data_Default.xlsm; 2024-03-28 14:00:10.472492
 Teste.xlsm; 2024-04-09 10:39:27.465241
-v1.6_Default.xlsm; 2024-03-05 09:23:46.425345
+v1.6_Default.xlsm; 2024-05-22 07:17:44.627521
 VERIFICAR BIQ UTI.xlsm; 2024-05-16 08:18:43.672912
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\00-Planilha_Padrão\Documentação:
@@ -5522,7 +5526,6 @@ Status_SAP-SBC_Vendas.xlsm; 2023-12-07 16:13:17.352511
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\54-Fios_Itajai:
 relatorio_fios.txt; 2024-01-22 12:50:20.869230
 Relatorio_Fios.xlsm; 2024-05-06 17:23:52.064986
-~$Relatorio_Fios.xlsm; 2024-05-20 13:52:19.998430
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\55-Ampliar_Materiais:
 Ampliar materiais centro fornecedor.xlsm; 2024-01-26 14:34:26.048395
@@ -5565,7 +5568,7 @@ Comparar_Ordem_PS.xlsm; 2024-03-11 15:37:21.185555
 Documento1.docx; 2024-03-06 09:27:14.255141
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\66-Pendencias_Aprovacao:
-Relatorio_Pendencias.xlsm; 2024-05-06 10:29:48.063583
+Relatorio_Pendencias.xlsm; 2024-05-21 09:25:56.404848
 Requisições pendentes de aprovação.docx; 2024-03-19 09:07:50.062367
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\67-Ordens_CNC_Caldeiraria:
@@ -5587,6 +5590,9 @@ Reaproveitamento.xlsm; 2024-04-25 15:56:30.686460
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\77-Doc_2P:
 Info_2P.xlsm; 2024-05-06 09:20:47.571637
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\78-Analise_AW10:
+Analise_AW10.xlsm; 2024-05-21 14:46:45.111063
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\_Central\00-Planilha_Padrão:
 Central_Default.xlsm; 2023-05-19 14:11:39.693634
 
@@ -5598,7 +5604,7 @@ entry_points.txt; 2024-02-14 08:33:23.393104
 LICENSE.txt; 2024-02-14 08:33:23.393104
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico:
-status.txt; 2024-05-17 12:50:06.046870
+status.txt; 2024-05-22 09:45:01.420935
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento_automatico\data:
 2024_4_26_12_7-apontamentos.txt; 2024-04-26 14:05:28.492038
@@ -5643,6 +5649,11 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento
 2024_5_16_7_44-apontamentos.txt; 2024-05-16 08:45:34.551336
 2024_5_17_10_44-apontamentos.txt; 2024-05-17 11:18:57.840015
 2024_5_17_12_33-apontamentos.txt; 2024-05-17 12:50:06.031243
+2024_5_20_15_41-apontamentos.txt; 2024-05-20 16:14:39.641800
+2024_5_21_10_30-apontamentos.txt; 2024-05-21 10:55:59.786217
+2024_5_21_8_20-apontamentos.txt; 2024-05-21 08:44:45.249375
+2024_5_21_8_54-apontamentos.txt; 2024-05-21 09:31:49.678387
+2024_5_21_9_45-apontamentos.txt; 2024-05-21 09:54:07.507217
 2024_5_2_14_58-apontamentos.txt; 2024-05-02 15:48:45.081608
 2024_5_3_12_33-apontamentos.txt; 2024-05-03 13:14:56.866659
 2024_5_3_15_25-apontamentos.txt; 2024-05-03 16:10:09.954637
@@ -5672,9 +5683,22 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\05-apontamento
 2024_5_9_10_18-apontamentos.txt; 2024-05-09 13:59:03.959661
 2024_5_9_14_0-apontamentos.txt; 2024-05-09 15:01:09.388618
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\06-find_fles\database:
+all.txt; 2024-05-20 14:47:22.465145
+doc.txt; 2024-05-20 12:46:54.804209
+docx.txt; 2024-05-20 12:44:30.818076
+manualExec.txt; 2024-05-21 16:10:11.920021
+pbix.txt; 2024-05-20 10:54:30.923346
+pdf.txt; 2024-05-20 12:42:43.669677
+txt.txt; 2024-05-20 11:06:19.598055
+xls.txt; 2024-05-20 12:49:45.875437
+xlsb.txt; 2024-05-20 11:00:02.918434
+xlsm.txt; 2024-05-20 13:14:25.371361
+xlsx.txt; 2024-05-20 11:21:58.143685
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Automaticos_Python\__Solicitar:
-03-encerramento_ordens.xlsm; 2024-04-26 09:05:51.511566
-04-materiais_ECM.xlsm; 2024-05-07 06:16:31.989411
+03-encerramento_ordens.xlsm; 2024-05-22 10:41:19.225415
+04-materiais_ECM.xlsm; 2024-05-22 06:22:34.882071
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Central\__Executaveis_Python\01-cobrar_wmo_gta:
 clients.txt; 2024-03-13 09:03:02.155790
@@ -5798,7 +5822,8 @@ Inserir visão rodar MRP - MD04.docx; 2023-02-08 11:16:24.326348
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cintia\Workflow:
 Cópia de PLANEJADOR COMPRAS atualizado R02.xlsm; 2024-05-08 15:53:21.228283
-PLANEJADOR COMPRAS atualizado.xlsm; 2024-01-30 10:20:46.699121
+PLANEJADOR COMPRAS atualizado R01 20-05.xlsm; 2024-05-21 09:52:20.484078
+PLANEJADOR COMPRAS atualizado.xlsm; 2024-05-21 07:54:34.960566
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\CLAIM  - Pedidos de Vendas\Guadalupe:
 BASE_KAIZEN.txt; 2023-02-01 16:19:39.514611
@@ -7684,6 +7709,8 @@ DATA 24-01-2024 - O.S - 003916 = R$ 2.967,50.pdf; 2024-02-14 15:28:34.132158
 DATA 25-01-2024 - O.S - 003917 = R$ 4.870,00.pdf; 2024-02-14 15:28:34.215502
 DATA 26-01-2024 - O.S - 003989 = R$ 4.400,00.pdf; 2024-02-14 15:28:34.268817
 DATA 30-01-2024 - O.S - 003846 = R$ 2.420,00.pdf; 2024-02-14 15:28:34.319310
+WEG OS 10739.pdf; 2024-01-22 10:29:07.696691
+WEG OS 10763.pdf; 2024-01-24 10:49:09.275976
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Controle Logistico\ARMAZENAGEM AREA EXTERNA\2024\Maio:
 02-05 Ficha 24915 = 1540,00.pdf; 2024-05-06 10:24:14.769216
@@ -8674,7 +8701,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cronogramas:
 17126480-17126481 - WGM 20560 (MI) (CI) (SA) PT.pdf; 2023-07-24 12:52:14.318768
 17126482 - WGM20 500 (MI) (CI) (SA) PT.pdf; 2023-07-24 12:45:59.585231
 17126487 - AN10-V500B20  500 (MI) (CI) (SA).pdf; 2023-07-24 12:49:15.090062
-17130902 - OV 52033843 MGW 710  (MI) (CI) (CA).pdf; 2024-05-16 17:02:20.006033
+17130902 - OV 52033843 MGW 710  (MI) (CI) (CA).pdf; 2024-05-22 10:02:27.382697
 17135588 - ST41 1120 (MI) (SI) (AP)ESP.pdf; 2023-08-11 09:09:29.472902
 17136329 - W60500 (ME) (CI) (CA) EX.pdf; 2023-11-17 09:40:25.537222
 17142734 - OV 51952613 - MGF355 (MI) (CI) (CA) EX PT.pdf; 2024-01-16 07:30:37.768479
@@ -8846,13 +8873,13 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cronogramas:
 17649387 - 52473027 - W60 560  (ME) (SI) (SA).pdf; 2023-12-12 13:40:31.550159
 17652331 - HGF 560 (ME) (SI) (SA).pdf; 2024-01-16 07:53:36.259566
 17655077 -OV 52461926 - ST40 1120 (MI) (SI) (AP).pdf; 2024-05-09 09:21:59.210089
-17656447 -OV 52458558 - MGP 450 (ME) (SI) (SA).pdf; 2024-01-29 09:26:28.850849
+17656447 -OV 52458558 - MGP 450 (ME) (SI) (SA).pdf; 2024-05-21 06:39:14.231677
 17657549 - OV 52470187 - MGA 400 (ME) (SI) (CA).pdf; 2024-03-08 07:54:54.930503
 17657550 -OV 52470187 - MG 400 (ME) (SI) (CA).pdf; 2024-03-08 09:17:06.611800
 17658049 - OV 52474943 - MAF 500 (MI) (SI) (CA).pdf; 2024-03-19 16:00:04.670502
 17663428 - 52438435 - HGF 500 (ME) (SI) (SA).pdf; 2024-03-18 12:44:00.211983
 17663751 - 52485951 - S polos saliente maciço 1000 (ME) (CI) (SA).pdf; 2024-02-14 08:41:18.810757
-17672378 - OV 52476305 -W60 560 (ME) (CI) (SA) EX.pdf; 2024-04-22 13:55:03.154139
+17672378 - OV 52476305 -W60 560 (ME) (CI) (SA) EX.pdf; 2024-05-21 08:12:20.710342
 17673355 - OV 52490312 -ST4 1900 (MI) (SI) (AP).pdf; 2024-02-20 07:36:35.813010
 17675050 - W60 710 (ME) (SI) (SA).pdf; 2024-03-06 12:26:33.189012
 17675566 - OV 52492971 -  HGF 500 (ME) (SI) (SA).pdf; 2024-03-28 07:25:54.736784
@@ -8862,8 +8889,8 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cronogramas:
 17699170 - 52503638 - MG 560   (ME) (CI) (SA).pdf; 2024-05-08 10:24:59.041756
 17710302 - 52504679 - W60 710 (ME) (CI) (CA).pdf; 2024-03-18 13:24:00.754930
 17725472 - OV 52529010 -  KIT CONJUNTO CARCACA BOBINADA.pdf; 2024-04-12 08:24:11.385483
-17735367 - OV 52515215 MG 800 (MI) (CI) (CA) EX PT.pdf; 2024-05-08 10:39:42.961199
-17735708 -OV 52515215 - MG 900 (MI) (CI) (CA) EX.pdf; 2024-05-08 10:41:19.006575
+17735367 - OV 52515215 MG 800 (MI) (CI) (CA) EX PT.pdf; 2024-05-22 08:09:36.065140
+17735708 -OV 52515215 - MG 900 (MI) (CI) (CA) EX.pdf; 2024-05-22 08:12:46.882521
 17739568 - 52531644 - MGW 630 (ME) (CI) (CA).pdf; 2024-05-02 16:43:54.705791
 17746548 - OV 52534902 -MAF 630 (MI) (SI) (CA).pdf; 2024-04-17 15:00:21.689993
 17749422 - OV 52525479 -MAF 630 (MI) (SI) (CA).pdf; 2024-04-04 19:28:09.867295
@@ -8882,16 +8909,21 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Cronogramas:
 17812880 - 52563096 - W60 450 (ME) (CI) (SA).pdf; 2024-03-27 16:05:45.499545
 17812881 - 52563096 - W60 560 (ME) (CI) (SA).pdf; 2024-03-27 16:15:23.714424
 17812882 - 52563096 - W60 560 (ME) (CI) (SA).pdf; 2024-03-27 16:18:57.245014
+17819124  MAQ 01- OV 52574115 -  S 1120(MI) (CI) (AP).pdf; 2024-05-21 07:03:56.686659
+17819124  MAQ 02- OV 52574115 -  S 1120(MI) (CI) (AP).pdf; 2024-05-21 07:02:09.077455
+17819124  MAQ 03 - OV 52574115 -  S 1120(MI) (CI) (AP).pdf; 2024-05-21 07:06:12.553370
 17820691 - OV 52513809 - W60 500  (ME) (SI) (SA) EX.pdf; 2024-05-03 16:07:20.397372
 17825570 - OV 52568123 MA 560(ME) (CI) (SA).pdf; 2024-05-13 16:05:29.297659
 17828040 - OV 52570010 - MG355 (MI) (CI) (CA) PT.pdf; 2024-05-13 11:05:18.039880
 17836100 - OV 52545497 - HGF 500 (ME) (SI) (SA).pdf; 2024-04-11 07:25:01.083880
+17837442 - OV 52557512 - HGF560 (MI) (CI) (SA).pdf; 2024-05-22 06:58:59.798257
 17843552 - 52567432 - MAI 710 (ME) (SI) (SA).pdf; 2024-04-09 10:05:43.836434
 17862867 - 52592810 - MGR 400 (ME) (SI) (SA).pdf; 2024-04-16 14:14:44.161397
 17877909 - OV52605353 - W60 630  (ME) (CI) (SA) EX.pdf; 2024-04-22 10:26:52.343798
 17906072 - OV52622262 - ST41 800I (MI) (CI) (AP).pdf; 2024-05-20 13:55:01.447177
 17912276 - OV 52620256 - G 630  (ME) (CI) (CA) EX.pdf; 2024-05-07 08:46:27.220679
 17912277 - OV 52620256 - G 630  (ME) (CI) (CA) EX.pdf; 2024-05-07 06:52:45.219402
+17919179 - 52564025 - HGF 500 (ME) (SI) (SA) ESP.pdf; 2024-05-21 07:20:56.108257
 17921534 - OV 52626892 - MGR 500 (ME) (SI) (SA).pdf; 2024-05-14 14:04:16.527070
 1x 16703044 - MG 500 (ME) (SI) (CA).pdf; 2023-06-06 09:51:17.671081
 2x 16703044 - MG 500 (ME) (SI) (CA).pdf; 2023-06-07 16:11:11.538792
@@ -9726,7 +9758,8 @@ Indicadores_Diretoria_Industrial_WII_2023.docx; 2023-12-12 13:03:40.302175
 ~$dicadores_Diretoria_Industrial_WII_2023.docx; 2023-04-13 13:00:09.719463
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Giro de estoque SMI\2024:
-Giro de estoque e SMI 2024.docx; 2024-04-16 08:21:07.022255
+Giro de estoque e SMI 2024.docx; 2024-05-21 12:53:46.165457
+~$ro de estoque e SMI 2024.docx; 2024-05-21 10:39:43.008749
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Ester\Homenagem dia dos pais\fotos:
 Ser pai é plantar raízes.docx; 2023-08-04 12:41:03.114596
@@ -10006,7 +10039,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Alternadores\2. Subcontratação us
 Proposta estoque de segurança.docx; 2024-03-07 07:13:25.300499
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Alternadores\2. Subcontratação usinados\Macro subcontratação usinados atualizada:
-Materiais subcontratados 1 (1).xlsm; 2024-05-20 07:58:09.682948
+Materiais subcontratados 1 (1).xlsm; 2024-05-22 09:20:52.991819
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Alternadores\2. Subcontratação usinados\Mapas de fornecedor:
 Descrição processo de recebimento de notas fiscais de SUBCONTRATAÇÃO.docx; 2023-11-16 14:44:29.830837
@@ -10398,7 +10431,7 @@ Cópia de TEMPLATE_WEG_REPORTS - 2023-08-22T143105.884.xlsb; 2023-08-22 14:34:06
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Fabiana\Treinamento Fabi:
 Acerto de estoque-inventário.docx; 2024-01-16 13:12:59.488925
 ANOTAÇÕES EXCEL segmentação.docx; 2023-12-08 13:21:39.557720
-ATIVIDADES ANALISTA.docx; 2024-05-17 08:37:08.410842
+ATIVIDADES ANALISTA.docx; 2024-05-21 15:19:12.967479
 bucha carlos analise.docx; 2023-11-07 16:55:12.670772
 CHAMADOS.docx; 2024-05-15 10:36:13.381034
 IS99 1.docx; 2024-05-06 08:01:39.900423
@@ -11476,7 +11509,7 @@ Prazo_Dias_Atraso_Macro.xlsm; 2024-05-07 08:51:07.515381
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Controle de estoque:
 Materiais Sem Consumo_MacroBA01.xlsm; 2024-03-07 14:28:09.097853
-Materiais Sem Consumo_Macro_.xlsm; 2024-05-20 14:05:36.071254
+Materiais Sem Consumo_Macro_.xlsm; 2024-05-20 15:40:23.145491
 Materiais Sem Consumo_Macro_ATE120.xlsm; 2024-02-28 09:23:17.292052
 ~$Materiais Sem Consumo_Macro_.xlsm; 2023-04-04 10:48:01.104799
 
@@ -11732,7 +11765,7 @@ https.docx; 2022-11-10 16:10:37.202549
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\ACOMPANHAMENTO DOS KIT JGS:
 ACOMPANHAMENTO DOS KITS DE JGS.pbix; 2024-01-30 09:40:38.670562
 IQS9.txt; 2023-06-05 13:02:07.832963
-ORDENS ZTPP107.txt; 2024-05-20 11:25:48.808914
+ORDENS ZTPP107.txt; 2024-05-22 00:05:27.247439
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\ACOMPANHAMENTO ECM:
 Acompanhamento ECM.pbix; 2022-12-19 15:05:45.142329
@@ -11758,14 +11791,14 @@ Atualizar_CO24.xlsm; 2022-05-31 14:29:08.731832
 Atualizar_COHV_ORDENS.xlsm; 2022-07-06 15:16:53.060477
 Atualizar_ZTPP107.xlsm; 2023-03-08 10:17:56.390916
 BASE DE DADOS TV ALTERNADORES .txt; 2023-09-15 08:00:18.403240
-CO24.txt; 2024-05-18 02:20:33.890581
-COHV_ORDENS .txt; 2024-05-18 02:22:18.239078
+CO24.txt; 2024-05-22 02:20:25.127726
+COHV_ORDENS .txt; 2024-05-22 02:22:09.142243
 DADOS TV ALTERNADORES.xlsm; 2023-09-28 10:58:59.023410
 Disponibilidade_Material_COHV.xlsm; 2022-06-10 10:00:55.040183
 ESTOQUE ZTMM402 .txt; 2023-09-15 08:06:24.936495
 GTA TV .txt; 2023-06-23 14:23:02.484779
 INDICADOR GTA.pbix; 2024-05-16 17:09:54.676455
-ZTPP107 - ORDENS PROGRAMADAS.txt; 2024-05-18 02:21:44.921985
+ZTPP107 - ORDENS PROGRAMADAS.txt; 2024-05-22 02:21:35.568469
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\FALTA DE MATERIAIS GTA\DIFERENÇA ZTPP107 E Z TPP176:
 ZTPP107.txt; 2024-05-16 15:08:04.333163
@@ -11811,10 +11844,10 @@ Atualizar Indicador da Expedição.xlsm; 2023-01-18 14:25:27.109599
 Estoque ZTMM402.TXT; 2024-02-06 22:19:14.645506
 Indicador da Expedição - versão 1.pbix; 2024-02-06 22:31:20.713106
 Indicador da Expedição.pbix; 2024-05-15 10:42:24.996324
-LT23.txt; 2024-05-20 12:00:20.099637
-LX03.txt; 2024-05-20 12:05:27.305096
-MB51.txt; 2024-05-20 12:05:23.379570
-ZTSD092.txt; 2024-05-20 12:00:32.764224
+LT23.txt; 2024-05-22 06:45:26.031607
+LX03.txt; 2024-05-22 06:50:27.539336
+MB51.txt; 2024-05-22 06:50:23.601223
+ZTSD092.txt; 2024-05-22 06:45:37.236922
 ZTWM058.txt; 2024-05-15 10:20:01.989233
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR EÓLICO:
@@ -11834,23 +11867,23 @@ INDICADOR ACOMPANHAMENTO VESTAS.pbix; 2022-10-19 17:00:01.025710
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR POWER BI- NORDEX:
 Atualizar_Base_de_Dados.xlsm; 2024-04-22 08:01:55.724314
-B.D. OPERAÇÕES NORDEX .txt; 2024-05-20 08:02:50.955576
-BASE DE DADOS ORDENS NORDEX.txt; 2024-05-20 08:02:15.942910
+B.D. OPERAÇÕES NORDEX .txt; 2024-05-22 02:23:11.754563
+BASE DE DADOS ORDENS NORDEX.txt; 2024-05-22 02:22:34.914281
 INDICADOR ACOMPANHAMENTO NORDEX.pbix; 2024-01-30 09:58:40.160017
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR PROGRAMAÇÃO:
 CN52N - Componentes no PEP.TXT; 2023-06-16 13:04:20.778845
-COGI.txt; 2024-05-20 11:30:52.924349
-estoqueCancelar.txt; 2024-05-17 19:05:59.251550
-estoquePostergar.txt; 2024-05-17 19:11:16.291852
+COGI.txt; 2024-05-22 00:09:29.138635
+estoqueCancelar.txt; 2024-05-20 19:05:37.939714
+estoquePostergar.txt; 2024-05-20 19:10:39.028532
 Indicador Programação.pbix; 2024-05-03 15:58:34.396211
-Ordens atrasadas sem liberação.txt; 2024-05-20 11:30:46.376461
-PCR.txt; 2024-05-20 11:30:08.234927
-Preço do material (todas).txt; 2024-05-17 19:18:35.749285
+Ordens atrasadas sem liberação.txt; 2024-05-22 00:09:22.908358
+PCR.txt; 2024-05-22 00:08:45.515984
+Preço do material (todas).txt; 2024-05-20 19:17:35.634733
 Relatorio das QM's.TXT; 2022-06-14 13:43:07.441241
-valores.txt; 2024-05-17 19:06:04.064794
-valoresPostergar.txt; 2024-05-17 19:11:21.647262
-ZTPP289-  Mensagens reprogramação ( todas).txt; 2024-05-17 19:19:58.254047
+valores.txt; 2024-05-20 19:05:42.846728
+valoresPostergar.txt; 2024-05-20 19:10:44.607526
+ZTPP289-  Mensagens reprogramação ( todas).txt; 2024-05-20 19:18:56.323693
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Indicadores Automatizados\Indicadores Automatizados (Valmir)\INDICADOR SERGIO-VILSON:
 Indicador Dados Mestre_Workflow.pbix; 2023-11-24 15:16:37.201679
@@ -13025,6 +13058,9 @@ WPS-33892_PT_1.docx; 2022-06-22 16:30:15.772328
 WPS-46182 - NORMA KANBAN.docx; 2022-06-22 16:30:34.693758
 WPS-46196 - NORMA KANBAN VESTAS.docx; 2022-06-22 16:30:42.229025
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\QC:
+textoqm.txt; 2024-01-31 17:50:57.622277
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Karoline\SBC\Fluxo de máquinas de serivços:
 Dashboard.txt; 2023-12-04 10:45:31.657999
 Fluxograma serviços.pdf; 2023-11-08 08:39:04.328179
@@ -13076,7 +13112,7 @@ Pedidos_de_compra_WSB.xlsm; 2024-04-26 03:02:57.080664
 Pedidos_de_compra_WTD.xlsm; 2023-04-13 16:13:08.142572
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\003-Disponibilidade:
-Disponibilidade_vs_estoque.xlsm; 2024-05-20 09:35:21.101538
+Disponibilidade_vs_estoque.xlsm; 2024-05-22 05:52:02.404505
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\004-ListaMateriais:
 projetos_nao_supervisionados_CONSIDERA_KANBAN.xlsm; 2023-01-05 09:30:23.964096
@@ -13100,7 +13136,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\010-Atualizar_Power_BI_Work
 Macro.xlsm; 2024-03-15 07:26:14.208084
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\011-Estoque_Programacao:
-Atualizar_Estoque.xlsm; 2024-05-17 19:19:59.008072
+Atualizar_Estoque.xlsm; 2024-05-20 19:18:57.701806
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\012-LibEmMassa:
 liberar_em_massa.xlsm; 2023-11-28 11:02:03.652975
@@ -13117,10 +13153,10 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\015-EnviarPendencias:
 Indicadores_Pendencias.xlsm; 2023-11-20 16:11:42.709923
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\016-Macros_Ampliar:
-Ampliar_Materiais.xlsm; 2024-05-18 05:08:40.167876
+Ampliar_Materiais.xlsm; 2024-05-22 05:04:20.611620
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\MacrosMadrugada\017-AtualizarAcasalamento:
-BuscarAcasalamentoMacro.xlsm; 2024-05-18 04:05:05.005159
+BuscarAcasalamentoMacro.xlsm; 2024-05-22 04:08:21.541800
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Marcos:
 PROCEDIMENTO-VESTAS E NORDEX.docx; 2022-10-10 14:41:09.864693
@@ -13364,6 +13400,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Maturidade Processos:
 IndicadoresCI.xlsm; 2023-06-12 10:44:37.814376
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Murilo:
+Cópia de PA_Seguranca_2024_PCP.xlsm; 2024-05-20 16:36:10.033529
 Perigos e Riscos.pdf; 2024-04-23 13:09:13.432892
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Murilo\7X\PC eng:
@@ -13472,11 +13509,6 @@ Carga - Mes.xlsm; 2023-07-07 12:34:08.589281
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PCP-PLANEJAMENTO\Procedimentos atualizados\2023:
 PROGRAMAÇÃO DE DISPOSITIVOS-WEN.docx; 2023-04-18 14:39:00.587430
-
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Pilar Logística\Montagem BC:
-Ata 07.02.2023.docx; 2023-02-07 15:05:28.139108
-Ata 23.01.2023.docx; 2023-02-07 09:21:12.099671
-Plano de Ação.xlsm; 2023-02-07 15:11:01.250518
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planejamento Estratégico:
 Documento Planejamento Estratégico.docx; 2024-02-28 13:09:07.507819
@@ -13668,10 +13700,262 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Planilhas de controle\Relatórios:
 Relatório da Atividades (Periodo de Férias Coletivas).docx; 2023-01-11 13:58:33.434994
 Relatório da Atividades (Periodo de Férias Coletivas).pdf; 2023-01-11 16:20:32.785606
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PPC_AI_Procedures\general_procedures:
+001.0 - Contagem cíclica na expedição - Alternadores.docx; 2024-05-15 10:49:52
+001.1 - Contagem cíclica na expedição - baixa, média e alta tensão.docx; 2023-06-06 08:54:25
+001.2 - Inventário depósito SAD.docx; 2023-06-05 08:01:50
+002.0 - Enviar materiais para depósito de reaproveitamento (BA01).docx; 2023-06-06 08:12:21
+002.1 - Criar reserva para BA01.docx; 2023-06-06 08:23:05
+002.2 - Cadastrar depósito remoto.docx; 2023-06-06 08:24:50
+002.3 - Criar QC para envio.docx; 2023-06-06 08:23:05
+003.0 - Criar ordem de transformação (RP).docx; 2023-06-06 08:24:05
+003.1 - Baixar item - De - na RP.docx; 2023-06-06 09:00:25
+003.2 - Criar ordem para novo gerador De-Para.docx; 2023-06-06 08:37:07
+003.3 - Criar ordem para devolução dos materiais que retornam.docx; 2023-06-06 08:36:37
+003.4 - Entrada da ordem de devolução no estoque.docx; 2023-06-06 08:37:07
+003.5 - Localizar número de série pela MD04.docx; 2023-06-06 08:37:22
+003.6 - Tratativas com o item do gerador - De.docx; 2023-06-06 08:37:22
+004.0 - Apontamento de alternadores para o mercado interno.docx; 2023-06-06 08:46:23
+004.1 - Confirmar OT.docx; 2023-06-06 08:45:23
+004.2 - Cadastrar UD.docx; 2023-06-06 08:44:23
+005.0 - Apontamento de alternadores para o mercado externo.docx; 2023-06-06 08:45:38
+006.0 - Procedimento para solicitar materiais KANBAN.docx; 2023-06-06 08:55:09
+007.0 - Solicitação de material kanban vestas.docx; 2023-06-06 08:55:09
+008.0 - Processar CLAIM e ECM.docx; 2023-06-06 08:12:04
+008.1 - Modificações via Claim.docx; 2023-06-06 08:11:20
+008.2 - Modificações via ECM.docx; 2023-06-06 08:11:50
+009.0 - Controlar a Produção.docx; 2023-06-05 12:38:47
+009.1 - Abertura para ordem de retrabalho.docx; 2023-06-05 11:01:30
+009.10 - Estorno de materiais via transação MBST.docx; 2023-06-05 12:45:35
+009.11 - Estorno de ordens de produção - Operações.docx; 2024-05-14 08:00:52
+009.12 - Modificações em lista de operações.docx; 2023-06-05 12:49:38
+009.13 - Modificações em LT na ordem de produção.docx; 2023-06-05 12:49:52
+009.14 - Transferência de material entre depósitos conforme necessidade.docx; 2023-06-05 12:54:10
+009.15 - Transferência manual entre depósitos.docx; 2024-05-14 08:02:18
+009.2 - Apontamento de ordens de produção em estoque.docx; 2023-06-05 11:01:24
+009.3 - Apontamento de ordens de produção-operações.docx; 2024-05-09 14:38:09
+009.4 - Consulta de materiais em trânsito.docx; 2023-06-05 12:37:02
+009.5 - Consulta de medidas - nota QM.docx; 2023-06-05 12:37:32
+009.6 - Consumo de materiais para nota QM.docx; 2023-06-02 13:29:34
+009.7 - Consumo de materiais por lista de picking.docx; 2023-06-05 12:38:16
+009.8 - Encerramento técnico de ordem de produção.docx; 2023-06-05 12:39:17
+009.9 - Entrada de Mercadorias.docx; 2022-12-19 10:46:18
+010.0 - Planejamento de Materiais por MPS.docx; 2023-06-05 08:10:35
+011.0 - Planejar Partes e Peças - WNT.docx; 2023-06-05 08:18:52
+011.1 - Alteração da ordem de venda de partes e peças - WNT.docx; 2023-06-05 08:13:35
+011.2 - Criação da ordem de venda de partes e peças - WNT.docx; 2023-06-05 08:15:06
+011.3 - Fixação de ordem planejada e inserção de texto.docx; 2023-06-05 08:20:19
+011.4 - Geração de proforma para ordem de venda - WNT.docx; 2023-06-05 08:20:35
+011.5 -Criação de Claim.docx; 2023-06-05 08:19:51
+012.0 - Planejamento Partes e Peças - WEU.docx; 2023-06-05 08:29:20
+012.1 - Alteração da ordem de venda de partes e peças - WEU.docx; 2023-06-05 08:26:36
+012.2 - Gerar proforma para ordem de venda - WEU.docx; 2023-06-05 08:28:50
+013.0 - Planejamento Partes e Peças - WMX.docx; 2023-06-05 08:35:51
+013.1 - Alteração da ordem de venda de partes e peças - WMX.docx; 2023-06-05 08:31:05
+013.2 - Geração proforma para ordem de venda - WMX.docx; 2023-06-05 08:31:36
+013.3 - Criação da ordem de venda de partes e peças - WMX.docx; 2023-06-05 08:31:35
+014.0 - Modificar Ordens de Vendas e Produto.docx; 2023-06-05 08:44:40
+014.1 - Aplicação do agrupador de modificação na ordem de venda.docx; 2023-06-05 08:36:36
+014.2 - Conclusão de atividades PS para ordem de venda cancelada.docx; 2023-06-21 10:32:50
+014.3 - Modificação de ordem de venda sem agrupador - cancelamento.docx; 2023-06-05 08:37:21
+014.4- Modificações de componentes no projeto via ECM.docx; 2023-06-05 08:43:46
+014.5 - Planejamento de atividades de revisão para engenharia.docx; 2022-12-19 10:00:52
+015.0 - Planejar Materiais e Capacidades.docx; 2023-06-05 09:11:54
+015.1 - Conversão de ordens planejadas para status aberto.docx; 2022-12-19 10:01:43
+015.10 - Pesquisa de desenhos na ordem de venda.docx; 2023-06-05 08:56:53
+015.11 - Pesquisa de desenhos no mestre de material.docx; 2023-06-05 08:57:08
+015.12 - Pesquisa de materiais na lista técnica.docx; 2023-06-05 09:11:37
+015.13 - Verificação de ordens sem roteiro no período de liberação.docx; 2023-06-05 09:12:09
+015.2 - Conversão de status atual para aberto.docx; 2023-06-05 08:49:07
+015.3 - Erro na liberação manual - pendência de Workflow.docx; 2023-06-05 08:50:37
+015.4 - Impressão da ordem de venda.docx; 2023-06-21 10:01:31
+015.5 - Impressão de desenhos.docx; 2023-06-05 08:51:22
+015.6 - Impressão, modificações e consultas em ordem de produção.docx; 2023-06-05 08:51:52
+015.7 - Liberação coletiva de ordens.docx; 2023-06-05 08:56:07
+015.8 - Liberação manual de ordens.docx; 2023-06-05 08:56:22
+015.9 - Mensação de exceção.docx; 2023-06-05 08:56:37
+016.0 - Planejar Projeto.docx; 2023-06-05 10:47:53
+016.1 - Abrir ordem de retrabalho.docx; 2023-06-05 09:13:23
+016.10 - Liberação de elementos PEP.docx; 2023-06-05 10:34:40
+016.11 - Liberação do produto final para planejamento MPS.docx; 2023-06-05 10:34:40
+016.12 - Modificações de materiais.docx; 2023-06-05 10:10:38
+016.13 - Planejamento de materiais por RIPA.docx; 2023-06-05 10:46:04
+016.14 - Planejamento do produto no projeto.docx; 2023-06-05 10:47:03
+016.15 - Preenchimento da norma de apropriação do projeto.docx; 2023-06-05 10:48:35
+016.16 - Programação das atividades para engenharia.docx; 2023-06-05 10:49:05
+016.17- Verificação de disponibilidade para data de planejamento.docx; 2023-06-05 11:03:07
+016.18 - Verificação de disponibilidade.docx; 2023-06-05 10:59:08
+016.2 - Atribuição de elementos ao Elemento PEP MRP.docx; 2023-06-05 09:13:52
+016.3 - Avaliação para programação de Engenharia.docx; 2023-06-05 09:56:06
+016.4 - Comentário nas ordens planejadas.docx; 2023-06-05 09:58:21
+016.5 - Conferência de prazo na ordem de venda.docx; 2023-06-05 09:59:08
+016.6 - Consulta de medidas e impressões de clains - IQS9.docx; 2022-12-19 10:04:45
+016.7 - Criação e modificação de grupo de produto.docx; 2023-06-05 09:59:54
+016.8 - Encaminhamento de claim ZC para as áreas.docx; 2023-06-05 10:09:10
+016.9 - Inclusão de rede de planejamento e componentes.docx; 2023-06-05 10:47:04
+017.0 - Criação de templates.docx; 2023-06-06 08:01:04
+017.1 - Criação PEP Standard.docx; 2023-06-06 08:01:19
+017.2 - Criação diagrama de rede standard.docx; 2022-12-19 10:05:23
+017.3 - Criação chave de modelo.docx; 2023-06-06 07:56:47
+017.4 - Ligação do código gap apontamento na rede standard.docx; 2023-06-06 08:10:04
+018.0 - Ampliação de materiais e listas técnicas.docx; 2023-06-05 13:40:37
+018.1 - Verificação de projetos liberados por centro de trabalho.docx; 2023-06-05 14:35:33
+018.10 - Modificação de LT ou criação de LT.docx; 2023-06-05 13:58:59
+018.11 - Comparação de lista técnica.docx; 2023-06-05 13:41:21
+018.12 - Consulta de documento dimensional da máquina.docx; 2023-06-05 13:49:38
+018.13 - Alteração do mestre de material, inclusão de peso.docx; 2023-06-05 13:39:50
+018.14 - Verificação de pendências, consistências na liberação de material.docx; 2023-06-05 14:09:29
+018.15 - Conclusão da atividade do projeto PS.docx; 2023-06-05 13:48:53
+018.16 - Liberação e conclusão de medida através de claim.docx; 2023-06-05 13:58:14
+018.17 - Criação de materiais para documento ZAC pelo PS.docx; 2023-06-05 13:50:53
+018.18 - Variação de peso e descrição dos materiais ampliados para criação dos KITS.docx; 2023-06-05 13:59:42
+018.19 - Identificação de KIT já criado para o material sobressalente solicitado.docx; 2022-12-19 10:31:53
+018.2 - Consulta de medidas e impressão de clains.docx; 2023-06-05 10:00:22
+018.20 - Criação de KIT para material.docx; 2023-06-05 13:50:23
+018.21 - Atualização de documento ZAC.docx; 2023-06-05 13:41:07
+018.22 - Ampliação de LT.docx; 2023-06-05 13:40:34
+018.23 - Criar ECM.docx; 2023-06-05 13:54:41
+018.24 - MANUAL DA PCR.docx; 2023-06-02 13:31:03
+018.25 - Consultar Relatório Bloco k.docx; 2023-06-05 07:37:02
+018.26 - Abertura e fechamento do calendário de alternadores.docx; 2023-06-20 07:37:53
+018.27 - Relatório para envio de materiais para WSB.docx; 2023-06-05 07:39:49
+018.3 - Identificação de amterial pelo projeto PS para ripa elétrica.docx; 2023-06-05 13:57:40
+018.4 - Verificação do material no centro produtos.docx; 2022-12-19 10:32:50
+018.5 - Verificação da data de validade da lista técnica.docx; 2023-06-05 14:01:26
+018.6 - Consulta de LT em multi nível para posterior ampliação de materiais.docx; 2023-06-05 13:50:10
+018.7 - Verificação de materiais existentes no centro de produção.docx; 2023-06-05 14:39:50
+018.8 - Ampliar os materiais tipo FERT para o centro produtor.docx; 2023-06-06 09:05:22
+018.9 - Criar LT para os materiais ampliados, utilizando o Workplace.docx; 2022-12-19 10:33:26
+019.0 - Registrar inventário rotativo de estoque.docx; 2023-06-06 08:23:06
+020.0 - Separação das fichas.docx; 2022-12-19 10:33:41
+021.0 - Apontamento Bobinagem, Montagem e Alternadores.docx; 2022-12-19 10:33:50
+022.0 - Conferência de pendências de apontamento.docx; 2022-12-19 10:35:20
+023.0 - Apontamentos Usinagem e Caldeiraria.docx; 2022-12-19 10:38:08
+024.0 - Devolução de embalagens para a IR Usinagem.docx; 2022-12-19 10:35:35
+025.0 - Faturamento de Materiais Subcontratados.docx; 2022-12-19 10:35:42
+026.0 - Faturar pulmão.docx; 2022-12-19 10:36:55
+027.0 - Apontamento de Máquina Mercado Externo.docx; 2022-12-19 10:37:29
+028.0 - Apontamento de Máquinas para Estoque.docx; 2022-12-19 10:37:36
+029.0 - Contagem Cíclica da Expedição.docx; 2022-12-19 10:37:49
+030.0 - Encerrar operações de fábrica.docx; 2022-12-19 10:46:36
+031.0 - Faturamento - Picking - Mercado Interno.docx; 2022-12-19 10:39:25
+032.0 - HU - Mapa Transferência - Expedição Mercado Externo.docx; 2022-12-19 10:39:34
+033.0 - LT0G TRANSAÇÃO.docx; 2022-12-19 10:39:43
+034.0 - Expedição Projetos Trading.docx; 2022-12-19 10:39:50
+035.0 - Expedição KITS GTA Trading.docx; 2022-12-19 10:39:56
+036.0 - Picking Expedição de geradores.docx; 2022-12-19 10:40:03
+037.0 - Enviar materiais para WSB.docx; 2022-12-19 10:40:07
+038.0 - Contagem Cíclica.docx; 2022-12-19 10:40:16
+039.0 - Inventário GTA.docx; 2022-12-19 10:40:23
+040.0 - Receber mercadoria do centro 1320.docx; 2022-12-19 10:40:52
+041.0 - Criar Nota Devoluçao Pallets GTA.docx; 2022-12-19 10:41:01
+042.0 - Enviar Materiais para WEG India.docx; 2022-12-19 10:41:08
+043.0 - Apontamento Mercado Interno Coletor.docx; 2022-12-19 10:41:18
+044.0 - Relatório de movimentação GTA.docx; 2022-12-19 10:41:33
+045.0 - Transferências de Projeto e depósito.docx; 2022-12-19 10:41:41
+046.0 - Verificar Estoque MBBS.docx; 2022-12-19 10:41:49
+047.0 - Clains para Faturamento sem Modelo.docx; 2022-12-19 10:41:57
+049.0 - Envio de Bobinas para Teste Destrutivo em Itajaí.docx; 2022-12-19 10:42:13
+050.0 - Contagem de Estoque por Meio de Inventario Rotativo WEN.docx; 2022-12-19 10:42:32
+051.0 - Cadastrar material depósito 310.docx; 2022-12-19 10:42:42
+052.0 - WM - Exclusão de posição.docx; 2023-06-05 08:09:19
+054.0 - Impressão e entrega de ordens.docx; 2023-06-21 10:04:17
+055.0 - Relatório Entrada de Pedidos.docx; 2023-06-19 09:16:28
+056.0 - Informações dashboard WMS.docx; 2023-06-19 09:18:08
+057.0 - Contagem cíclica da fábrica.docx; 2023-06-19 09:18:45
+058.0 - Procedimento Kanban.docx; 2023-06-19 09:18:53
+059.0 - Programação de dispositivo.docx; 2023-06-19 09:19:01
+060.0 - Planejamento de ripa elétrica WII.docx; 2023-06-19 09:19:12
+061.0 Planejamento do rotor injetado.docx; 2023-06-19 09:19:24
+062.0 Planejamento de dispositivos WII.docx; 2023-06-19 09:19:46
+063.0 - Transferência de depósitos.docx; 2023-06-19 09:19:57
+064.0 - ME54 para inserção de texto de rastreabilidade.docx; 2023-06-19 09:21:53
+065.0 - Transferencia de numero de série já expedidos.docx; 2023-06-19 09:22:01
+066.0 - Geração de Planilhas para Atualização de Quadros Kanban.docx; 2023-06-19 09:24:51
+067.0 - Atualizar baldinho GTA (COTAS) V2.docx; 2023-06-19 09:24:51
+068.0 -  Atualizar o preço no Pedido de Compra.docx; 2023-06-19 09:24:51
+069.0 - Atualizar peso do material no pedido de compra.docx; 2023-06-19 09:24:51
+070.0 - ATUALIZAR PROGRAMAÇÃO DE ORDENS DE PRODUÇÃO EM MASSA.docx; 2023-06-19 09:24:52
+071.0 - Cadastro Cliente x Material MTO - GTA.docx; 2023-06-19 09:24:52
+072.0 - Calendário Modificação.docx; 2023-06-19 09:24:52
+073.0 - Campos de Usuário (Planejamento).docx; 2023-06-19 09:24:52
+074.0 - CM07 Verificar Carga do Centro da Engenharia.docx; 2023-06-19 09:24:52
+075.0 - Configurar Painel de Planejamento CJ20N.docx; 2023-06-19 13:55:02
+076.0 - Consultar Tipo SPED do Material.docx; 2023-06-19 09:24:52
+077.0 - Corrigir deposito ou grupo de carregamento quando não estiver gerando entrega (vl10d).docx; 2023-06-19 09:24:52
+078.0 - Corrigir parâmetro de material quando não estiver gerando entrega (vl10d).docx; 2023-06-19 09:24:52
+079.0 - Criação e alteração de parâmetros de depósito para material.docx; 2023-06-19 09:24:52
+080.0 - Criação e Programação de Ferramentas Especiais.docx; 2023-06-19 09:24:53
+081.0 - CRIAÇÃO E PROGRAMAÇÃO DE SOBRESSALENTES (eliminação do ZAC).docx; 2023-06-19 09:24:53
+082.0 - CRIAÇÃO PEDIDO DE TRANSFERÊNCIA WII para WEN.docx; 2023-06-19 09:24:53
+083.0 - CRIAR CENTRO DE TRABALHO.docx; 2023-06-19 09:24:53
+084.0 - Criar Hierarquias de Centros de Trabalho CR21.docx; 2023-06-19 09:24:53
+085.0 - CRIAR PEP STANDARD e DIAGRAMA DE REDE.docx; 2023-06-19 09:24:44
+086.0 - Criar Variantes SAP.docx; 2023-06-19 09:24:44
+087.0 - Eliminar UC e Remessa.docx; 2023-06-19 09:24:45
+088.0 - Embalar HU.docx; 2023-06-19 09:24:45
+089.0 - Encontrar nº da OV a partir da Nota Fiscal (ZJ1B3N).docx; 2023-06-19 09:24:45
+090.0 - Erro para incluir perfil de número de série em itens finais.docx; 2023-06-19 09:24:45
+091.0 - MB21 reserva tipo mov 201.docx; 2023-06-19 09:24:45
+092.0 - MC95 - verificação de cotas-baldinho.docx; 2023-06-19 09:24:45
+093.0 - Modificação de Calendário - GTA.docx; 2023-06-19 09:24:46
+094.0 - Ordem de Desmontagem.docx; 2023-06-19 09:24:46
+095.0 - Ordens Descartadas ENTE sem MREL.docx; 2023-06-19 09:24:46
+096.0 - Ordens sendo gerados todas para o mesmo dia (início da semana).docx; 2023-06-19 09:24:47
+097.0 - Parametrização de Avaliação de Capacidades MPS GTA.docx; 2023-06-19 09:24:47
+098.0 - Pré-Paletização.docx; 2023-06-21 10:10:46
+099.0 - Problema no Programa de Remessa.docx; 2023-06-21 10:13:02
+100.0 - Problema para baixar o material via co27 ou BPE.docx; 2023-06-19 09:24:48
+101.0 - Problemas com a hierarquia de materiais.docx; 2023-06-19 09:24:48
+102.0 - Problemas para liberar OP.docx; 2023-06-19 09:24:48
+103.0 - Projetos com Controle de Disponibilidade.docx; 2023-06-19 09:24:48
+104.0 - Projetos com CPC47.docx; 2023-06-19 09:24:48
+105.0 - Substituição na ordem de produção de material não a granel para material a granel.docx; 2023-06-19 09:24:49
+106.0 - Sobre o RS02.docx; 2023-06-19 09:24:49
+107.0 - Transferir material de estoque de projeto para livre.docx; 2023-06-19 09:24:49
+108.0 - Verificações para materiais sem hierarquia de cotas.docx; 2023-06-19 09:24:50
+109.0 - Verificar Configurador VC.docx; 2023-06-19 09:24:51
+110.0 - Verificar materiais faltantes.docx; 2023-06-19 09:24:51
+111.0 - Manual de fechamento alterandores.docx; 2023-06-20 08:00:10
+112.0 Liberação de ordens - Caldeiraria.docx; 2023-07-07 09:59:40
+113. Emitir NF para retirada de caçamba de efluente.docx; 2023-11-17 14:27:15
+114.0 - APONTAMENTOS USINAGEM E CALDEIRARIA.docx; 2024-02-13 13:19:20
+114.1 - CONFERÊNCIA DE APONTAMENTO NAS ORDENS DE MONTAGENS.docx; 2024-02-13 13:19:35
+114.2 - APONTAMENTO BOBINAGEM, MONTAGEM E ALTERNADORES.docx; 2024-02-13 13:19:46
+115.0 - Devolução de embalagens para IR.docx; 2024-02-13 13:19:56
+116.0 - Faturamento de materiais subcontratados.docx; 2024-02-13 13:20:07
+116.1 - Faturamento pulmão.docx; 2024-02-13 13:20:19
+117.0 - Apontar máquina.docx; 2024-02-13 13:20:31
+118.0 - Transferência de projeto e depósito.docx; 2024-02-13 13:20:47
+119.0 - Encerrar operações da fábrica.docx; 2024-02-13 13:21:01
+120.0 - Picking MI.docx; 2024-02-13 13:21:10
+120.1 - Picking ME.docx; 2024-02-13 13:21:19
+120.2 - Picking MI - GTA.docx; 2024-02-13 13:21:43
+121.0 - Cadastrar material no depósito 310.docx; 2024-02-13 13:21:57
+122.0 - Expedir TRADE.docx; 2024-02-13 13:22:07
+132.0  - Envio de material pra WSB.docx; 2024-02-13 13:22:16
+133.0 - Alterar Centro de Produção e de Lucro Para Maquinas em WSB.docx; 2024-05-03 15:40:11
+MANUAL EXPLICATIVO DO KANBAN ELETRÔNICO.docx; 2024-03-20 08:11:27.321357
+Procedimento  Geradores Exportação.docx; 2024-04-16 22:42:48
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PPC_AI_Procedures\ppc_secretary:
+Diario_de_Bordo.docx; 2024-05-21 08:27:01.389497
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\PPC_AI_Procedures\rules:
+WPM-1724.docx; 2024-05-21 10:17:36.264346
+WPM-22641.docx; 2024-05-21 10:15:43.708442
+WPM-22685.docx; 2024-05-21 10:15:18.922219
+WPM-2412.docx; 2024-05-21 10:17:12.013863
+WPM-2626.docx; 2024-05-21 10:16:46.636538
+WPM-2642.docx; 2024-05-21 10:16:08.908258
+WPM-48914.docx; 2024-05-21 10:14:41.965059
+WPR-6884.docx; 2024-05-21 10:14:05.409436
+WPS-21319.docx; 2024-05-21 10:11:36.003489
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\01 - Ampliar Lista Técnica:
-Ampliar_LT_1100.xlsm; 2024-05-20 14:24:33.094094
-Ampliar_LT_1200.xlsm; 2024-05-20 14:22:04.768875
-Ampliar_LT_1201.xlsm; 2024-05-20 14:22:38.586602
+Ampliar_LT_1100.xlsm; 2024-05-22 08:07:40.196134
+Ampliar_LT_1200.xlsm; 2024-05-22 08:04:18.045169
+Ampliar_LT_1201.xlsm; 2024-05-22 08:05:34.445864
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\03 - Cobrança Materiais Faltantes:
 COB-FR.xlsm; 2022-10-03 13:33:49.752160
@@ -13684,7 +13968,7 @@ TV_teste.xlsm; 2022-07-13 10:03:28.853594
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados:
 15_dias_projetos_nao_supervisionados.xlsm; 2023-05-04 22:44:12.107320
 Lista_de_Materiais_Pendentes - Backup.xlsm; 2024-05-16 07:25:36.373427
-Lista_de_Materiais_Pendentes.xlsm; 2024-05-20 07:51:08.615968
+Lista_de_Materiais_Pendentes.xlsm; 2024-05-22 07:09:42.904910
 projetos_nao_supervisionados_CONSIDERA_KANBAN.xlsm; 2023-09-08 09:02:58.438198
 Status_Comprados.xlsm; 2022-12-15 08:11:32.720178
 ~$Lista_de_Materiais_Pendentes.xlsm; 2024-04-15 22:00:12.920519
@@ -13709,8 +13993,8 @@ Pendencias_412.xlsm; 2022-08-25 15:00:44.745736
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Programadores:
 Cópia de Lista_de_Materiais_Pendentes 24.04.xlsm; 2024-04-24 09:57:51.342683
-Lista_pendencias_hoje.xlsm; 2024-05-20 07:23:46.054348
-Lista_pendencias_ontem.xlsm; 2024-05-17 22:00:23.742686
+Lista_pendencias_hoje.xlsm; 2024-05-21 23:18:11.185415
+Lista_pendencias_ontem.xlsm; 2024-05-21 22:00:19.152169
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Programadores\Tabela para Auxiliar o Fechamento do GTA:
 Avaliação da Programação Alternadores.xlsm; 2024-05-09 15:45:41.222886
@@ -13722,9 +14006,9 @@ Geração automatica da diferença ZTPP176 - ZTPP107 .xlsm; 2024-05-09 14:37:20.
 V1 - Avaliação da Programação Alternadores.xlsm; 2023-11-09 15:06:04.587178
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Unificado Compras:
-compras.xlsb; 2024-05-20 08:17:24.346980
+compras.xlsb; 2024-05-22 07:03:53.107649
 projetos_lista_materiaiscopia - Copia.xlsm; 2022-08-16 07:19:08.497162
-projetos_lista_materiaiscopia.xlsm; 2024-05-20 08:17:35.713312
+projetos_lista_materiaiscopia.xlsm; 2024-05-22 07:04:04.855701
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situação Comprados\Unificado Compras\Pelo pedido:
 projetos_lista_materiaiscopia.xlsm; 2023-02-23 10:51:01.797837
@@ -13737,7 +14021,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\04 - Situaç�
 projetos_lista_materiais_WSB_V02.xlsm; 2022-07-19 09:45:44.695995
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\08 - Sequenciamento GTA:
-TV_teste.xlsm; 2024-05-20 09:30:54.227556
+TV_teste.xlsm; 2024-05-22 10:40:55.013884
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\11 - Kanban digital:
 Kanban_Digital_JGS.pbix; 2024-05-20 13:42:32.004107
@@ -13810,7 +14094,7 @@ alterar_ordem_Planejada_MD12.xlsm; 2022-12-15 18:49:54.327676
 alterar_ordem_vestas.xlsm; 2022-12-15 18:38:53.081795
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\34 - Apontamento automatizado:
-Apontamento_automatizado_de_ordens.xlsm; 2024-05-17 01:42:03.273343
+Apontamento_automatizado_de_ordens.xlsm; 2024-05-21 01:37:29.553722
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\35 - Alterar data Ordem:
 Alteração chave.xlsm; 2022-10-04 12:49:13.627555
@@ -13838,7 +14122,7 @@ monitoramento_projetos.xlsm; 2022-05-23 15:50:20.535404
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\43 - Acompanhamento carteira:
 Acompanhamento_carteira_mensal.xlsm; 2022-07-09 14:31:13.222608
 
-Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\44 - Pedidos de compra:
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\44 - Pedidos de compra - Antigo:
 Pedidos_de_compra_JGS.xlsm; 2022-11-30 08:40:44.229609
 Pedidos_de_compra_TGM.xlsm; 2022-08-02 13:57:42.062161
 Pedidos_de_compra_WEM.xlsm; 2022-06-23 16:22:12.316628
@@ -13896,7 +14180,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\53 - Encerram
 Ordens não encerradas Tecnicamente.xlsm; 2024-01-22 12:52:32.590542
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\54 - Conferir projeto:
-Acompanhamento_projetos_kanban_eletronico.xlsm; 2024-05-17 15:19:41.118676
+Acompanhamento_projetos_kanban_eletronico.xlsm; 2024-05-21 10:07:52.313468
 ~$Acompanhamento_projetos_kanban_eletronico.xlsm; 2023-02-02 17:23:49.032050
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\54 - Conferir projeto\47 - Posterga material:
@@ -13932,7 +14216,7 @@ Quadro kanban Usinagem Leve.pbix; 2022-12-08 11:18:31.054898
 Quadro kanban Usinagem Pesada.pbix; 2022-07-28 13:02:55.974785
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\58 - Acompanhamento gerencial:
-Disponibilidade_vs_estoque.xlsm; 2024-05-17 18:13:45.373614
+Disponibilidade_vs_estoque.xlsm; 2024-05-22 05:55:01.910979
 Disponibilidade_vs_estoque2.xlsm; 2022-12-16 08:53:03.314461
 Disponibilidade_vs_estoqueTeste.xlsm; 2022-10-05 18:04:28.395800
 projetos_nao_supervisionados_CONSIDERA_KANBAN.xlsm; 2022-08-19 09:41:10.749211
@@ -13995,7 +14279,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\65 - Acompanh
 Pendencias_Nordex.xlsm; 2022-08-09 10:56:37.889226
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\66 - Acompanhamento dos Motores:
-Acompanhamento dos Motores.xlsm; 2024-05-20 08:35:10.712424
+Acompanhamento dos Motores.xlsm; 2024-05-22 08:34:29.594088
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\66 - Acompanhamento dos Motores\2022:
 Acompanhamento dos Motores.xlsm; 2023-01-23 08:06:41.583325
@@ -14038,7 +14322,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\77 - Bloquear
 bloquear ordens.xlsm; 2022-11-07 16:19:12.054404
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\79 - Planilha Automação:
-DadosINAutomação.xlsm; 2024-05-20 07:42:19.938693
+DadosINAutomação.xlsm; 2024-05-22 07:11:32.884643
 DadosINAutomaçãoV2.xlsm; 2024-02-16 15:19:38.350845
 DadosPrensar.xlsm; 2024-03-19 07:16:45.507058
 
@@ -14075,7 +14359,7 @@ consumir.xlsm; 2022-11-03 13:51:35.782236
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\88 - Verificação MD19:
 Verificacao MD19_rev00.xlsm; 2023-10-26 07:36:25.892974
-Verificacao MD19_Rev01.xlsm; 2024-04-17 10:48:03.462549
+Verificacao MD19_Rev01.xlsm; 2024-05-21 10:20:37.536241
 ~$consumir.xlsm; 2022-10-17 05:21:43.866038
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\89 - Quadro de compras 2.0:
@@ -14087,8 +14371,8 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\90 - VSM Subc
 VSM subcontratados Final (003).xlsm; 2022-10-24 15:09:26.114569
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\91 - Sem LT:
-Detectar_sem_LT.xlsm; 2024-05-20 09:51:09.890199
-Sem_Lista_Tecnica.txt; 2024-05-20 09:56:14.436106
+Detectar_sem_LT.xlsm; 2024-05-22 10:10:34.755613
+Sem_Lista_Tecnica.txt; 2024-05-22 10:09:56.562297
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\92 - Macro Liberação:
 CM07.txt; 2024-02-09 09:50:50.187847
@@ -14175,8 +14459,8 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A013 - Movime
 TABELA A - Previsão Custo Manutenção Empilhadeiras.pdf; 2023-03-08 07:34:05.349874
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A014 - Apontamentos Ontem:
-Informações.xlsm; 2024-05-20 07:48:32.347068
-MBBS.txt; 2024-05-20 07:34:49.242679
+Informações.xlsm; 2024-05-22 07:19:22.858741
+MBBS.txt; 2024-05-22 07:17:47.059113
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A015 - Colocar Depósito:
 Inserir Deposito.xlsm; 2023-02-13 11:51:16.285903
@@ -14190,7 +14474,7 @@ Modificar planejador.xlsm; 2023-01-26 09:51:47.528475
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A017 - Email PCR:
 PCR_MOD_WEN_ZTPCR004 - Rohan R2.xlsm; 2024-04-25 08:26:51.043480
-PCR_MOD_WEN_ZTPCR004.xlsm; 2024-05-17 16:39:07.466711
+PCR_MOD_WEN_ZTPCR004.xlsm; 2024-05-21 16:38:51.159362
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A017 - Email PCR\Dados_Colaboradores:
 Dados_Colaboradores_R1.xlsm; 2024-03-08 16:31:58.996248
@@ -14357,11 +14641,11 @@ Bloco K.xlsm; 2024-04-30 10:03:55.643015
 blocoK.txt; 2024-04-30 09:35:31.374048
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A037 - Cobrança Engenharia Industrial:
-CobrançaI.xlsm; 2024-05-14 10:54:56.607112
+CobrançaI.xlsm; 2024-05-21 09:58:32.605285
 RELATORIO_DE_COBRANCA_IEA.txt; 2023-06-20 08:07:10.439203
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A038 - Cobrança Engenharia do Produto:
-Cobrança.xlsm; 2024-05-14 10:52:30.296331
+Cobrança.xlsm; 2024-05-21 10:24:32.574349
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Processos com Automatização\A039 - Parâmetros Dispositivos:
 CM07.txt; 2023-05-05 12:55:33.208879
@@ -14502,7 +14786,7 @@ caminho_rede.txt; 2023-10-18 16:37:19.509509
 CM07_1206.txt; 2023-03-03 09:35:55.346499
 codigo criar executável Python.txt; 2024-02-14 08:45:50.892134
 compras.txt; 2024-04-15 16:06:44.520668
-COOIS.txt; 2024-05-17 00:40:37.293647
+COOIS.txt; 2024-05-22 00:40:39.210573
 dados.txt; 2023-03-23 09:01:16.485480
 Default Python.docx; 2024-03-04 16:34:25.416407
 Detectar_sem_LT.xlsm; 2022-11-28 09:08:14.127695
@@ -14549,8 +14833,8 @@ Recover 18991230 Pedidos_de_compra_WSB.xlsm; 2022-09-21 13:50:35.078007
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Arquivos\Teste:
 baseDeDados.txt; 2022-07-20 15:52:05.066915
-macro.xlsm; 2024-05-17 19:06:04.129264
-macro2.xlsm; 2024-05-17 19:11:21.776262
+macro.xlsm; 2024-05-20 19:05:43.004575
+macro2.xlsm; 2024-05-20 19:10:44.777725
 valores.txt; 2022-07-20 15:52:23.821966
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Encerramento Técnico:
@@ -14586,7 +14870,7 @@ MáquinasApontadasnoEstoque.xlsm; 2024-05-12 17:14:41.113762
 OrdensNãoEncerradasTecnicamente.xlsm; 2024-05-12 17:38:15.119918
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Executar_Automatico\Cintia:
-Workflow_Ampliar_1100.xlsm; 2024-05-18 05:08:41.067862
+Workflow_Ampliar_1100.xlsm; 2024-05-22 05:04:21.349251
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Lista Técnica - verificação de consistencia ECM:
 alteracao lista tecnica PWQP ECM R11.xlsm; 2024-04-25 11:22:06.803014
@@ -14599,7 +14883,7 @@ AmpliarLT1201.xlsm; 2022-11-03 14:56:22.996123
 AmpliarLT1201Cintia.xlsm; 2023-09-11 12:38:26.238720
 ApontadoOntem.xlsm; 2022-10-17 08:23:55.651247
 Atualizar_Encerramento.xlsm; 2022-11-17 08:15:07.405682
-EnviarEmails.xlsm; 2024-05-17 03:00:05.562981
+EnviarEmails.xlsm; 2024-05-22 03:00:07.780848
 Expedição.xlsm; 2024-04-05 12:02:43.578018
 Expedição2021.xlsm; 2022-07-12 09:51:25.272622
 PCR.xlsm; 2023-05-30 10:30:55.129214
@@ -14613,7 +14897,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Média Estoques:
 Atualizar a cada 3 meses Rol diario.docx; 2023-11-21 15:14:39.340182
 Estoque Médio Protótipo - Copia.pbix; 2022-08-03 10:48:12.409502
 Estoque Médio Protótipo.pbix; 2022-09-21 09:42:37.300173
-Materiais_Hoje.xlsm; 2024-05-15 00:41:03.884805
+Materiais_Hoje.xlsm; 2024-05-22 00:41:02.192403
 MediaEstoqueTeste.xlsm; 2024-01-18 09:38:38.275938
 Média de Estoques.xlsm; 2024-01-18 09:38:51.690791
 Sobras.xlsm; 2022-11-08 14:49:16.490205
@@ -14639,6 +14923,245 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\PlanxReal:
 Planejado x Realizado (NOVO).pbix; 2022-07-07 08:16:22.546272
 PlanxReal - Coois.txt; 2024-05-07 14:23:23.192229
 
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\ProcedimentosPCP:
+001.0 - Contagem cíclica na expedição - Alternadores.docx; 2024-05-15 10:49:52
+001.1 - Contagem cíclica na expedição - baixa, média e alta tensão.docx; 2023-06-06 08:54:25
+001.2 - Inventário depósito SAD.docx; 2023-06-05 08:01:50
+002.0 - Enviar materiais para depósito de reaproveitamento (BA01).docx; 2023-06-06 08:12:21
+002.1 - Criar reserva para BA01.docx; 2023-06-06 08:23:05
+002.2 - Cadastrar depósito remoto.docx; 2023-06-06 08:24:50
+002.3 - Criar QC para envio.docx; 2023-06-06 08:23:05
+003.0 - Criar ordem de transformação (RP).docx; 2023-06-06 08:24:05
+003.1 - Baixar item - De - na RP.docx; 2023-06-06 09:00:25
+003.2 - Criar ordem para novo gerador De-Para.docx; 2023-06-06 08:37:07
+003.3 - Criar ordem para devolução dos materiais que retornam.docx; 2023-06-06 08:36:37
+003.4 - Entrada da ordem de devolução no estoque.docx; 2023-06-06 08:37:07
+003.5 - Localizar número de série pela MD04.docx; 2023-06-06 08:37:22
+003.6 - Tratativas com o item do gerador - De.docx; 2023-06-06 08:37:22
+004.0 - Apontamento de alternadores para o mercado interno.docx; 2023-06-06 08:46:23
+004.1 - Confirmar OT.docx; 2023-06-06 08:45:23
+004.2 - Cadastrar UD.docx; 2023-06-06 08:44:23
+005.0 - Apontamento de alternadores para o mercado externo.docx; 2023-06-06 08:45:38
+006.0 - Procedimento para solicitar materiais KANBAN.docx; 2023-06-06 08:55:09
+007.0 - Solicitação de material kanban vestas.docx; 2023-06-06 08:55:09
+008.0 - Processar CLAIM e ECM.docx; 2023-06-06 08:12:04
+008.1 - Modificações via Claim.docx; 2023-06-06 08:11:20
+008.2 - Modificações via ECM.docx; 2023-06-06 08:11:50
+009.0 - Controlar a Produção.docx; 2023-06-05 12:38:47
+009.1 - Abertura para ordem de retrabalho.docx; 2023-06-05 11:01:30
+009.10 - Estorno de materiais via transação MBST.docx; 2023-06-05 12:45:35
+009.11 - Estorno de ordens de produção - Operações.docx; 2024-05-14 08:00:52
+009.12 - Modificações em lista de operações.docx; 2023-06-05 12:49:38
+009.13 - Modificações em LT na ordem de produção.docx; 2023-06-05 12:49:52
+009.14 - Transferência de material entre depósitos conforme necessidade.docx; 2023-06-05 12:54:10
+009.15 - Transferência manual entre depósitos.docx; 2024-05-14 08:02:18
+009.2 - Apontamento de ordens de produção em estoque.docx; 2023-06-05 11:01:24
+009.3 - Apontamento de ordens de produção-operações.docx; 2024-05-09 14:38:09
+009.4 - Consulta de materiais em trânsito.docx; 2023-06-05 12:37:02
+009.5 - Consulta de medidas - nota QM.docx; 2023-06-05 12:37:32
+009.6 - Consumo de materiais para nota QM.docx; 2023-06-02 13:29:34
+009.7 - Consumo de materiais por lista de picking.docx; 2023-06-05 12:38:16
+009.8 - Encerramento técnico de ordem de produção.docx; 2023-06-05 12:39:17
+009.9 - Entrada de Mercadorias.docx; 2022-12-19 10:46:18
+010.0 - Planejamento de Materiais por MPS.docx; 2023-06-05 08:10:35
+011.0 - Planejar Partes e Peças - WNT.docx; 2023-06-05 08:18:52
+011.1 - Alteração da ordem de venda de partes e peças - WNT.docx; 2023-06-05 08:13:35
+011.2 - Criação da ordem de venda de partes e peças - WNT.docx; 2023-06-05 08:15:06
+011.3 - Fixação de ordem planejada e inserção de texto.docx; 2023-06-05 08:20:19
+011.4 - Geração de proforma para ordem de venda - WNT.docx; 2023-06-05 08:20:35
+011.5 -Criação de Claim.docx; 2023-06-05 08:19:51
+012.0 - Planejamento Partes e Peças - WEU.docx; 2023-06-05 08:29:20
+012.1 - Alteração da ordem de venda de partes e peças - WEU.docx; 2023-06-05 08:26:36
+012.2 - Gerar proforma para ordem de venda - WEU.docx; 2023-06-05 08:28:50
+013.0 - Planejamento Partes e Peças - WMX.docx; 2023-06-05 08:35:51
+013.1 - Alteração da ordem de venda de partes e peças - WMX.docx; 2023-06-05 08:31:05
+013.2 - Geração proforma para ordem de venda - WMX.docx; 2023-06-05 08:31:36
+013.3 - Criação da ordem de venda de partes e peças - WMX.docx; 2023-06-05 08:31:35
+014.0 - Modificar Ordens de Vendas e Produto.docx; 2023-06-05 08:44:40
+014.1 - Aplicação do agrupador de modificação na ordem de venda.docx; 2023-06-05 08:36:36
+014.2 - Conclusão de atividades PS para ordem de venda cancelada.docx; 2023-06-21 10:32:50
+014.3 - Modificação de ordem de venda sem agrupador - cancelamento.docx; 2023-06-05 08:37:21
+014.4- Modificações de componentes no projeto via ECM.docx; 2023-06-05 08:43:46
+014.5 - Planejamento de atividades de revisão para engenharia.docx; 2022-12-19 10:00:52
+015.0 - Planejar Materiais e Capacidades.docx; 2023-06-05 09:11:54
+015.1 - Conversão de ordens planejadas para status aberto.docx; 2022-12-19 10:01:43
+015.10 - Pesquisa de desenhos na ordem de venda.docx; 2023-06-05 08:56:53
+015.11 - Pesquisa de desenhos no mestre de material.docx; 2023-06-05 08:57:08
+015.12 - Pesquisa de materiais na lista técnica.docx; 2023-06-05 09:11:37
+015.13 - Verificação de ordens sem roteiro no período de liberação.docx; 2023-06-05 09:12:09
+015.2 - Conversão de status atual para aberto.docx; 2023-06-05 08:49:07
+015.3 - Erro na liberação manual - pendência de Workflow.docx; 2023-06-05 08:50:37
+015.4 - Impressão da ordem de venda.docx; 2023-06-21 10:01:31
+015.5 - Impressão de desenhos.docx; 2023-06-05 08:51:22
+015.6 - Impressão, modificações e consultas em ordem de produção.docx; 2023-06-05 08:51:52
+015.7 - Liberação coletiva de ordens.docx; 2023-06-05 08:56:07
+015.8 - Liberação manual de ordens.docx; 2023-06-05 08:56:22
+015.9 - Mensação de exceção.docx; 2023-06-05 08:56:37
+016.0 - Planejar Projeto.docx; 2023-06-05 10:47:53
+016.1 - Abrir ordem de retrabalho.docx; 2023-06-05 09:13:23
+016.10 - Liberação de elementos PEP.docx; 2023-06-05 10:34:40
+016.11 - Liberação do produto final para planejamento MPS.docx; 2023-06-05 10:34:40
+016.12 - Modificações de materiais.docx; 2023-06-05 10:10:38
+016.13 - Planejamento de materiais por RIPA.docx; 2023-06-05 10:46:04
+016.14 - Planejamento do produto no projeto.docx; 2023-06-05 10:47:03
+016.15 - Preenchimento da norma de apropriação do projeto.docx; 2023-06-05 10:48:35
+016.16 - Programação das atividades para engenharia.docx; 2023-06-05 10:49:05
+016.17- Verificação de disponibilidade para data de planejamento.docx; 2023-06-05 11:03:07
+016.18 - Verificação de disponibilidade.docx; 2023-06-05 10:59:08
+016.2 - Atribuição de elementos ao Elemento PEP MRP.docx; 2023-06-05 09:13:52
+016.3 - Avaliação para programação de Engenharia.docx; 2023-06-05 09:56:06
+016.4 - Comentário nas ordens planejadas.docx; 2023-06-05 09:58:21
+016.5 - Conferência de prazo na ordem de venda.docx; 2023-06-05 09:59:08
+016.6 - Consulta de medidas e impressões de clains - IQS9.docx; 2022-12-19 10:04:45
+016.7 - Criação e modificação de grupo de produto.docx; 2023-06-05 09:59:54
+016.8 - Encaminhamento de claim ZC para as áreas.docx; 2023-06-05 10:09:10
+016.9 - Inclusão de rede de planejamento e componentes.docx; 2023-06-05 10:47:04
+017.0 - Criação de templates.docx; 2023-06-06 08:01:04
+017.1 - Criação PEP Standard.docx; 2023-06-06 08:01:19
+017.2 - Criação diagrama de rede standard.docx; 2022-12-19 10:05:23
+017.3 - Criação chave de modelo.docx; 2023-06-06 07:56:47
+017.4 - Ligação do código gap apontamento na rede standard.docx; 2023-06-06 08:10:04
+018.0 - Ampliação de materiais e listas técnicas.docx; 2023-06-05 13:40:37
+018.1 - Verificação de projetos liberados por centro de trabalho.docx; 2023-06-05 14:35:33
+018.10 - Modificação de LT ou criação de LT.docx; 2023-06-05 13:58:59
+018.11 - Comparação de lista técnica.docx; 2023-06-05 13:41:21
+018.12 - Consulta de documento dimensional da máquina.docx; 2023-06-05 13:49:38
+018.13 - Alteração do mestre de material, inclusão de peso.docx; 2023-06-05 13:39:50
+018.14 - Verificação de pendências, consistências na liberação de material.docx; 2023-06-05 14:09:29
+018.15 - Conclusão da atividade do projeto PS.docx; 2023-06-05 13:48:53
+018.16 - Liberação e conclusão de medida através de claim.docx; 2023-06-05 13:58:14
+018.17 - Criação de materiais para documento ZAC pelo PS.docx; 2023-06-05 13:50:53
+018.18 - Variação de peso e descrição dos materiais ampliados para criação dos KITS.docx; 2023-06-05 13:59:42
+018.19 - Identificação de KIT já criado para o material sobressalente solicitado.docx; 2022-12-19 10:31:53
+018.2 - Consulta de medidas e impressão de clains.docx; 2023-06-05 10:00:22
+018.20 - Criação de KIT para material.docx; 2023-06-05 13:50:23
+018.21 - Atualização de documento ZAC.docx; 2023-06-05 13:41:07
+018.22 - Ampliação de LT.docx; 2023-06-05 13:40:34
+018.23 - Criar ECM.docx; 2023-06-05 13:54:41
+018.24 - MANUAL DA PCR.docx; 2023-06-02 13:31:03
+018.25 - Consultar Relatório Bloco k.docx; 2023-06-05 07:37:02
+018.26 - Abertura e fechamento do calendário de alternadores.docx; 2023-06-20 07:37:53
+018.27 - Relatório para envio de materiais para WSB.docx; 2023-06-05 07:39:49
+018.3 - Identificação de amterial pelo projeto PS para ripa elétrica.docx; 2023-06-05 13:57:40
+018.4 - Verificação do material no centro produtos.docx; 2022-12-19 10:32:50
+018.5 - Verificação da data de validade da lista técnica.docx; 2023-06-05 14:01:26
+018.6 - Consulta de LT em multi nível para posterior ampliação de materiais.docx; 2023-06-05 13:50:10
+018.7 - Verificação de materiais existentes no centro de produção.docx; 2023-06-05 14:39:50
+018.8 - Ampliar os materiais tipo FERT para o centro produtor.docx; 2023-06-06 09:05:22
+018.9 - Criar LT para os materiais ampliados, utilizando o Workplace.docx; 2022-12-19 10:33:26
+019.0 - Registrar inventário rotativo de estoque.docx; 2023-06-06 08:23:06
+020.0 - Separação das fichas.docx; 2022-12-19 10:33:41
+021.0 - Apontamento Bobinagem, Montagem e Alternadores.docx; 2022-12-19 10:33:50
+022.0 - Conferência de pendências de apontamento.docx; 2022-12-19 10:35:20
+023.0 - Apontamentos Usinagem e Caldeiraria.docx; 2022-12-19 10:38:08
+024.0 - Devolução de embalagens para a IR Usinagem.docx; 2022-12-19 10:35:35
+025.0 - Faturamento de Materiais Subcontratados.docx; 2022-12-19 10:35:42
+026.0 - Faturar pulmão.docx; 2022-12-19 10:36:55
+027.0 - Apontamento de Máquina Mercado Externo.docx; 2022-12-19 10:37:29
+028.0 - Apontamento de Máquinas para Estoque.docx; 2022-12-19 10:37:36
+029.0 - Contagem Cíclica da Expedição.docx; 2022-12-19 10:37:49
+030.0 - Encerrar operações de fábrica.docx; 2022-12-19 10:46:36
+031.0 - Faturamento - Picking - Mercado Interno.docx; 2022-12-19 10:39:25
+032.0 - HU - Mapa Transferência - Expedição Mercado Externo.docx; 2022-12-19 10:39:34
+033.0 - LT0G TRANSAÇÃO.docx; 2022-12-19 10:39:43
+034.0 - Expedição Projetos Trading.docx; 2022-12-19 10:39:50
+035.0 - Expedição KITS GTA Trading.docx; 2022-12-19 10:39:56
+036.0 - Picking Expedição de geradores.docx; 2022-12-19 10:40:03
+037.0 - Enviar materiais para WSB.docx; 2022-12-19 10:40:07
+038.0 - Contagem Cíclica.docx; 2022-12-19 10:40:16
+039.0 - Inventário GTA.docx; 2022-12-19 10:40:23
+040.0 - Receber mercadoria do centro 1320.docx; 2022-12-19 10:40:52
+041.0 - Criar Nota Devoluçao Pallets GTA.docx; 2022-12-19 10:41:01
+042.0 - Enviar Materiais para WEG India.docx; 2022-12-19 10:41:08
+043.0 - Apontamento Mercado Interno Coletor.docx; 2022-12-19 10:41:18
+044.0 - Relatório de movimentação GTA.docx; 2022-12-19 10:41:33
+045.0 - Transferências de Projeto e depósito.docx; 2022-12-19 10:41:41
+046.0 - Verificar Estoque MBBS.docx; 2022-12-19 10:41:49
+047.0 - Clains para Faturamento sem Modelo.docx; 2022-12-19 10:41:57
+049.0 - Envio de Bobinas para Teste Destrutivo em Itajaí.docx; 2022-12-19 10:42:13
+050.0 - Contagem de Estoque por Meio de Inventario Rotativo WEN.docx; 2022-12-19 10:42:32
+051.0 - Cadastrar material depósito 310.docx; 2022-12-19 10:42:42
+052.0 - WM - Exclusão de posição.docx; 2023-06-05 08:09:19
+054.0 - Impressão e entrega de ordens.docx; 2023-06-21 10:04:17
+055.0 - Relatório Entrada de Pedidos.docx; 2023-06-19 09:16:28
+056.0 - Informações dashboard WMS.docx; 2023-06-19 09:18:08
+057.0 - Contagem cíclica da fábrica.docx; 2023-06-19 09:18:45
+058.0 - Procedimento Kanban.docx; 2023-06-19 09:18:53
+059.0 - Programação de dispositivo.docx; 2023-06-19 09:19:01
+060.0 - Planejamento de ripa elétrica WII.docx; 2023-06-19 09:19:12
+061.0 Planejamento do rotor injetado.docx; 2023-06-19 09:19:24
+062.0 Planejamento de dispositivos WII.docx; 2023-06-19 09:19:46
+063.0 - Transferência de depósitos.docx; 2023-06-19 09:19:57
+064.0 - ME54 para inserção de texto de rastreabilidade.docx; 2023-06-19 09:21:53
+065.0 - Transferencia de numero de série já expedidos.docx; 2023-06-19 09:22:01
+066.0 - Geração de Planilhas para Atualização de Quadros Kanban.docx; 2023-06-19 09:24:51
+067.0 - Atualizar baldinho GTA (COTAS) V2.docx; 2023-06-19 09:24:51
+068.0 -  Atualizar o preço no Pedido de Compra.docx; 2023-06-19 09:24:51
+069.0 - Atualizar peso do material no pedido de compra.docx; 2023-06-19 09:24:51
+070.0 - ATUALIZAR PROGRAMAÇÃO DE ORDENS DE PRODUÇÃO EM MASSA.docx; 2023-06-19 09:24:52
+071.0 - Cadastro Cliente x Material MTO - GTA.docx; 2023-06-19 09:24:52
+072.0 - Calendário Modificação.docx; 2023-06-19 09:24:52
+073.0 - Campos de Usuário (Planejamento).docx; 2023-06-19 09:24:52
+074.0 - CM07 Verificar Carga do Centro da Engenharia.docx; 2023-06-19 09:24:52
+075.0 - Configurar Painel de Planejamento CJ20N.docx; 2023-06-19 13:55:02
+076.0 - Consultar Tipo SPED do Material.docx; 2023-06-19 09:24:52
+077.0 - Corrigir deposito ou grupo de carregamento quando não estiver gerando entrega (vl10d).docx; 2023-06-19 09:24:52
+078.0 - Corrigir parâmetro de material quando não estiver gerando entrega (vl10d).docx; 2023-06-19 09:24:52
+079.0 - Criação e alteração de parâmetros de depósito para material.docx; 2023-06-19 09:24:52
+080.0 - Criação e Programação de Ferramentas Especiais.docx; 2023-06-19 09:24:53
+081.0 - CRIAÇÃO E PROGRAMAÇÃO DE SOBRESSALENTES (eliminação do ZAC).docx; 2023-06-19 09:24:53
+082.0 - CRIAÇÃO PEDIDO DE TRANSFERÊNCIA WII para WEN.docx; 2023-06-19 09:24:53
+083.0 - CRIAR CENTRO DE TRABALHO.docx; 2023-06-19 09:24:53
+084.0 - Criar Hierarquias de Centros de Trabalho CR21.docx; 2023-06-19 09:24:53
+085.0 - CRIAR PEP STANDARD e DIAGRAMA DE REDE.docx; 2023-06-19 09:24:44
+086.0 - Criar Variantes SAP.docx; 2023-06-19 09:24:44
+087.0 - Eliminar UC e Remessa.docx; 2023-06-19 09:24:45
+088.0 - Embalar HU.docx; 2023-06-19 09:24:45
+089.0 - Encontrar nº da OV a partir da Nota Fiscal (ZJ1B3N).docx; 2023-06-19 09:24:45
+090.0 - Erro para incluir perfil de número de série em itens finais.docx; 2023-06-19 09:24:45
+091.0 - MB21 reserva tipo mov 201.docx; 2023-06-19 09:24:45
+092.0 - MC95 - verificação de cotas-baldinho.docx; 2023-06-19 09:24:45
+093.0 - Modificação de Calendário - GTA.docx; 2023-06-19 09:24:46
+094.0 - Ordem de Desmontagem.docx; 2023-06-19 09:24:46
+095.0 - Ordens Descartadas ENTE sem MREL.docx; 2023-06-19 09:24:46
+096.0 - Ordens sendo gerados todas para o mesmo dia (início da semana).docx; 2023-06-19 09:24:47
+097.0 - Parametrização de Avaliação de Capacidades MPS GTA.docx; 2023-06-19 09:24:47
+098.0 - Pré-Paletização.docx; 2023-06-21 10:10:46
+099.0 - Problema no Programa de Remessa.docx; 2023-06-21 10:13:02
+100.0 - Problema para baixar o material via co27 ou BPE.docx; 2023-06-19 09:24:48
+101.0 - Problemas com a hierarquia de materiais.docx; 2023-06-19 09:24:48
+102.0 - Problemas para liberar OP.docx; 2023-06-19 09:24:48
+103.0 - Projetos com Controle de Disponibilidade.docx; 2023-06-19 09:24:48
+104.0 - Projetos com CPC47.docx; 2023-06-19 09:24:48
+105.0 - Substituição na ordem de produção de material não a granel para material a granel.docx; 2023-06-19 09:24:49
+106.0 - Sobre o RS02.docx; 2023-06-19 09:24:49
+107.0 - Transferir material de estoque de projeto para livre.docx; 2023-06-19 09:24:49
+108.0 - Verificações para materiais sem hierarquia de cotas.docx; 2023-06-19 09:24:50
+109.0 - Verificar Configurador VC.docx; 2023-06-19 09:24:51
+110.0 - Verificar materiais faltantes.docx; 2023-06-19 09:24:51
+111.0 - Manual de fechamento alterandores.docx; 2023-06-20 08:00:10
+112.0 Liberação de ordens - Caldeiraria.docx; 2023-07-07 09:59:40
+113. Emitir NF para retirada de caçamba de efluente.docx; 2023-11-17 14:27:15
+114.0 - APONTAMENTOS USINAGEM E CALDEIRARIA.docx; 2024-02-13 13:19:20
+114.1 - CONFERÊNCIA DE APONTAMENTO NAS ORDENS DE MONTAGENS.docx; 2024-02-13 13:19:35
+114.2 - APONTAMENTO BOBINAGEM, MONTAGEM E ALTERNADORES.docx; 2024-02-13 13:19:46
+115.0 - Devolução de embalagens para IR.docx; 2024-02-13 13:19:56
+116.0 - Faturamento de materiais subcontratados.docx; 2024-02-13 13:20:07
+116.1 - Faturamento pulmão.docx; 2024-02-13 13:20:19
+117.0 - Apontar máquina.docx; 2024-02-13 13:20:31
+118.0 - Transferência de projeto e depósito.docx; 2024-02-13 13:20:47
+119.0 - Encerrar operações da fábrica.docx; 2024-02-13 13:21:01
+120.0 - Picking MI.docx; 2024-02-13 13:21:10
+120.1 - Picking ME.docx; 2024-02-13 13:21:19
+120.2 - Picking MI - GTA.docx; 2024-02-13 13:21:43
+121.0 - Cadastrar material no depósito 310.docx; 2024-02-13 13:21:57
+122.0 - Expedir TRADE.docx; 2024-02-13 13:22:07
+132.0  - Envio de material pra WSB.docx; 2024-02-13 13:22:16
+133.0 - Alterar Centro de Produção e de Lucro Para Maquinas em WSB.docx; 2024-05-03 15:40:11
+fluxograma e detalhes sobre cada etapa da PCR utilizada para modificação de produto.docx; 2024-05-21 09:26:05.985375
+MANUAL EXPLICATIVO DO KANBAN ELETRÔNICO.docx; 2024-03-20 08:11:27.321357
+Procedimento  Geradores Exportação.docx; 2024-04-16 22:42:48
+
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Projetos_Python\entregas-transjoi\hist_exec:
 101027-cnpj07175725002103.txt; 2024-02-15 16:16:46.413779
 111456-cnpj07175725002103.txt; 2024-02-15 13:44:36.956356
@@ -14661,12 +15184,12 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Projetos_Python\entregas-transjoi\hi
 896965-cnpj07175725002103.txt; 2024-02-28 18:40:37.561211
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Verificação Diária:
-AtualizaNordex.xlsm; 2024-05-20 08:03:55.611953
-Bobinas.txt; 2024-05-20 07:58:37.384280
-Estator.txt; 2024-05-20 07:59:02.497253
+AtualizaNordex.xlsm; 2024-05-22 02:23:18.518126
+Bobinas.txt; 2024-05-22 01:45:37.587773
+Estator.txt; 2024-05-22 01:46:02.957055
 NORDEX.txt; 2024-05-20 07:59:50.388162
 Projetos para apagar.txt; 2024-05-16 08:19:46.531081
-Rotor.txt; 2024-05-20 07:59:26.960566
+Rotor.txt; 2024-05-22 01:46:27.416065
 Verificar.xlsm; 2023-11-03 07:34:42.043223
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários:
@@ -14879,7 +15402,7 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\Vários\WSB Acasalamento:
 Dados WSB.txt; 2022-09-30 14:43:25.919767
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Robert\__Extras_Python:
-Relatorio.xlsm; 2024-05-17 07:00:31.518501
+Relatorio.xlsm; 2024-05-22 07:00:15.736728
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Rogerio:
 ACOMPANHAMENTO PROJETOS (002).XLSM; 2023-02-03 18:24:49.972767
@@ -15500,6 +16023,7 @@ Como liberar workflow.docx; 2023-05-10 15:51:02.420284
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\RPA_03_02_03_001_Ampliar Material:
 Material - Classe.xlsm; 2024-05-20 08:47:15.869121
 Material Ampliação  1100- Classe.xlsm; 2022-11-04 12:33:54.501018
+~$Material - Classe.xlsm; 2024-05-22 10:33:13.122505
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\RPA_03_02_03_001_Ampliar Material\RPA:
 Material - Classe.xlsm; 2022-07-20 08:58:15.168371
@@ -15860,6 +16384,9 @@ Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Reunião Mensal\2023\12 - 2023:
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Reunião Mensal\2024\04-2024:
 11 - Planejamento Montagens.xlsm; 2024-04-15 12:52:00
+
+Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\Reunião Mensal\2024\05-2024:
+01-Acompanhamento de Carteira e ROL - PWQP da WEG Energia - Ano Corrente.pdf; 2024-05-22 10:14:01.974759
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Thiago\RI:
 RI 85496 Analista Planejamento Produção WEN Thiago.docx; 2022-06-16 11:41:56.926520
@@ -16370,7 +16897,7 @@ Materiais pendentes montagem.docx; 2022-10-13 12:37:21.509183
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Turbinas\Serviços\Ado Popinhak:
 Cronograma_Ado_Popinhak.pdf; 2023-02-03 10:11:38.505796
 Cronograma_Rotores_Popinhak.pdf; 2023-09-25 16:16:56.827333
-PCH Ado Popinhak - Rotor Kaplan 4 pás - 18-04-2024.pdf; 2024-04-18 19:43:15.755741
+PCH Ado Popinhak - Rotor Kaplan 4 pás - 21-05-2024.pdf; 2024-05-21 11:04:19.819994
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\Turbinas\Serviços\Braço do Norte:
 Braço do Norte.pdf; 2023-09-20 16:03:45.098766
@@ -16539,7 +17066,7 @@ ordens kits 2021.txt; 2023-04-18 15:07:29.636002
 ordens kits 2022.txt; 2023-04-18 14:51:54.671872
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS:
-Dashboard.pbix; 2024-05-15 16:44:30.420015
+Dashboard.pbix; 2024-05-21 08:28:52.692152
 
 Q:\GROUPS\BR_SC_JGS_WM_LOGISTICA\PCP\WMS\WMS 2022\Info:
 Semana 26.pdf; 2022-07-01 16:24:54.879131
